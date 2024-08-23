@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<filename>防具名.fmg</filename>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="0">%null%</text>
+<text id="103000">Memória Original: Lobo</text>
+<text id="303000">Outra Memória: Shura</text>
+<text id="403000">Outra Memória: Ashina</text>
+<text id="503000">Outra Memória: Tengu</text>
+</entries>
+</fmg>

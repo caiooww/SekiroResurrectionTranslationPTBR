@@ -1,0 +1,515 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<filename>武器説明.fmg</filename>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">%null%</text>
+<text id="2">%null%</text>
+<text id="5000">&lt;?null?&gt;</text>
+<text id="5100">Arte de combate retalhadora que pode acertar vários inimigos de uma vez.
+
+O corte aliado à força do giro pode atingir múltiplos oponentes e causar dano mesmo em posição de defesa.
+
+Uma técnica shinobi autêntica para abrir caminho ao se ver cercado.</text>
+<text id="5200">Arte de combate retalhadora que consiste em um salto giratório descendente. Pode aproximá-lo ou afastá-lo do oponente em um instante.
+
+Técnica do clã Noitibó, shinobis que servem Ashina. Os noitibós usam o peso de seus shurikens para adicionar força ao golpe. A prótese shinobi é feita de aço pesado, e pode ser usada de forma parecida.</text>
+<text id="5201">Arte de combate retalhadora na qual você gira enquanto salta. Pode cobrir grandes distâncias ou afastá-lo dos inimigos. 
+O Corte Noitibó salta para frente com um giro reverso, tornando-a uma habilidade simultaneamente ofensiva e defensiva. 
+
+Aproxime-se, ataque e salte para longe. Este estilo de batalhar foi o que concedeu ao clã dos noitibó o seu nome.</text>
+<text id="5300">Arte de combate que executa um golpe de espada sobre a cabeça. Causa dano à postura e recupera sua própria postura com um passo firme para frente.
+
+Não é nada mais que um ataque brutal sobre a cabeça, mas o domínio dessa técnica é o cerne da força do estilo Ashina. Ao ser dominada, ela pode ser melhorada.</text>
+<text id="5301">Arte de combate que adiciona um golpe subsequente de espada sobre a cabeça após o Ichimonji. Causa dano à postura e recupera a sua postura com um passo firme para frente.
+
+O ataque subsequente é útil por prevenir contra-ataques inimigos. O Ichimonji de Ashina é aperfeiçoado com esse golpe.</text>
+<text id="5400">Arte de combate que realiza um corte em alta velocidade a partir da postura de espada embainhada. Carregue para lançar ondas de vento. Seu uso custa brasões espirituais.
+
+Quando jovem, Isshin era um demônio com a espada, passando seus dias em busca de combates mortais. Ele costumava ponderar sobre como executar seus ataques, mas sua lâmina sempre se movia primeiro.</text>
+<text id="5500">Arte de combate que realiza um ataque em alta velocidade a partir da posição de espada embainhada. Seu uso custa brasões espirituais.
+
+Manter uma postura firme permite contra-atacar num piscar de olhos. Como técnica secreta do estilo Ashina, foi aperfeiçoada para matar com rapidez. Sua intensidade é tal que pode até cortar o braço de um Shura - é o que diz Isshin Ashina.</text>
+<text id="5600">Arte de combate que lança uma série de ataques que confundem o inimigo com seus movimentos de coreografia.
+
+Apesar de ser uma arte de Ashina, é considerada herege, pois foi ensinada por uma forasteira. Sua mestra atravessou a Passagem Flutuante e desceu até Ashina. Seu nome era Tomoe.</text>
+<text id="5601">Passagem de Nuvens Espirais é uma arte de combate desenvolvida para lançar ondas de vento. Seu uso custa brasões espirituais.
+
+O nome advém de um grande turbilhão de nuvens que se forma perto da nascente, a Espiral da Nascente. Tomoe via seu jovem mestre fitando saudosamente as nuvens espirais. Essa imagem era tudo para ela.</text>
+<text id="5700">Arte de combate que usa a Lâmina Mortal. Seu uso custa brasões espirituais. Com um lampejo, a lâmina retalha inimigos deixando uma névoa avermelhada nociva. A névoa estende o alcance da lâmina.
+
+Uma técnica que usa a lâmina que não pode ser empunhada é um feito que apenas o juramentado do Herdeiro Divino pode alcançar.</text>
+<text id="5701">Arte de combate com a Lâmina Mortal. Seu uso custa brasões espirituais.
+
+Concentre-se ao sacar a Lâmina Mortal e obtenha poder extra, resultando em um corte com mais alcance. Técnica que usa a lâmina que não pode ser empunhada e apenas o juramentado do Herdeiro Divino pode executar.</text>
+<text id="5800">Arte de combate em que uma série de ataques é iniciada com um chute alto. Um contra-ataque útil contra ataques amplos e aéreos, seguido de uma combinação de chutes.
+
+Técnica refinada pelos reclusos de Senpo. De acordo com suas práticas, o domínio do chute alto prova que a iluminação foi alcançada.</text>
+<text id="5801">Técnica secreta do estilo de combate Senpo, iniciada com o chute alto.
+
+Um estado iluminado liberta a mente, possibilitando ataques fluidos repetidos.
+
+A forma assumida pela técnica depende do estado mental do seu usuário. Para o Lobo, nada mais natural que o uso de sua estimada espada Kusabimaru.</text>
+<text id="5900">Arte de combate que usa golpes de cotovelo e palmas. Faça uma série de ataques, causando dano e prevenindo contra-ataques. Os golpes são tanto arte marcial como oração. Sem força, não é possível derrotar os inimigos de Buda. Monges guardam essas palavras em seus lábios, enquanto oram, golpeiam e acumulam feitos virtuosos.</text>
+<text id="5901">Arte de combate que adiciona um ataque finalizador aos Golpes Hieráticos.
+
+Lance uma série de ataques enquanto impede o movimento inimigo, e então finalize com um poderoso golpe corporal. Monges Senpo usavam a técnica como forma de se purificar de desejos mundanos. Outras paixões vis, contudo...</text>
+<text id="6000">Arte de combate criada pelo grande shinobi. É a técnica secreta do estilo de combate shinobi.
+
+Faça uma investida de longo alcance e então use o oponente empalado como plataforma. Seja como uma coruja na caça e suba aos céus após perfurar sua presa. Brasões espirituais são consumidos ao saltar.</text>
+<text id="6001">Evolução do Impulso Sombrio, esta é uma técnica secreta do estilo composto Ashina Mushin. A Queda Sombria é um corte em redemoinho descendente que pode ser realizado após saltar de um inimigo com o Impulso Sombrio. Perfure, voe e mergulhe. Voar pelos céus é o que significa ser uma coruja. Pular a partir de um inimigo consome brasões.</text>
+<text id="6100">Arte de combate que desfere uma tempestade de ataques a partir da posição de espada embainhada. É tão rápido que a lâmina fica invisível. Custa brasões espirituais para usar. Deve-se focar sua alma no desembainhar da lâmina e nada mais, através disso, a velocidade dos ataques será sobrenatural. Somente alguém tão talentoso quanto Isshin seria capaz de executá-la.</text>
+<text id="7000">Arte de combate retalhadora na qual você gira enquanto salta. Pode cobrir grandes distâncias ou afastá-lo dos inimigos. 
+O Corte Noitibó salta para frente com um giro reverso, tornando-a uma habilidade simultaneamente ofensiva e defensiva. 
+
+Aproxime-se, ataque e salte para longe. Este estilo de batalhar foi o que concedeu ao clã dos noitibó o seu nome.</text>
+<text id="7100">Arte de combate que adiciona um golpe subsequente de espada sobre a cabeça após o Ichimonji. Causa dano à postura e recupera a sua postura com um passo firme para frente.
+
+O ataque subsequente é útil por prevenir contra-ataques inimigos. O Ichimonji de Ashina é aperfeiçoado com esse golpe.</text>
+<text id="7200">Passagem de Nuvens Espirais é uma arte de combate desenvolvida para lançar ondas de vento. Seu uso custa brasões espirituais.
+
+O nome advém de um grande turbilhão de nuvens que se forma perto da nascente, a Espiral da Nascente. Tomoe via seu jovem mestre fitando saudosamente as nuvens espirais. Essa imagem era tudo para ela.</text>
+<text id="7300">Arte de combate com a Lâmina Mortal. Seu uso custa brasões espirituais.
+
+Concentre-se ao sacar a Lâmina Mortal e obtenha poder extra, resultando em um corte com mais alcance. Técnica que usa a lâmina que não pode ser empunhada e apenas o juramentado do Herdeiro Divino pode executar.</text>
+<text id="7400">Técnica secreta do estilo de combate Senpo, iniciada com o chute alto.
+
+Um estado iluminado liberta a mente, possibilitando ataques fluidos repetidos.
+
+A forma assumida pela técnica depende do estado mental do seu usuário. Para o Lobo, nada mais natural que o uso de sua estimada espada Kusabimaru.</text>
+<text id="7500">Arte de combate que adiciona um ataque finalizador aos Golpes Hieráticos.
+
+Lance uma série de ataques enquanto impede o movimento inimigo, e então finalize com um poderoso golpe corporal. Monges Senpo usavam a técnica como forma de se purificar de desejos mundanos. Outras paixões vis, contudo...</text>
+<text id="7600">Evolução do Impulso Sombrio, esta é uma técnica secreta do estilo composto Ashina Mushin. A Queda Sombria é um corte em redemoinho descendente que pode ser realizado após saltar de um inimigo com o Impulso Sombrio. Perfure, voe e mergulhe. Voar pelos céus é o que significa ser uma coruja. Pular a partir de um inimigo consome brasões.</text>
+<text id="7700">Arte de combate que cria impulso em uma série de cortes e saltos que pode ser transacionada em técnicas aéreas com a prótese. 
+Custa Brasões espirituais para usar.
+Uma arte secreta do Caminho de Tomoe, que é realizada por ela em homenagem a seu mestre.
+As flores de cerejeira cairão em breve. Se você não pode voltar para casa, pelo menos permita que essa dança lhe console.</text>
+<text id="70000">Uma ferramenta prostética composta de uma roda de shurikens encaixada na prótese shinobi. Seu uso custa brasões espirituais.
+
+Arremesse uma shuriken carregada na roda em um alvo realizando um único movimento fluído. A shuriken arremessada causa dano à vitalidade e à postura de inimigos; especialmente eficaz contra aqueles que tendem a mover-se pelos ares.</text>
+<text id="70100">Shuriken aprimorada que pode ser fortalecida com energia de rotação.
+Seu uso custa brasões espirituais.
+
+Causa dano à vitalidade e à postura do inimigo e causa alto dano a inimigos em meio a um salto. Torcer o mecanismo de mola e acumular energia de rotação faz com que a lâmina gire após acertar, causando dano ao inimigo múltiplas vezes. Similar a um pião, porém com lâminas.</text>
+<text id="70200">Shuriken aprimorada que perfura inimigos com suas lâminas. Seu uso custa brasões espirituais.
+
+As lâminas perfurantes retêm o impulso após acertarem, causando dano à vitalidade e à postura mesmo se defendidas. Carregar o mecanismo e acumular energia de rotação faz com que a lâmina gire após acertar, atingindo o inimigo múltiplas vezes.</text>
+<text id="70300">Kunai da Senhora Borboleta acoplada na roda de shurikens. Custa brasões espirituais para usar.
+
+Cria um som especial ao ser arremessada, fazendo borboletas fantasmas seguirem o trajeto da kunai. As borboletas perseguem inimigos e causam dano mesmo quando defendidas.</text>
+<text id="70400">Ferramenta prostética que dispara moedas. Seu uso custa sens e brasões espirituais. Embora lhe falte o alcance das shurikens, causa muito mais dano, pois as moedas acertam múltiplas vezes. 
+
+A quantidade de moedas atiradas depende de quanto dinheiro se possui. Ser rico torna o disparo incrivelmente forte, mas uma bolsa vazia só dispara poeira.</text>
+<text id="70500">Shuriken abençoada com a graça do Lápis-lazúli da Nascente. Custa brasões espirituais para usar.
+
+Seu gume perfurante causa muito dano à vitalidade e à postura do inimigo, mesmo em posição de defesa. Essas lâminas não perdem velocidade, mesmo após acertar um inimigo. O rastro de luz azul emitido lembra o de uma estrela-cadente.</text>
+<text id="71000">Ferramenta prostética equipada com as bombinhas de Robert. Custa brasões espirituais.
+
+Libera um clarão explosivo que cega temporariamente oponentes e causa dano à postura de inimigos do tipo animal. Tem um campo de efeito frontal amplo, que pode afetar vários adversários. Adequado para imobilizar inimigos por um tempo e assustar monstros.  </text>
+<text id="71100">Bombinha melhorada com mecanismo de mola. Seu uso custa brasões espirituais.
+
+Libera uma explosão e um clarão que fazem os oponentes recuar, além de causar dano à postura de inimigos do tipo animal. Carregar o mecanismo de mola adiciona energia rotacional ao espalhar as bombinhas, afetando inimigos em todas as direções.</text>
+<text id="71200">Bombinha melhorada que usa pólvora composta. Seu uso custa brasões espirituais.
+
+Dizem que a pólvora composta tem uma faísca duradoura, e ao aumentar a proporção de pólvora negra, o efeito pode ser prolongado por mais tempo do que uma bombinha normal. As chamas das bombinhas se erguem por um curto período.</text>
+<text id="71300">Bombinha melhorada que usa uma pólvora composta roxa que produz fumaça. Seu uso custa brasões espirituais.
+
+A pólvora composta modificada é conhecida como "Faísca de fumaça púrpura". A adição de pedaços de cera gordurosa atrasa ligeiramente a explosão. Os inimigos cegos pela explosão recebem mais dano de vitalidade e postura por um tempo.</text>
+<text id="72000">Ferramenta prostética feita a partir de um cano flamejante anexado. Seu uso custa brasões espirituais.
+
+Causa dano de fogo a inimigos através de uma explosão e também aplica a alteração de estado "Queimadura". É difícil controlar a fúria dos "Olhos Vermelhos" através do poder do homem apenas. Mas aquilo que eles mais temem é fogo. Esta ferramenta possui o poder para fazê-los estremecer.</text>
+<text id="72100">Cano de fogo equipado com um mecanismo à pólvora. Seu uso custa brasões espirituais.
+
+Causa dano a inimigos com chamas intensas, infligindo a alteração de estado "Queimadura".
+
+O mecanismo de mola pode ser carregado para lançar o inimigo pelos ares com uma explosão.</text>
+<text id="72200">Cano que contém resina fumegante como catalisador explosivo. Seu uso custa brasões espirituais.
+
+Emite uma explosão de fogo à curta distância. O dano de fogo contínuo aplica a alteração de estado "Queimadura". Ele consegue manter um fluxo contínuo de fogo devido à resina fumegante no mecanismo do tubo.</text>
+<text id="72300">Cano flamejante com a graça do Lápis-lazúli da Nascente. Seu uso custa brasões espirituais.
+
+Inflige dano até mesmo em aparições com sua ardente chama roxa. Essa chama, no entanto, não causa a alteração de estado "Queimadura". O fogo sagrado do Lápis-lazúli é divino. Purifica o ódio profundo com fogo.</text>
+<text id="73000">Ferramenta prostética carregada com um machado shinobi pesado. Custa brasões espirituais para usar.
+
+A força do machado anexado está em seu peso.
+
+Um golpe pode facilmente estraçalhar um escudo de madeira ou desfazer a postura de um inimigo.</text>
+<text id="73100">Machado anexado que conta com um mecanismo de mola. Custa brasões espirituais para usar.
+
+A força do machado anexado está em seu peso. Ele permite ao usuário transpor ataques inimigos e pode facilmente transformar escudos de madeira em lascas. Armazenar e liberar energia em seu mecanismo de mola permite efetuar ataques amplos apesar do peso do machado.</text>
+<text id="73200">Machado anexado com um martelo de percussão para criar chamas. Custa brasões espirituais para usar.
+
+Distribui ataques envoltos em chamas. Ativar o martelo de percussão gera uma erupção de chamas e aumenta a área do ataque. Ele é tanto um machado pesado, como uma arma de fogo.</text>
+<text id="73300">Machado anexado abençoado com a graça do Lápis-lazúli da Nascente. Seu uso custa brasões espirituais.
+
+A lâmina azul causa dano até a inimigos em posição de defesa. O som da lâmina de lápis-lazúli acertando o alvo cria uma forte reverberação, capaz de dissipar ilusões inimigas.</text>
+<text id="74000">Ferramenta prostética equipada com a pena de Corvo da Névoa. Custa brasões espirituais para usar.
+
+Ao ser atacado, desapareça como a névoa e se mova para longe.
+
+Quando você acha que capturou um, tudo que resta são penas. Essa é a marca do verdadeiro Corvo da Névoa.</text>
+<text id="74100">Penas de Corvo da Névoa com entalhes nas pontas. Seu uso custa brasões espirituais.
+
+Desapareça como a névoa e afaste-se. Podem ser usadas tanto na postura normal como após receber dano. Os pequenos entalhes nas pontas das penas dão a aparência de um velho Corvo da Névoa. Eles estão lá para facilitar ainda mais a dissolução na névoa. </text>
+<text id="74200">Penas de Corvo da Névoa, misturadas a penas escarlates. Seu uso custa brasões.
+
+Desapareça como a névoa e afaste-se. Podem ser usadas tanto na postura normal como após receber dano. As penas escarlates lembram o Grande Corvo da Névoa e deixam um rastro de chamas para trás. O Grande Corvo é o deus da terra, e deuses poupam a poucos.</text>
+<text id="75000">Uma ferramenta prostética feita com a lâmina Sabimaru, possibilitando desferir ataques rápidos. Seu uso custa brasões espirituais. A ferrugem azulada venenosa da espada Sabimaru aplica a alteração de estado "Veneno".
+
+Brandida antigamente, a ferrugem azul da espada foi usada para repelir as desumanas guerreiras Okamis. Mesmo agora, é provável que seja eficaz contra suas descendentes.</text>
+<text id="75100">Sabimaru melhorada com um mecanismo especial para liberar a lâmina. Seu uso custa brasões espirituais.
+
+Devido ao mecanismo revisado, é possível alternar fluidamente entre dois conjuntos de ataques conforme o desejado. O veneno da ferrugem azul da lâmina corrói a defesa inimiga e inflige a alteração de estado "Veneno".</text>
+<text id="75200">Sabimaru melhorada com uma lâmina primorosamente afiada. Seu uso custa brasões espirituais.
+
+Uma sequência de ataques com essa lâmina lacera a vitalidade e a postura do inimigo, mesmo se ele estiver se defendendo. O veneno da ferrugem azul da lâmina corrói a defesa inimiga e inflige a alteração de estado "Veneno".</text>
+<text id="75300">Uma Sabimaru abençoada com a graça do Lápis-lazúli da Nascente. Seu uso custa brasões espirituais.
+
+A combinação do lápis-lazúli com a lâmina com ferrugem azulada produz uma névoa venenosa a cada movimento. Dissolver o lápis-lazúli na lâmina fez a antiga ferrugem azulada borbulhar sobre a superfície da lâmina.</text>
+<text id="76000">Ferramenta prostética criada ao anexar um guarda-chuva de ferro a uma prótese. Seu uso custa brasões espirituais.
+
+Quando aberto, ele defende ataques de todas as direções. Mantenha-o aberto quando em movimento para se proteger de ataques leves. Mas este guarda-chuva não protegerá você de ataques baixos.</text>
+<text id="76100">Guarda-chuva anexado aprimorado com um mecanismo magnético. Seu uso custa brasões espirituais.
+
+Quando aberto, defende ataques de todas as direções. Mantenha-o aberto quando em movimento para se proteger de ataques leves. Possui um cabo magnético que o torna quase indestrutível. Ataques inimigos são repelidos ao girar o guarda-chuva.</text>
+<text id="76200">Guarda-chuva anexado com o brasão de um pássaro vermelho. Seu uso custa brasões espirituais.
+
+Quando aberto, ele defende ataques de todas as direções. Mantenha-o aberto quando em movimento para se proteger de ataques leves. A bênção do pássaro vermelho protege contra ataques de fogo e impede o avanço da alteração de estado "Queimadura".</text>
+<text id="76300">Guarda-chuva anexado com o brasão de uma fênix roxa azulada. Seu uso custa brasões espirituais.
+
+Quando aberto, ele defende ataques de todas as direções. Mantenha-o aberto quando em movimento para se proteger de ataques leves. A bênção da fênix preenche o guarda-chuva, protegendo contra ataques de inimigos do tipo aparição.</text>
+<text id="77000">Uma ferramenta prostética equipada com um grande leque. Custa brasões espirituais para usar.
+
+Reúne e libera uma rajada de vento, forçando o inimigo atingido por ela a dar meia-volta. É um tipo de rajada da qual é possível retornar rapidamente. Porém, dizem que só é possível retornar uma vez. Se for levado novamente, não há mais retorno.</text>
+<text id="77100">Grande leque que cria um vórtice de vento. Custa brasões espirituais para usar.
+
+Reúne e libera uma rajada de vento, forçando o inimigo atingido por ela a dar meia-volta. Pode ser abanado duas vezes seguidas. É um tipo de rajada da qual é possível retornar rapidamente. Porém, dizem que só é possível retornar uma vez. Se for levado novamente, não há mais retorno.</text>
+<text id="77200">Leque dourado grande e desgastado. Seu uso custa brasões espirituais.
+
+Reúna rajadas do ilustre vento dourado e libere-as para forçar inimigos pegos no vórtice a darem meia-volta. O movimento pode ser feito duas vezes seguidas. Inimigos atingidos derrubam itens ou dinheiro, considere-os como "doações".</text>
+<text id="78000">Ferramenta prostética anexada com o chifre quebrado de Oniwa. Seu uso custa brasões espirituais.
+
+Desfere investidas de grande alcance. Inimigos leves atingidos pela lança podem ser puxados em direção ao usuário. É capaz de arrancar armaduras rudimentares de inimigos. "Destruição de armaduras" era uma técnica famosa de Gyoubu Oniwa.</text>
+<text id="78100">Lança anexada reforçada com um mecanismo de mola. Custa brasões espirituais para usar.
+
+Permite investidas de longo alcance. Inimigos leves atingidos podem ser arrastados para perto do portador. É capaz de remover armaduras rudimentares dos inimigos. Acumular energia no mecanismo de mola possibilita fortes investidas.</text>
+<text id="78200">Lança anexada reforçada com um mecanismo de mola aprimorado. Seu uso custa brasões espirituais.
+
+Permite investidas de longo alcance. Inimigos leves atingidos podem ser arrastados para perto do portador. É capaz de remover armaduras rudimentares de inimigos. Acumular energia no mecanismo libera um poderoso ataque.</text>
+<text id="78300">Lança anexada que tem uma espiral entalhada na lâmina. Seu uso custa brasões espirituais.
+
+Investidas acentuadas com essa ferramenta prostética causam dano à vitalidade e à postura do inimigo, mesmo se ele estiver se defendendo. A espiral da lança cria uma onda de choque em redemoinho que atravessa os inimigos.</text>
+<text id="78400">Lança anexada com um martelo de percussão para a criação de chamas. Seu uso custa brasões espirituais.
+
+Envolva a ponta da lança em chamas para torná-la tanto uma lança afiada como uma arma de fogo. Um ataque carregado dela pode derrubar e consumir o inimigo em chamas.</text>
+<text id="79000">Ferramenta prostética criada acoplando-se um dedo esguio à prótese. Seu uso custa brasões espirituais.
+
+Seu som chama a atenção do inimigo, atraindo-o para o local do barulho. Ao marcar um alvo, somente o inimigo marcado ouvirá o apito. O som do apito de dedo enfurece monstros, tornando-os incapazes de distinguir aliados de inimigos. </text>
+<text id="79100">Um apito de dedo que pode criar um efeito de eco. Seu uso custa brasões espirituais.
+
+Seu som chama a atenção do inimigo, atraindo-o para o local do barulho. Ao marcar um alvo, somente o inimigo marcado ouvirá o assobio. Ao respirar fundo antes de assoprar o apito, você poderá gerar um som tardio.</text>
+<text id="79200">Apito de dedo reforçado com o anel do malcontente. Seu uso custa brasões espirituais. Pode ser usado para enfurecer monstros e atormentar inimigos do tipo aparição.
+
+O nome "martim-pescadora" está gravado nele. Ouvia-se o lamento dela na orla do Vale Submerso. Agora, ela já não chora mais.</text>
+<text id="110000">-</text>
+<text id="200000">Arte marcial shinobi que permite aproveitar o impulso do Gancho para realizar um ataque com a espada.
+
+A prótese shinobi é a ferramenta perfeita para reduzir o excesso de movimentos ao combinar impulso e ataque.</text>
+<text id="200100">Arte marcial shinobi que permite defender ou repelir ataques inimigos no ar.
+
+Armas de fogo e outras armas com projéteis causam dano adicional em alvos aéreos, e esta técnica serve para prevenir esse dano.
+
+Um shinobi não é derrubado com tanta facilidade.</text>
+<text id="200200">Arte marcial shinobi que possibilita o uso de ferramentas prostéticas no ar.
+
+A prótese shinobi é pesada, porque é feita de ferro e engrenagens. Apesar disso, ela pode ser usada no ar graças a técnicas do seu criador, Dogen, e ao treinamento do seu dono. Pode vir a calhar poder usar ferramentas prostéticas quando os pés não estão tocando o chão.</text>
+<text id="200300">Arte marcial shinobi que contra-ataca investidas inimigas, causando dano à postura. Perceber a velocidade de uma investida é quase impossível, mas não para um shinobi. Use-a para pisar na arma do inimigo e contra-ataque. O Mikiri requer uma sincronia impecável. Um erro pode levar à morte, mas o mesmo se aplica a seu inimigo.</text>
+<text id="200400">Arte marcial shinobi usada para fins de furtividade. Deslize até assumir uma posição agachada enquanto estiver correndo.
+
+Atravesse uma área correndo e deslize para dentro de um abrigo ou outro lugar escondido.
+
+Esta manobra engana facilmente os olhos de um inimigo.</text>
+<text id="200500">Arte marcial shinobi que possibilita o uso de artes de combate no ar.
+
+Reduza a distância com um pulo ou desvie de um ataque amplo e desfira um ataque de artes de combate.
+
+A arte marcial perfeita para batalhas shinobi onde os pés raramente tocarão o chão.</text>
+<text id="200600">Arte marcial shinobi que permite que se salte por cima e para trás de inimigos com a postura quebrada.
+
+Essa técnica de artes marciais permite o uso de golpes mortais pelas costas durante uma batalha, mesmo sem usar furtividade.
+
+É esperado que um shinobi possua alguns truques especiais para combate a curta distância também.</text>
+<text id="210000">Arte de combate que executa um giro cortante.
+
+Este corte afiado pode atravessar facilmente múltiplos inimigos e causar dano a suas defesas.
+
+Quando estiver cercado, use este ataque para abrir caminho.</text>
+<text id="211000">Arte de combate elaborada pelo Grande Shinobi. Desfira uma investida cortante de uma longa distância e use o oponente empalado como plataforma para saltar em direção aos céus.
+
+Voar para o céu após perfurar um inimigo é como as corujas caçam.
+
+Brasões espirituais são consumidos ao saltar.</text>
+<text id="301000">Arte marcial shinobi que realiza um corte com a espada avançando após o uso de certas ferramentas prostéticas.
+
+Uma ferramenta de longo alcance combinada com um Corte Perseguidor possibilita se aproximar dos inimigos rapidamente.
+Ferramentas prostéticas aplicáveis: &lt;?acquiredWeaponNameId@70000?&gt;, &lt;?acquiredWeaponNameId@71000?&gt;, &lt;?acquiredWeaponNameId@78000?&gt;.</text>
+<text id="301100">Após o uso de certas ferramentas prostéticas, essa arte marcial shinobi permite atacar utilizando a ferramenta e a espada simultaneamente, ou realizar um ataque subsequente com a ferramenta.
+
+Possibilita que se mate inimigos com a presa e a lâmina juntas.
+Ferramentas prostéticas aplicáveis:
+&lt;?acquiredWeaponNameId@73000?&gt;, &lt;?acquiredWeaponNameId@78000?&gt;, &lt;?acquiredWeaponNameId@74000?&gt;</text>
+<text id="301200">Arte marcial shinobi que, após usar uma ferramenta prostética, permite transferir o poder dela para a espada e liberá-lo para a frente.
+
+Cada cor de presa traz uma morte colorida diferente.
+
+Ferramentas prostéticas aplicáveis: &lt;?acquiredWeaponNameId@76000?&gt;, &lt;?acquiredWeaponNameId@79000?&gt;.</text>
+<text id="301300">Técnica secreta do estilo de combate prostético. Permite realizar um ataque subsequente com certas ferramentas que imbui a espada no efeito da ferramenta. O Escultor deixou para trás a prótese shinobi após desenvolver essa técnica. Ele foi longe demais, matou pessoas demais.
+Ferramentas prostéticas aplicáveis: &lt;?acquiredWeaponNameId@72000?&gt;, &lt;?acquiredWeaponNameId@77000?&gt;.</text>
+<text id="310000">Arte de combate que consiste em um salto giratório ofensivo. Pode fazer com que você se aproxime ou se afaste do oponente.
+
+É uma técnica do clã Noitibó, shinobis que servem Ashina. Os noitibós usam o peso de seus shurikens para adicionar força ao golpe. A prótese shinobi é feita de aço pesado, e pode ser usada de forma parecida.</text>
+<text id="310100">Arte de combate que consiste em um salto giratório ofensivo. Pode fazer com que você se aproxime ou se afaste rapidamente do oponente. Essa técnica permite decidir em qual direção girar ao usar o Corte Noitibó.
+
+Mergulhe, golpeie e fuja. Esse tipo de golpe deu ao clã dos noitibó seu nome.</text>
+<text id="410000">Arte de combate que executa um golpe de espada sobre a cabeça. Causa dano à postura e recupera sua própria postura com um passo firme para frente.
+
+Não é nada mais que um ataque brutal sobre a cabeça, mas o domínio dessa técnica é o cerne da força do estilo Ashina. Ao ser dominada, ela pode ser melhorada.</text>
+<text id="410100">Arte de combate que adiciona um golpe subsequente de espada sobre a cabeça após o Ichimonji. Causa dano à postura e recupera a sua postura com um passo firme para frente.
+
+O ataque subsequente é útil por prevenir contra-ataques inimigos. O Ichimonji de Ashina é aperfeiçoado com esse golpe.</text>
+<text id="411000">Arte de combate que realiza um ataque em alta velocidade a partir da posição de espada embainhada. Seu uso custa brasões espirituais.
+
+Manter uma postura firme permite contra-atacar num piscar de olhos. Como técnica secreta do estilo Ashina, foi aperfeiçoada para matar com rapidez. Sua intensidade é tal que pode até cortar o braço de um Shura - é o que diz Isshin Ashina.</text>
+<text id="510000">Arte de combate que usa golpes de cotovelo e palmas. Faça uma série de ataques, causando dano e prevenindo contra-ataques. Os golpes são tanto arte marcial como oração. Sem força, não é possível derrotar os inimigos de Buda. Monges guardam essas palavras em seus lábios, enquanto oram, golpeiam e acumulam feitos virtuosos.</text>
+<text id="510100">Arte de combate que adiciona um ataque finalizador aos Golpes Hieráticos.
+
+Lance uma série de ataques enquanto impede o movimento inimigo, e então finalize com um poderoso golpe corporal. Monges Senpo usavam a técnica como forma de se purificar de desejos mundanos. Outras paixões vis, contudo...</text>
+<text id="511000">Arte de combate em que uma série de ataques é iniciada com um chute alto. Um contra-ataque útil contra ataques amplos e aéreos, seguido de uma combinação de chutes.
+
+Técnica refinada pelos reclusos de Senpo. De acordo com suas práticas, o domínio do chute alto prova que a iluminação foi alcançada. Primeiro, chute. Só então o treino pode começar.</text>
+<text id="511100">Arte de combate que adiciona cortes de espada e chutes adicionais ao Chute Alto Senpo. É a técnica secreta do estilo Senpo. Ser iluminado faz a pessoa personificar Buda. A mente fica livre, permitindo uma rajada de ataques fluídos. A técnica não possui forma e os ataques podem variar de pessoa a pessoa. Para o Lobo, não é surpresa que ele dependa do presente de seu mestre para realizar esta técnica.</text>
+<text id="610100">Evolução do Impulso Sombrio, esta é uma técnica secreta do estilo composto Ashina Mushin. A Queda Sombria é um corte em redemoinho descendente que pode ser realizado após saltar de um inimigo com o Impulso sombrio. Perfure, voe e mergulhe. Voar pelos céus é o que significa ser uma coruja. Pular a partir de um inimigo consome brasões.</text>
+<text id="611100">Passagem de Nuvens Espirais é uma arte de combate desenvolvida para lançar ondas de vento. Seu uso custa brasões espirituais.
+
+O nome advém de um grande turbilhão de nuvens que se forma perto da nascente, a Espiral da Nascente. Tomoe via seu jovem mestre fitando saudosamente as nuvens espirais. Essa imagem era tudo para ela.</text>
+<text id="612100">Arte de combate com a Lâmina Mortal. Seu uso custa brasões espirituais.
+
+Concentre-se ao sacar a Lâmina Mortal e obtenha poder extra, resultando em um corte com mais alcance. Técnica que usa a lâmina que não pode ser empunhada e apenas o juramentado do Herdeiro Divino pode executar.</text>
+<text id="620000">Habilidade passiva que reduz a capacidade de um inimigo detectar aqueles em estado de furtividade.
+
+Outra técnica shinobi. Anular a própria presença é o que define um shinobi.</text>
+<text id="620100">Habilidade passiva que suprime ruídos de movimentação ao inibir a capacidade de um inimigo ouvir.
+
+Outra técnica shinobi. Mover-se em silêncio é o que define um shinobi.</text>
+<text id="630000">Habilidade passiva que aumenta a quantidade de sens e a frequência de itens liberados pelo inimigo.
+
+Conforme o sumo sacerdote do Templo Senpo... Deve-se focar apenas em feitos virtuosos e renunciar a pensamentos de acúmulo de riquezas.    </text>
+<text id="630100">Habilidade passiva que aumenta a quantidade de sens e a frequência de itens liberados pelo inimigo. 
+
+Conforme o sumo sacerdote do Templo Senpo... Deve-se focar apenas em feitos virtuosos e renunciar a pensamentos de acúmulo de riquezas.</text>
+<text id="640000">Habilidade passiva que aumenta o efeito de cura dos itens.
+
+Emma ensinou essa técnica ao Escultor há muito tempo.
+
+Memorizar o gosto melhora seus efeitos. Contudo, saber a técnica não deixa o gosto do remédio melhor.</text>
+<text id="640100">Habilidade passiva que aumenta o efeito de cura dos itens.
+
+Emma ensinou essa técnica ao Escultor há muito tempo.
+
+Sentir o aroma do remédio e memorizá-lo melhora seu efeito. Mas tenha em mente que ele continuará cheirando tão mal quanto.</text>
+<text id="640200">Habilidade passiva que aumenta o efeito de cura dos itens.
+
+Conhecimento medicinal é vital para a sobrevivência de um shinobi. Ferir-se em batalha é inevitável. A única maneira de aprender tal técnica é ser gravemente ferido várias e várias vezes por oponentes valorosos.</text>
+<text id="640300">Habilidade passiva que aumenta o efeito de cura dos itens.
+
+Às vezes, o shinobi pode sobreviver ao que seria morte certa para um guerreiro menos hábil. Para isso, conhecimento medicinal é vital. A única maneira de aprender tal técnica é ser gravemente ferido várias vezes por oponentes valorosos.</text>
+<text id="640400">Habilidade passiva que aumenta o efeito de cura dos itens.
+
+Um shinobi luta como um lobo solitário, sem a ajuda de outrem. Assim, conhecimento medicinal é vital. A única maneira de aprender tal técnica é ser gravemente ferido várias e várias vezes por oponentes valorosos.</text>
+<text id="650000">Habilidade passiva que aumenta o número máximo de brasões espirituais carregados.
+
+Brasões são manifestações de remorso. Os arrependidos de suas ações são assombrados por muitos brasões.
+
+O shinobi que muito mata deve pagar por esses pecados com o seu corpo.</text>
+<text id="650100">Habilidade passiva que aumenta o número máximo de brasões espirituais.
+
+Brasões são manifestações de remorso. Os arrependidos de suas ações são assombrados por muitos brasões.
+
+O shinobi que muito mata deve pagar por esses pecados com a sua mente.</text>
+<text id="650200">Habilidade passiva que aumenta o número máximo de brasões espirituais carregados.
+
+Brasões são manifestações de remorso. Os arrependidos de suas ações são assombrados por muitos brasões.
+
+A prótese shinobi é um instrumento envolto em pecado. O sangue derramado nela se transforma em ferrugem permanente, uma prova do fardo do usuário.</text>
+<text id="650300">Habilidade passiva que aumenta o número máximo de brasões espirituais carregados.
+
+Brasões são manifestações de remorso. Os arrependidos de suas ações são assombrados por muitos brasões.
+
+A prótese shinobi é um instrumento envolto em pecado. Seus pequenos cortes e cicatrizes são provas das inúmeras mortes que ela causou.</text>
+<text id="650400">Habilidade passiva que aumenta o número máximo de brasões espirituais que podem ser carregados.
+
+Brasões são remorsos. Os pesarosos de suas ações vis são assombrados por muitos brasões. Esse monstro deve ter sido incumbido com o carma de um homem. Herdar o destino dos que mataram também faz parte de ser um shinobi.</text>
+<text id="660000">Habilidade passiva que recupera vitalidade após um golpe mortal.
+
+Golpes mortais dão uma oportunidade de respirar.
+
+Um shinobi acalma corpo e mente ao respirar com calma, mesmo durante uma execução. Isso possibilita execuções contínuas, sem intervalos.</text>
+<text id="660100">Habilidade passiva que recupera vitalidade após um golpe mortal bem-sucedido.
+
+Golpes mortais dão aos shinobi uma oportunidade de respirar.
+
+Batalhar com oponentes poderosos aumenta ainda mais esse momento de alívio.</text>
+<text id="660200">Habilidade passiva que recupera postura após um golpe mortal.
+
+O estilo Ashina incorpora medidas para se lutar em grande desvantagem numérica. Após um abate, é preciso se manter em um estado de alerta contínuo, expirando profundamente para firmar o corpo e a mente.</text>
+<text id="660300">Habilidade passiva que recupera a postura após um golpe mortal bem-sucedido. Um shinobi deve estar preparado para lutar contra inimigos em maior número. Após matar um inimigo, é preciso expirar para expulsar o remorso, reafirmar seu centro e recuperar a postura. Enfrentar oponentes mais fortes aumenta mais esse momento de alívio.</text>
+<text id="660400">Habilidade passiva que aumenta o dano causado à postura após um Contra-ataque Mikiri.
+
+Os olhos de um shinobi seguem a lâmina prevendo seus movimentos. Manter a compostura mesmo temendo o gume afiado é a chave da vitória.  </text>
+<text id="660500">Habilidade passiva que aumenta a quantidade de tempo de efeito de um confeito de queda espiritual.
+
+Devotos dedicados desfrutam de maiores bênçãos divinas.</text>
+<text id="660600">Habilidade passiva que aumenta o dano causado à postura após repelir um ataque.
+
+O estilo Ashina está arraigado ao fluxo da nascente. Acredita-se que o ato de conseguir repelir uma lâmina é comparável à ascensão da carpa por uma cascata.</text>
+<text id="660700">Habilidade passiva que, por alguns segundos após repelir um golpe, aumenta o dano à postura do inimigo.
+
+O estilo Ashina está arraigado ao fluxo da nascente. Acredita-se que o ato de conseguir repelir uma lâmina é comparável à descida da carpa por uma cascata.</text>
+<text id="660800">Habilidade passiva que reduz o dano à postura quando atacado por um inimigo com espada.
+
+Como os rios conhecidos pelo clã Ashina, a força não deve ser combatida com mais força, mas deve, em vez disso, ser redirecionada como o curso da água.</text>
+<text id="670000">Arte de combate que usa a Lâmina Mortal. Seu uso custa brasões espirituais. Com um lampejo, a lâmina retalha inimigos deixando uma névoa avermelhada nociva. A névoa estende o alcance da lâmina.
+
+Uma técnica que usa a lâmina que não pode ser empunhada é um feito que apenas o juramentado do Herdeiro Divino pode alcançar.</text>
+<text id="671000">Arte de combate que realiza um corte em alta velocidade a partir da postura de espada embainhada. Carregue para lançar ondas de vento. Seu uso custa brasões espirituais.
+
+Quando jovem, Isshin era um demônio com a espada, passando seus dias em busca de combates mortais. Ele costumava ponderar sobre como executar seus ataques, mas sua lâmina sempre se movia primeiro.</text>
+<text id="672000">Arte de combate que lança uma série de ataques que confundem o inimigo com seus movimentos de coreografia.
+
+Apesar de ser uma arte de Ashina, é considerada herege, pois foi ensinada por uma forasteira. Sua mestra atravessou a Passagem Flutuante e desceu até Ashina. Seu nome era Tomoe.</text>
+<text id="673000">Arte de combate que desfere uma tempestade de ataques a partir da posição de espada embainhada. É tão rápido que a lâmina fica invisível. Custa brasões espirituais para usar. Deve-se focar sua alma no desembainhar da lâmina e nada mais, através disso, a velocidade dos ataques será sobrenatural. Somente alguém tão talentoso quanto Isshin seria capaz de executá-la.</text>
+<text id="674000">Arte de combate que cria impulso em uma série de cortes e saltos que pode ser transacionada em técnicas aéreas com a prótese. 
+Custa Brasões espirituais para usar.
+Uma arte secreta do Caminho de Tomoe, que é realizada por ela em homenagem a seu mestre.
+As flores de cerejeira cairão em breve. Se você não pode voltar para casa, pelo menos permita que essa dança lhe console.</text>
+<text id="680000">Método secreto conhecido como "Técnica de respiração Mibu". Habilidade passiva que permite mergulhar e respirar debaixo d'água. Desenvolvida pelo fundador do vilarejo de Mibu. "Quem quiser se juntar ao cortejo deve dominar a respiração Mibu. Sem ela, não se pode encontrar o Dragão Divino."</text>
+<text id="681000">Arte marcial shinobi feita para deter qualquer inimigo saltando alto.
+
+Permite explorar a vulnerabilidade de um inimigo no ar pulando em sua direção e realizando um golpe mortal repentino.
+
+A habilidade perfeita para um shinobi que queira obter vantagem sobre inimigos no ar.  </text>
+<text id="690000">Técnica de combate desconhecida</text>
+<text id="690100">Melhoria de arte de combate desconhecida</text>
+<text id="690200">Arte marcial shinobi desconhecida</text>
+<text id="690300">Habilidade passiva desconhecida</text>
+<text id="690400">Técnica de combate secreta desconhecida</text>
+<text id="699000">Técnica de combate secreta desconhecida</text>
+<text id="701000">Shuriken aprimorada que pode ser fortalecida com energia de rotação.
+Seu uso custa brasões espirituais.
+
+Causa dano à vitalidade e à postura do inimigo e causa alto dano a inimigos em meio a um salto. Torcer o mecanismo de mola e acumular energia de rotação faz com que a lâmina gire após acertar, causando dano ao inimigo múltiplas vezes. Similar a um pião, porém com lâminas.</text>
+<text id="702000">Shuriken aprimorada que perfura inimigos com suas lâminas. Seu uso custa brasões espirituais.
+
+As lâminas perfurantes retêm o impulso após acertarem, causando dano à vitalidade e à postura mesmo se defendidas. Carregar o mecanismo e acumular energia de rotação faz com que a lâmina gire após acertar, atingindo o inimigo múltiplas vezes.</text>
+<text id="703000">Kunai da Senhora Borboleta acoplada na roda de shurikens. Custa brasões espirituais para usar.
+
+Cria um som especial ao ser arremessada, fazendo borboletas fantasmas seguirem o trajeto da kunai. As borboletas perseguem inimigos e causam dano mesmo quando defendidas.</text>
+<text id="704000">Ferramenta prostética que dispara moedas. Seu uso custa sens e brasões espirituais. Embora lhe falte o alcance das shurikens, causa muito mais dano, pois as moedas acertam múltiplas vezes. 
+
+A quantidade de moedas atiradas depende de quanto dinheiro se possui. Ser rico torna o disparo incrivelmente forte, mas uma bolsa vazia só dispara poeira.</text>
+<text id="705000">Shuriken abençoada com a graça do Lápis-lazúli da Nascente. Custa brasões espirituais para usar.
+
+Seu gume perfurante causa muito dano à vitalidade e à postura do inimigo, mesmo em posição de defesa. Essas lâminas não perdem velocidade, mesmo após acertar um inimigo. O rastro de luz azul emitido lembra o de uma estrela-cadente.</text>
+<text id="711000">Bombinha melhorada com mecanismo de mola. Seu uso custa brasões espirituais.
+
+Libera uma explosão e um clarão que fazem os oponentes recuar, além de causar dano à postura de inimigos do tipo animal. Carregar o mecanismo de mola adiciona energia rotacional ao espalhar as bombinhas, afetando inimigos em todas as direções.</text>
+<text id="712000">Bombinha melhorada que usa pólvora composta. Seu uso custa brasões espirituais.
+
+Dizem que a pólvora composta tem uma faísca duradoura, e ao aumentar a proporção de pólvora negra, o efeito pode ser prolongado por mais tempo do que uma bombinha normal. As chamas das bombinhas se erguem por um curto período.</text>
+<text id="713000">Bombinha melhorada que usa uma pólvora composta roxa que produz fumaça. Seu uso custa brasões espirituais.
+
+A pólvora composta modificada é conhecida como "Faísca de fumaça púrpura". A adição de pedaços de cera gordurosa atrasa ligeiramente a explosão. Os inimigos cegos pela explosão recebem mais dano de vitalidade e postura por um tempo.</text>
+<text id="721000">Cano de fogo equipado com um mecanismo à pólvora. Seu uso custa brasões espirituais.
+
+Causa dano a inimigos com chamas intensas, infligindo a alteração de estado "Queimadura".
+
+O mecanismo de mola pode ser carregado para lançar o inimigo pelos ares com uma explosão.</text>
+<text id="722000">Cano que contém resina fumegante como catalisador explosivo. Seu uso custa brasões espirituais.
+
+Emite uma explosão de fogo à curta distância. O dano de fogo contínuo aplica a alteração de estado "Queimadura". Ele consegue manter um fluxo contínuo de fogo devido à resina fumegante no mecanismo do tubo.</text>
+<text id="723000">Cano flamejante com a graça do Lápis-lazúli da Nascente. Seu uso custa brasões espirituais.
+
+Inflige dano até mesmo em aparições com sua ardente chama roxa. Essa chama, no entanto, não causa a alteração de estado "Queimadura". O fogo sagrado do Lápis-lazúli é divino. Purifica o ódio profundo com fogo.</text>
+<text id="731000">Machado anexado que conta com um mecanismo de mola. Custa brasões espirituais para usar.
+
+A força do machado anexado está em seu peso. Ele permite ao usuário transpor ataques inimigos e pode facilmente transformar escudos de madeira em lascas. Armazenar e liberar energia em seu mecanismo de mola permite efetuar ataques amplos apesar do peso do machado.</text>
+<text id="732000">Machado anexado com um martelo de percussão para criar chamas. Custa brasões espirituais para usar.
+
+Distribui ataques envoltos em chamas. Ativar o martelo de percussão gera uma erupção de chamas e aumenta a área do ataque. Ele é tanto um machado pesado, como uma arma de fogo.</text>
+<text id="733000">Machado anexado abençoado com a graça do Lápis-lazúli da Nascente. Seu uso custa brasões espirituais.
+
+A lâmina azul causa dano até a inimigos em posição de defesa. O som da lâmina de lápis-lazúli acertando o alvo cria uma forte reverberação, capaz de dissipar ilusões inimigas.</text>
+<text id="741000">Penas de Corvo da Névoa com entalhes nas pontas. Seu uso custa brasões espirituais.
+
+Desapareça como a névoa e afaste-se. Podem ser usadas tanto na postura normal como após receber dano. Os pequenos entalhes nas pontas das penas dão a aparência de um velho Corvo da Névoa. Eles estão lá para facilitar ainda mais a dissolução na névoa. </text>
+<text id="742000">Penas de Corvo da Névoa, misturadas a penas escarlates. Seu uso custa brasões.
+
+Desapareça como a névoa e afaste-se. Podem ser usadas tanto na postura normal como após receber dano. As penas escarlates lembram o Grande Corvo da Névoa e deixam um rastro de chamas para trás. O Grande Corvo é o deus da terra, e deuses poupam a poucos.</text>
+<text id="751000">Sabimaru melhorada com um mecanismo especial para liberar a lâmina. Seu uso custa brasões espirituais.
+
+Devido ao mecanismo revisado, é possível alternar fluidamente entre dois conjuntos de ataques conforme o desejado. O veneno da ferrugem azul da lâmina corrói a defesa inimiga e inflige a alteração de estado "Veneno".</text>
+<text id="752000">Sabimaru melhorada com uma lâmina primorosamente afiada. Seu uso custa brasões espirituais.
+
+Uma sequência de ataques com essa lâmina lacera a vitalidade e a postura do inimigo, mesmo se ele estiver se defendendo. O veneno da ferrugem azul da lâmina corrói a defesa inimiga e inflige a alteração de estado "Veneno".</text>
+<text id="753000">Uma Sabimaru abençoada com a graça do Lápis-lazúli da Nascente. Seu uso custa brasões espirituais.
+
+A combinação do lápis-lazúli com a lâmina com ferrugem azulada produz uma névoa venenosa a cada movimento. Dissolver o lápis-lazúli na lâmina fez a antiga ferrugem azulada borbulhar sobre a superfície da lâmina.</text>
+<text id="761000">Guarda-chuva anexado aprimorado com um mecanismo magnético. Seu uso custa brasões espirituais.
+
+Quando aberto, defende ataques de todas as direções. Mantenha-o aberto quando em movimento para se proteger de ataques leves. Possui um cabo magnético que o torna quase indestrutível. Ataques inimigos são repelidos ao girar o guarda-chuva.</text>
+<text id="762000">Guarda-chuva anexado com o brasão de um pássaro vermelho. Seu uso custa brasões espirituais.
+
+Quando aberto, ele defende ataques de todas as direções. Mantenha-o aberto quando em movimento para se proteger de ataques leves. A bênção do pássaro vermelho protege contra ataques de fogo e impede o avanço da alteração de estado "Queimadura".</text>
+<text id="763000">Guarda-chuva anexado com o brasão de uma fênix roxa azulada. Seu uso custa brasões espirituais.
+
+Quando aberto, ele defende ataques de todas as direções. Mantenha-o aberto quando em movimento para se proteger de ataques leves. A bênção da fênix preenche o guarda-chuva, protegendo contra ataques de inimigos do tipo aparição.</text>
+<text id="771000">Grande leque que cria um vórtice de vento. Custa brasões espirituais para usar.
+
+Reúne e libera uma rajada de vento, forçando o inimigo atingido por ela a dar meia-volta. Pode ser abanado duas vezes seguidas. É um tipo de rajada da qual é possível retornar rapidamente. Porém, dizem que só é possível retornar uma vez. Se for levado novamente, não há mais retorno.</text>
+<text id="772000">Leque dourado grande e desgastado. Seu uso custa brasões espirituais.
+
+Reúna rajadas do ilustre vento dourado e libere-as para forçar inimigos pegos no vórtice a darem meia-volta. O movimento pode ser feito duas vezes seguidas. Inimigos atingidos derrubam itens ou dinheiro, considere-os como "doações".</text>
+<text id="781000">Lança anexada reforçada com um mecanismo de mola. Custa brasões espirituais para usar.
+
+Permite investidas de longo alcance. Inimigos leves atingidos podem ser arrastados para perto do portador. É capaz de remover armaduras rudimentares dos inimigos. Acumular energia no mecanismo de mola possibilita fortes investidas.</text>
+<text id="782000">Lança anexada reforçada com um mecanismo de mola aprimorado. Seu uso custa brasões espirituais.
+
+Permite investidas de longo alcance. Inimigos leves atingidos podem ser arrastados para perto do portador. É capaz de remover armaduras rudimentares de inimigos. Acumular energia no mecanismo libera um poderoso ataque.</text>
+<text id="783000">Lança anexada que tem uma espiral entalhada na lâmina. Seu uso custa brasões espirituais.
+
+Investidas acentuadas com essa ferramenta prostética causam dano à vitalidade e à postura do inimigo, mesmo se ele estiver se defendendo. A espiral da lança cria uma onda de choque em redemoinho que atravessa os inimigos.</text>
+<text id="784000">Lança anexada com um martelo de percussão para a criação de chamas. Seu uso custa brasões espirituais.
+
+Envolva a ponta da lança em chamas para torná-la tanto uma lança afiada como uma arma de fogo. Um ataque carregado dela pode derrubar e consumir o inimigo em chamas.</text>
+<text id="791000">Um apito de dedo que pode criar um efeito de eco. Seu uso custa brasões espirituais.
+
+Seu som chama a atenção do inimigo, atraindo-o para o local do barulho. Ao marcar um alvo, somente o inimigo marcado ouvirá o assobio. Ao respirar fundo antes de assoprar o apito, você poderá gerar um som tardio.</text>
+<text id="792000">Apito de dedo reforçado com o anel do malcontente. Seu uso custa brasões espirituais. Pode ser usado para enfurecer monstros e atormentar inimigos do tipo aparição.
+
+O nome "martim-pescadora" está gravado nele. Ouvia-se o lamento dela na orla do Vale Submerso. Agora, ela já não chora mais.</text>
+<text id="1700000">Informação bloqueada</text>
+<text id="1710000">Informação bloqueada</text>
+<text id="1720000">Informação bloqueada</text>
+<text id="1730000">Informação bloqueada</text>
+<text id="1740000">Informação bloqueada</text>
+<text id="1750000">Informação bloqueada</text>
+<text id="1760000">Informação bloqueada</text>
+<text id="1770000">Informação bloqueada</text>
+<text id="1780000">Informação bloqueada</text>
+<text id="1790000">Informação bloqueada</text>
+<text id="2700000">Esta informação está travada no momento.</text>
+</entries>
+</fmg>

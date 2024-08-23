@@ -1,0 +1,372 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<filename>ローディングテキスト.fmg</filename>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="50">&lt;?kgiconKc@12?&gt;: Travar/destravar mira no alvo
+&lt;?kgControlCamera?&gt; com a mira travada: Mudar alvo
+
+O primeiro passo é sempre encarar seu inimigo. Travar a mira no seu alvo é indispensável para ganhar uma batalha.
+
+Mantendo o inimigo na sua frente, será mais fácil atacar e defender/repelir.</text>
+<text id="51">Segurar &lt;?kgiconKc@16?&gt;: Investida
+
+É impossível defender-se de investidas, o que as torna eficazes contra oponentes com muita defesa.
+
+Porém, há uma chance delas serem repelidas pelo inimigo.</text>
+<text id="52">&lt;?kgiconKc@5?&gt;: Esquivar
+
+Ataques inimigos podem ser evitados com uma esquiva executada no tempo certo. É eficaz esquivar-se para desviar de ataques que não podem ser aparados.
+
+Por exemplo, quando o inimigo agarra você, é melhor evitar o ataque do que tentar defendê-lo ou repeli-lo.</text>
+<text id="53">&lt;?kgiconKc@1?&gt;+&lt;?kgiconKc@5?&gt; no momento que o ataque atingir você: Contra-ataque Mikiri
+O "Contra-ataque Mikiri" é um estilo de combate shinobi desbloqueável que permite que um shinobi preveja uma investida e contra-ataque subindo na arma do inimigo.
+
+"Contra-ataque Mikiri" é uma técnica poderosa que causa mais dano à postura do que simplesmente repelir o ataque.</text>
+<text id="54">&lt;?kgToggleItems?&gt;: Alternar itens rápidos
+&lt;?kgiconKc@21?&gt;: Usar item rápido
+
+Use o menu de equipamento para equipar ou trocar os itens rápidos. É possível alternar entre os itens rápidos equipados com &lt;?kgToggleItems?&gt;, e o item selecionado no momento pode ser usado com &lt;?kgiconKc@21?&gt;.
+
+Pode-se equipar até 5 itens rápidos ao mesmo tempo.</text>
+<text id="55">&lt;?kgMove?&gt;+&lt;?kgiconKc@5?&gt;+&lt;?kgiconKc@6?&gt;: Corrida e pulo
+
+Você pode saltar mais longe se pular enquanto corre.</text>
+<text id="56">Depois de pular sobre um ataque amplo, &lt;?kgiconKc@6?&gt;: Contra-ataque com voadora
+
+Depois de pular sobre um ataque amplo, você pode executar um contra-ataque voadora no inimigo antes de aterrissar, causando imenso dano à postura.</text>
+<text id="57">&lt;?kgiconKc@6?&gt; em um inimigo com a postura quebrada: Salto
+
+O salto é uma arte marcial shinobi que permite que se salte por cima e para trás de inimigos com a postura quebrada. Essa técnica shinobi permite o uso de golpes mortais pelas costas durante uma batalha, mesmo sem usar furtividade. É esperado que um shinobi possua alguns truques especiais para combate a curta distância também.</text>
+<text id="58">&lt;?kgiconKc@22?&gt;: Bisbilhotar
+
+Se o shinobi se concentra, ele consegue ouvir as vozes de outros, mesmo que eles estejam longe.
+
+Bisbilhotar é uma das ferramentas do shinobi para obter informações.</text>
+<text id="59">&lt;?kgMove?&gt;+&lt;?kgiconKc@5?&gt;+&lt;?kgiconKc@16?&gt;: Ataque célere
+
+É possível executar uma estocada especial com a espada ao atacar enquanto se corre.
+Essa técnica pode ser usada para reduzir sua distância com um inimigo fora de alcance, e então causar dano no momento em que você o alcançar.</text>
+<text id="60">Derrubado ou com a postura quebrada, &lt;?kgiconKc@5?&gt;: Rolamento evasivo
+
+Quando um oponente o atordoa ou derruba, você fica muito venerável a ataques inimigos.
+
+Use o rolamento evasivo para se levantar novamente e minimizar sua vulnerabilidade.</text>
+<text id="61">Raios percorrem o corpo daquele que estiver com os pés no chão,
+paralizando-o momentaneamente.
+
+Existe uma técnica secreta utilizada para absorver um raio
+com uma lâmina enquanto estiver no ar e rebatê-lo.
+Isso é chamado de Inversão de Raio.
+
+Quando atingido por um raio em meio a um salto,
+&lt;?kgiconKc@16?&gt; antes de tocar o chão: Inversão de Raio</text>
+<text id="62">%null%</text>
+<text id="63">%null%</text>
+<text id="64">%null%</text>
+<text id="65">%null%</text>
+<text id="66">%null%</text>
+<text id="67">%null%</text>
+<text id="68">%null%</text>
+<text id="69">%null%</text>
+<text id="70">Segurar &lt;?kgiconKc@20?&gt;: Saquear inimigo
+
+Inimigos derrotados deixam cair itens e dinheiro.
+
+É possível saquear a uma certa distância e mais de um inimigo pode ser saqueado ao mesmo tempo.</text>
+<text id="100">Dê sementes de cabaça à Emma para aumentar o número de vezes que é possível usar a cabaça curativa.</text>
+<text id="101">Coletar quatro contas de oração possibilitará melhorar seus atributos físicos em um Ídolo do Escultor.
+
+Isso aumentará o máximo de vitalidade e postura.  </text>
+<text id="102">Oferecer suas duras recordações de batalha para um Ídolo do Escultor possibilitará melhorar seu poder de ataque.
+
+Um melhor poder de ataque fará você causar mais dano à vitalidade e à postura dos inimigos.</text>
+<text id="103">É mais difícil os inimigos te detectarem quando você está agachado, pendurado ou encostado a uma parede.
+
+Agachar-se na grama alta deixa essa detecção ainda mais difícil.</text>
+<text id="104">Quanto menos vitalidade, mais devagar a postura se recupera.
+
+Se o inimigo estiver recuperando a postura imediatamente após você reduzi-la, tente focar em reduzir a vitalidade dele primeiro.</text>
+<text id="105">Após ser atingido por muitos ataques de fogo, você acabará ficando com a alteração de estado "Queimadura".
+Defender-se do fogo não impede o progresso do medidor de queimadura.
+
+Quando você estiver pegando fogo, será possível ver chamas no seu corpo, você parará de regenerar a postura e irá perdendo vitalidade aos poucos durante a existência desse efeito.</text>
+<text id="106">Você pode saber se o inimigo está ciente da sua presença observando a cor do indicador de alerta sobre ele. Amarelo indica que está desconfiado ou procurando. Vermelho indica que está alerta à sua presença. Amarelo significa que o inimigo não sabe onde você está exatamente, então ele ainda pode ser pego de surpresa com um golpe mortal furtivo.</text>
+<text id="107">Os Ídolo do Escultor contam com várias funções, incluindo a capacidade de repousar.
+
+O repouso restaura por completo a vitalidade, recuperando os usos da cabaça curativa e fazendo a transferência automática dos itens consumíveis do seu estoque para seu inventário.
+
+No entanto, o repouso também causa o retorno dos inimigos que já foram derrotados, exceto em alguns casos.</text>
+<text id="108">O Lobo tem uma habilidade chamada "Visão noturna", motivo pelo qual ele enxerga muito bem no escuro.
+Essa é uma habilidade inata que é ativada automaticamente quando ele está em locais escuros.</text>
+<text id="109">Não é possível ressuscitar sem poder de ressurreição suficiente. Matar inimigos restaura o poder de ressurreição aos poucos.
+
+Porém, a primeira carga de poder de ressurreição só pode ser restaurada descansando em um Ídolo do Escultor.</text>
+<text id="110">Ser atingido repetidas vezes por ataques venenosos aplicará a alteração de estado "Veneno".
+
+Defender esses ataques não impede o acúmulo de veneno.
+
+O veneno afeta o corpo e a mente, reduzindo gradualmente a vitalidade.</text>
+<text id="111">Levar dano de inimigos do tipo aparição faz com que Terror se apodere do corpo e da mente.
+
+Defender ataques deste tipo não impede o acúmulo do Terror.
+
+Quem é tomado pelo Terror convalesce.</text>
+<text id="112">Se estiver no chão quando for atingido por um ataque de raio, você será acometido pela alteração de estado "Choque". Isso acontecerá sem importar se houve ou não houve um bloqueio.
+
+Esse choque fará a eletricidade passar pelo seu corpo, causando um dano gigantesco à vitalidade e gerando um atordoamento momentâneo.</text>
+<text id="113">Derrote inimigos para obter experiência de habilidade.
+Quando tiver acumulado o bastante, você ganhará um ponto de habilidade.
+
+Textos esotéricos dão acesso a várias habilidades, que podem ser adquiridas investindo pontos de habilidade no menu "Adquirir habilidades" em um Ídolo do Escultor.</text>
+<text id="114">As habilidades do "estilo de combate shinobi" são técnicas usadas por um shinobi em combate.
+
+Elas não podem ser executadas pelos samurais e incluem técnicas como ataques realizados no ar e esconder um corpo para não ser detectado.
+
+São os segredos mais velados das artes shinobi.</text>
+<text id="115">As habilidades do "estilo de combate prostético" são diversas técnicas que podem ser usadas junto com a prótese shinobi.
+
+Elas estão mais próximas a uma coleção de movimentos secretos que podem ser usados apenas por quem usa as próteses shinobi do que a um estilo oficial de combate.
+</text>
+<text id="116">As técnicas do estilo de combate dos Ashinas são os aprendizados de Isshin Ashina em sua vasta experiência em batalhas.
+
+Em sua juventude, Isshin lutou com afinco inúmeras vezes, lapidando sua técnica com o sangue de seus inimigos.</text>
+<text id="117">O "estilo de combate do Templo Senpo" é um estilo de luta bastante focado nas artes marciais.
+
+Os integrantes do Templo Senpo dominaram as artes marciais em busca da virtude. Eles acreditam ser essencial combinar os punhos com uma disciplina rigorosa para derrotar os inimigos do Buda.</text>
+<text id="118">Materiais para melhorias como "sucata de ferro" e "pólvora" podem ser entregues para o Escultor criar versões melhoradas das suas ferramentas prostéticas.
+
+Esses materiais podem ser saqueados dos inimigos e encontrados pelo mundo.</text>
+<text id="119">Caso encontre itens, mas já não consiga carregá-los, eles serão enviados diretamente para o estoque.
+
+Ao repousar em um Ídolo do Escultor, qualquer item do seu inventário que não esteja no volume máximo será reabastecido automaticamente a partir do seu estoque.
+
+O Buda oferece um estoque muito grande, e você devia sentir gratidão por poder utilizá-lo.</text>
+<text id="120">A noite escura é repleta de perigos.
+
+Conforme a escuridão noturna se aproxima e o sol começa a sucumbir, espíritos vingativos poderosos visitam esta terra em busca de vingança.</text>
+<text id="121">É necessário gastar brasões espirituais para usar habilidades como as ferramentas prostéticas.
+
+É possível obter brasões espirituais derrotando inimigos, procurando-os pelo mundo ou comprando-os nos Ídolos do Escultor.</text>
+<text id="122">Os inimigos que rastejam pelo chão, como os lagartos, ficam vulneráveis a golpes mortais sempre que você pular na direção deles.
+
+Esse golpe mortal pode ser realizado mesmo se o adversário tiver visto você.</text>
+<text id="123">Alguns inimigos raros e muito poderosos demandam um "golpe mortal finalizador" para serem derrotados.
+
+Só é possível realizar esse golpe especial quando todos os marcadores de golpes mortais do inimigo não estiverem mais aparecendo.</text>
+<text id="124">A ressurreição não pode ser executada repetidamente em um curto período de tempo, mas obter Poder de Ressurreição permite que ela seja usada mais uma vez.
+
+O Poder de Ressurreição pode ser obtido ao se matar inimigos ou executar um golpe mortal.</text>
+<text id="125">Você perde pontos de experiência de habilidade e sens ao morrer, mas há uma forma de evitar isso em raras ocasiões pela proteção divina conhecida como Auxílio Oculto.
+
+A taxa de ocorrência do Auxílio Oculto pode ser vista no menu de pausa.
+
+&lt;?kgiconKc@27?&gt;: Abrir menu de pausa</text>
+<text id="126">Essência da praga é um item que lhe diz quem foi afetado pela praga do dragão.
+
+Quanto mais essências da praga você tiver, mais baixas serão suas chances de receber Auxílio Oculto, que evita perdas ao morrer.</text>
+<text id="127">A Gota de Sangue do Dragão pode ser ofertada a um Ídolo do Escultor para restaurar a saúde daqueles afligidos pela praga do dragão.
+
+Uma restauração removerá a praga do dragão de todos os afligidos, e todas as essências da praga também desaparecerão, retornando as chances do Auxílio Oculto aos níveis padrão.</text>
+<text id="128">Quanto mais vezes aquele com o poder da Linhagem do Dragão morrer, mais a enfermidade conhecida como praga do dragão se espalhará pelo mundo.
+
+As tosses e chiados ouvidos por todo lugar são provas de que alguém que teve assuntos a tratar com o Lobo foi afligido pela praga do dragão.</text>
+<text id="129">O uso de algumas artes de combate custa brasões espirituais. 
+
+Caso não se tenham brasões espirituais suficientes, uma versão enfraquecida pode ser realizada.</text>
+<text id="130">Investidas não podem ser defendidas, porém elas podem ser repelidas.
+
+Ao usar a habilidade "Contra-ataque Mikiri" para conter uma investida, você causará um dano maior de Postura do que repelindo-as.</text>
+<text id="131">Ataques amplos não podem ser defendidos ou repelidos.
+Contudo, pode-se pular para evitá-los.
+
+Dar um chute aéreo no inimigo causará muito dano à
+postura dele, o que costuma deixá-lo vulnerável
+a um golpe mortal.</text>
+<text id="132">Nenhum agarramento pode ser defendido ou repelido. Uma vez agarrado, você não pode evitar dano.
+
+Pular ou correr para se afastar antes do ataque atingir você manterá você a salvo do agarramento.
+
+Alguns agarramentos também podem ser evitados com uma esquiva precisa.</text>
+<text id="133">Repelir um ataque nem sempre impede que o inimigo
+pare de atacar.
+
+Ataques consecutivos podem ser contra-atacados com "Repelir
+consecutivos". Ao repelir todos os ataques, você poderá
+causar um grande dano de postura. </text>
+<text id="134">Perto do Templo Dilapidado, você encontrará um guerreiro conhecido
+como Hanbei, o Imortal, que se ocupará de treinar você.
+
+O Lobo pode desbloquear novas opções de treino ao completar sessões com Hanbei e obter habilidades novas.
+
+Se um inimigo parecer insuperável, é melhor recuar
+e passar um tempo treinando. Seus ensinamentos são a base de toda forma de luta com espada.</text>
+<text id="135">Sessões de Combate Livre fora do Templo Dilapidado com
+Hanbei, o Imortal, são perfeitas para testar
+novas ferramentas prostéticas e habilidades.
+
+Você poderá usá-las o quanto quiser sem
+gastar um único emblema espiritual.
+
+Combate Livre pode ser desbloqueado ao se completarem todas as sessões de treino com Hanbei.</text>
+<text id="136">As ferramentas prostéticas podem ser melhoradas de diversas formas, como adicionando um efeito elemental ou realizando novas técnicas com elas.
+
+As versões melhoradas podem ser envoltas em chamas ou conter veneno, por exemplo, e podem ser eficazes em situações diversas ou contra inimigos específicos. Ferramentas prostéticas melhoradas recém-criadas precisam ser equipadas no menu de equipamento para serem usadas.</text>
+<text id="150">O shinobi busca quebrar a postura do inimigo. Atacá-lo é uma maneira de fazer isso.
+
+Quando a postura do inimigo quebra, ele fica vulnerável ao "golpe mortal shinobi".
+
+&lt;?kgiconKc@16?&gt;: Atacar
+&lt;?kgiconKc@16?&gt; em um inimigo atordoado: Golpe mortal</text>
+<text id="151">Às vezes, atacar sem parar não é o bastante
+para quebrar a postura inimiga.
+
+Repelir ataques é outra maneira de
+causar dano à postura. O mestre shinobi
+combina os atos de repelir e atacar para
+alcançar uma vitória rápida.
+
+&lt;?kgiconKc@18?&gt; no momento em que o ataque atingir você: Repelir
+</text>
+<text id="152">
+&lt;?kgiconKc@18?&gt; no momento em que o ataque atingir você: Repelir
+&lt;?kgiconKc@16?&gt; após repelir: Contracorte.
+Os contracortes são realizados ao fazer um ataque logo após conseguir repelir um ataque do inimigo.
+
+Ao usar uma combinação de repelir e atacar para causar dano à postura, é possível prejudicar bastante a postura do inimigo com rapidez.</text>
+<text id="153">Se você tiver sofrido dano e sua vitalidade estiver baixa, procure distanciar-se do seu inimigo para usar a cabaça curativa e restaurar sua vitalidade.
+
+&lt;?kgiconKc@21?&gt;: Usar item rápido</text>
+<text id="154">Um golpe mortal pendurado é um tipo de golpe mortal com furtividade que pode acometer inimigos distraídos.
+
+Quando estiver pendurado de um penhasco ou uma beirada, posicionar-se bem abaixo desse inimigo desatento deixará sua vítima vulnerável a esse golpe mortal.</text>
+<text id="155">O golpe mortal na parede é um tipo de golpe mortal furtivo que pode acometer inimigos distraídos.
+
+Quando não tiver sido detectado e estiver encostado a uma parede, aguarde a passagem de um inimigo. Quando ele chegar bem perto, ficará vulnerável a esse golpe mortal.</text>
+<text id="156">Há vários tipos de ferramentas prostéticas e uma única estratégia não funciona contra todos os adversários.
+
+Segundo o Escultor,
+
+"Escudos reforçados? Serão transformados em lascas... Inimigos ágeis? Serão derrubados à distância. Encaixar mais dispositivos trará mais formas de destroçar seus inimigos".</text>
+<text id="157">Quem tem olhos avermelhados é mais perigoso e foi tomado pelo ódio. Tentar derrotar esses seres em um combate mano-a-mano pode não ser uma decisão sábia.
+
+Contudo, o fogo funciona muito bem contra eles.
+Dizem que não há nada que eles temam mais que o fogo.</text>
+<text id="158">Talvez seja possível alcançar beirais ou penhascos que pareçam estar muito longe usando o Gancho se você pular na direção certa.</text>
+<text id="159">As feras têm medo de barulhos muito altos.
+
+Por isso, a ferramenta prostética "Bombinha shinobi" funciona muito bem contra elas.</text>
+<text id="160">Escudos e chapéus de madeira não podem ser quebrados com espadas normais.
+
+Porém, a ferramenta prostética machado anexado pode fazer o serviço.
+Uma arma pesada como ela dilacera madeira como se fosse uma folha de papel.</text>
+<text id="161">Alguns inimigos usam armaduras rudimentares, amarradas com firmeza ao corpo. A ferramenta prostética "Lança anexada" pode ser usada para dilacerar essas armaduras.
+
+Essa técnica é conhecida como "Destruir armadura".</text>
+<text id="162">A postura é recuperada mais rápido na posição de defesa.
+
+Se a postura do Lobo estiver prestes a quebrar, recuperá-la pode ser a diferença entre a vida e a morte.
+
+Segurar &lt;?kgiconKc@18?&gt;: Defender
+</text>
+<text id="163">Diz-se que, em guerras passadas, o veneno da ferrugem azul era capaz de repelir até as cruéis guerreiras Okamis.
+
+Deve surtir o mesmo efeito em seus descendentes.</text>
+<text id="164">Shurikens são eficientes contra inimigos que saltam ou que são mais ágeis.
+
+Elas também são úteis para fazer os inimigos vacilarem, interrompendo suas ações.</text>
+<text id="165">Confeitos budistas são itens que aumentam atributos durante um tempo.
+
+Ao morder um doce budista e assumir a posição correta, você pode receber as bênçãos dele.
+
+Essas bênçãos podem ser úteis ao adentrar lugares perigosos ou encarar oponentes intimidadores.</text>
+<text id="166">Artes de combate são aprendidas no menu de adquirir habilidades do Ídolo do Escultor ou encontrando compêndios de habilidade sem custo de ponto de habilidade. Artes de combate podem ser selecionadas e equipadas no menu de equipamentos.
+
+&lt;?kgiconKc@18?&gt; + &lt;?kgiconKc@16?&gt;: Usar a arte de combate equipada</text>
+<text id="167">Há três tipos de habilidades que podemos aprender: artes de combate, técnicas marciais shinobis e habilidades passivas. As artes de combate precisam ser equipadas no menu de equipamentos. As técnicas marciais shinobis não precisam ser equipadas, podem ser executadas nas condições corretas. Já as habilidades passivas são sempre ativadas após serem aprendidas, e múltiplas habilidades com o mesmo efeito acumulam.</text>
+<text id="168">&lt;?kgiconKc@18?&gt; no momento que o ataque inimigo atingir você: Desviar
+
+O momento de apertar o botão será crucial, porque apertar &lt;?kgiconKc@18?&gt; várias vezes poderá dificultar o sucesso do movimento.
+
+Você terá a oportunidade perfeita de repelir seu inimigo quando a lâmina dele estiver praticamente colada em você.  </text>
+<text id="169">Aqueles que vivem em áreas venenosas possuem resistência muito alta à alteração de estado "Veneno".
+
+Alguns são até mesmo imunes.</text>
+<text id="170">O Lobo pode usar sua espada para repelir balas e outros projéteis.</text>
+<text id="171">Se for dado tempo, inimigos podem recuperar postura gradualmente.
+
+Contudo, caso continuem lutando, a postura deles não pode ser recuperada.
+
+Um princípio fundamental do combate shinobi consiste em 
+sobrecarregar o inimigo atacando e repelindo consecutivamente, 
+sem oportunidade para descanso.</text>
+<text id="172">Certas técnicas de espada podem ser desferidas após utilizar ferramentas prostéticas.
+
+Esses "Ataques subsequentes" possibilitam um estilo de luta que utiliza ao máximo as qualidades das ferramentas prostéticas.
+
+Ataques subsequentes podem ser aprendidos como habilidades das "Artes Prostéticas".</text>
+<text id="173">Arte marcial shinobi que realiza um corte com a espada avançando para frente após o uso de certas ferramentas prostéticas.
+
+Uma ferramenta de longo alcance combinada com um Corte Perseguidor possibilita se aproximar dos inimigos.
+
+Pode ser aprendido como habilidade das "Artes Prostéticas".</text>
+<text id="300">A Multidão Memorial são os comerciantes que vendem suas mercadorias como oferendas aos mortos.
+
+Onde houver finados, você encontrará a Multidão Memorial.
+
+Seja em um campo de batalha fresquinho ou em uma masmorra abandonada...
+A Multidão Memorial dará as caras.
+Se conversar com eles, tenha certeza de que oferecerão suas mercadorias.</text>
+<text id="301">Há um guerreiro chamado Hanbei, o Imortal - ou mesmo Hanbei, o Infestado - que fica bem na frente do Templo Dilapidado.
+
+"Um corpo que nunca morre pode ter alguma utilidade. Eu ofereço o meu."
+
+Se estiver procurando alguém para praticar, talvez ele seja o adversário perfeito.</text>
+<text id="302">As escamas de uma Carpa do Tesouro brilham e reluzem de forma muito bela.
+Uma pessoa normal acharia que são apenas escamas brilhantes.
+
+Mas há quem valorize esse item mais que tudo no mundo.
+Colecioná-lo pode valer muito a pena.
+
+Contudo, sabe-se que peixes devoradores de humanos costumam acompanhar essas Carpas do Tesouro, portanto tome bastante cuidado ao caçá-las.</text>
+<text id="303">O Escultor do Templo Dilapidado é especializado nas ferramentas prostéticas dos shinobis.
+
+Ele pode ajudar muito na hora de encaixar novas ferramentas na prótese shinobi ou de melhorar as ferramentas atuais.
+
+Caso encontre ferramentas shinobis ou materiais que pareçam ter alguma utilidade, talvez valha a pena visitá-lo.  </text>
+<text id="304">Os textos esotéricos desbloqueiam novas árvores de habilidades.
+
+Após o desbloqueio de uma árvore de habilidades, é possível gastar os pontos de habilidade para aprender artes de combate daquela árvore.</text>
+<text id="305">%null%</text>
+<text id="306">Ataques incisivos causam dano tanto à vitalidade quanto à postura, mesmo quando um inimigo fica na posição de defesa.
+
+É isso que torna técnicas de espada embainhada tão eficazes.</text>
+<text id="307">Ao usar itens rápidos, você pode segurar &lt;?kgToggleItems?&gt;
+para pular automaticamente para o item rápido equipado no primeiro espaço.
+
+Colocar itens muito usados, como a cabaça curativa, no primeiro espaço pode ser conveniente.</text>
+<text id="308">%null%</text>
+<text id="309">%null%</text>
+<text id="310">%null%</text>
+<text id="311">Shinobis podem deixar para trás sombras de suas ações passadas, conhecidas como "Vestígios".
+Vestígios são deixados para instruir seus colegas. Alguns são mestres no caminho a seguir, outros provocam rivalidades.
+
+&lt;?kgiconKc@44?&gt;: Abrir menu de Vestígios</text>
+<text id="312">Inimigos extraordinários conquistados em batalha podem ser encarados mais uma vez nas memórias.
+
+Acesse a Reflexão de força no menu do Ídolo do escultor.</text>
+<text id="313">Inimigos extraordinários conquistados em batalha podem ser enfrentados um após o outro nas memórias.
+Enfrentar suas memórias do passado pode abrir novas possibilidades.
+Os próprios fins do conflito podem proporcionar um novo estado de espírito.</text>
+<text id="314">%null%</text>
+<text id="315">Memórias deixadas para trás por outro.
+
+Geralmente chamados de sentimentos de remorso, embora também expressem um apego a certas ideias.
+Abrigar esses pensamentos mais íntimos no Ídolo do Escultor permitirá que o Lobo altere sua forma, embora isso não influencie sua capacidade.
+
+Afinal, assumir o controle do arrependimento alheio é uma coisa passageira.</text>
+<text id="316">Segurar &lt;?kgiconKc@20?&gt; ao cair ou pular pode facilitar e processo de agarrar-se a uma borda.</text>
+</entries>
+</fmg>

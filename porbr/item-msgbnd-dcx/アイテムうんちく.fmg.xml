@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<filename>アイテムうんちく.fmg</filename>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="0">%null%</text>
+<text id="2100">&lt;?kgiconKc@16?&gt; após um golpe mortal pelas costas: Ninjutsu da Fumaça Sangrenta
+
+Ergue uma grande nuvem de sangue da vítima. Custa brasões espirituais para usar.</text>
+<text id="2101">%null%</text>
+<text id="2102">%null%</text>
+<text id="2103">%null%</text>
+<text id="2104">%null%</text>
+<text id="2105">%null%</text>
+<text id="2106">%null%</text>
+<text id="2107">%null%</text>
+<text id="2108">%null%</text>
+<text id="2109">%null%</text>
+<text id="2110">&lt;?kgiconKc@16?&gt; após um golpe mortal pelas costas: Ninjutsu da Marionete
+
+Manipula a vítima, voltando-a contra seus próprios aliados. Custa brasões espirituais para usar.</text>
+<text id="2111">%null%</text>
+<text id="2112">%null%</text>
+<text id="2113">%null%</text>
+<text id="2114">%null%</text>
+<text id="2115">%null%</text>
+<text id="2116">%null%</text>
+<text id="2117">%null%</text>
+<text id="2118">%null%</text>
+<text id="2119">%null%</text>
+<text id="2120">&lt;?kgiconKc@16?&gt; após um golpe mortal pelas costas: Ninjutsu da Concessão
+
+Embebe sua lâmina com sangue do seu alvo. Custa brasões espirituais para usar.</text>
+<text id="2490">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;: Dança da Cerejeira
+Gire para criar impulso em uma sequência de três cortes e saltos similares a uma dança. Evite ataques amplos ao mesmo tempo em que faz cortes agudos, causando dano mesmo através da guarda de um inimigo.
+
+Pode ser transacionado em técnicas aéreas com a prótese após a realização do ataque.
+Custa Brasões espirituais para usar.</text>
+</entries>
+</fmg>

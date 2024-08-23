@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<filename>NTC_ダイアログ.fmg</filename>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">OK</text>
+<text id="2">CANCELAR</text>
+<text id="3">SIM</text>
+<text id="4">NÃO</text>
+<text id="15">Tentar novamente</text>
+<text id="16">Continuar</text>
+<text id="17">Voltar ao menu de título</text>
+<text id="11020">Selecionar quantidade para usar</text>
+<text id="12300">Selecionar quantidade para comprar</text>
+<text id="12320">Selecionar quantidade para trocar</text>
+<text id="12400">Selecionar quantidade para vender</text>
+<text id="40200">Não há sens suficientes. </text>
+<text id="40201">Você não tem os itens necessários.</text>
+<text id="40202">Não há fundos e itens obrigatórios suficientes em sua posse.</text>
+<text id="40300">As definições serão restauradas ao padrão.
+Tem certeza disso?</text>
+<text id="40500">Todas as definições serão restauradas ao padrão.
+Tem certeza disso?</text>
+<text id="102000">Usar &lt;?itemName?&gt;?</text>
+<text id="102001">O limite máximo de sens será excedido.
+Os sens além do limite máximo serão perdidos. Continuar mesmo assim?</text>
+<text id="110500">Isso salvará o jogo e retornará ao menu de título.
+
+Deseja prosseguir?</text>
+<text id="110501">Sair do jogo e voltar ao menu de título?</text>
+<text id="111100">Definições alteradas.
+As definições serão revertidas em &lt;?remainingSec?&gt; segundo(s).
+Aplicar as definições atuais?</text>
+<text id="111101">Aplicar as definições atuais?</text>
+<text id="111102">Algumas definições não serão aplicadas até que você
+volte ao menu de título.</text>
+<text id="111103">Essa definição será aplicada ao reiniciar o jogo.</text>
+<text id="111104">Definições alteradas.
+As definições serão revertidas em &lt;?remainingSec?&gt; segundo(s).
+Aplicar as definições atuais?</text>
+<text id="111105">Algumas definições não serão aplicadas até que você
+volte ao menu de título.</text>
+<text id="111106">HDR foi desligado.</text>
+<text id="111107">HDR foi ligado.</text>
+<text id="210000">Não é possível viajar para o Ídolo do Escultor
+com o qual você está se comungando.</text>
+<text id="210001">Este Ídolo do Escultor ficará indisponível
+até você comungar com ele outra vez.</text>
+<text id="220000">Iniciar batalha com &lt;?retryBossName?&gt;?</text>
+<text id="230000">Comprar &lt;?itemName?&gt;
+ por &lt;?demandSoul?&gt; sen(s)?</text>
+<text id="230001">%null%</text>
+<text id="230002">%null%</text>
+<text id="230003">%null%</text>
+<text id="230004">%null%</text>
+<text id="230005">%null%</text>
+<text id="230006">%null%</text>
+<text id="230007">%null%</text>
+<text id="230008">%null%</text>
+<text id="230009">%null%</text>
+<text id="230010">Itens que excedem o limite máximo de posses foram armazenados.</text>
+<text id="230011">%null%</text>
+<text id="230012">%null%</text>
+<text id="230013">%null%</text>
+<text id="230014">%null%</text>
+<text id="230015">%null%</text>
+<text id="230016">%null%</text>
+<text id="230017">%null%</text>
+<text id="230018">%null%</text>
+<text id="230019">%null%</text>
+<text id="230020">Não é possível comprar, pois você está no limite
+de armazenamento e inventário.</text>
+<text id="230100">Não é possível comprar, pois o item está esgotado.</text>
+<text id="232000">Trocar &lt;?demandScale?&gt; Escama(s) da Carpa do Tesouro
+por &lt;?itemName?&gt;?</text>
+<text id="232001">%null%</text>
+<text id="232002">%null%</text>
+<text id="232003">%null%</text>
+<text id="232004">%null%</text>
+<text id="232005">%null%</text>
+<text id="232006">%null%</text>
+<text id="232007">%null%</text>
+<text id="232008">%null%</text>
+<text id="232009">%null%</text>
+<text id="232010">Itens que excedem o limite máximo de posses foram armazenados.</text>
+<text id="232011">%null%</text>
+<text id="232012">%null%</text>
+<text id="232013">%null%</text>
+<text id="232014">%null%</text>
+<text id="232015">%null%</text>
+<text id="232016">%null%</text>
+<text id="232017">%null%</text>
+<text id="232018">%null%</text>
+<text id="232019">%null%</text>
+<text id="232020">Não é possível realizar a troca, pois o limite máximo
+de posses e armazenamento será excedido.</text>
+<text id="232100">Não é possível realizar a troca, pois o item está esgotado.</text>
+<text id="240000">Vender &lt;?itemName?&gt; por &lt;?sellSouls?&gt; sen(s)?</text>
+<text id="240001">Itens equipados não podem ser vendidos.</text>
+<text id="250000">Criar &lt;?itemName?&gt;?</text>
+<text id="260000">Construir &lt;?itemName?&gt;?</text>
+<text id="260001">%null%</text>
+<text id="260002">%null%</text>
+<text id="260003">%null%</text>
+<text id="260004">%null%</text>
+<text id="260005">%null%</text>
+<text id="260006">%null%</text>
+<text id="260007">%null%</text>
+<text id="260008">%null%</text>
+<text id="260009">%null%</text>
+<text id="260010">As informações sobre o nível 3 foram desbloqueadas.</text>
+<text id="260011">As informações sobre o nível 4 foram desbloqueadas.</text>
+<text id="260012">As informações sobre o nível 5 foram desbloqueadas.</text>
+<text id="260013">As informações sobre o último nível foram desbloqueadas.</text>
+<text id="260110">Os pré-requisitos desta melhoria ainda não foram todos atendidos.</text>
+<text id="260111">Você ainda não chegou no nível necessário de melhoria
+para visualizar essas informações.</text>
+<text id="260112">Não há uma ferramenta prostética compatível em sua posse.</text>
+<text id="270000">Adquirir &lt;?itemName?&gt;?</text>
+<text id="270100">Não há pontos de habilidade suficientes.</text>
+<text id="270101">Você ainda não aprendeu a habilidade necessária.</text>
+<text id="270102">Pré-requisitos para visualizar as informações da
+habilidade não atendidos.</text>
+<text id="270103">Esta informação de habilidade não pode ser visualizada
+até que as habilidades de pré-requisito sejam adquiridas.</text>
+<text id="280000">Impossível desvincular.</text>
+<text id="280001">Todas as definições serão restauradas ao padrão.
+Tem certeza disso?</text>
+<text id="280002">Há definições que estão se anulando.
+Confirme as definições.</text>
+<text id="280003">Há definições que estão se anulando.
+Encerrar configuração sem salvar as definições?</text>
+<text id="280004">Configurações descartadas uma vez que o dispositivo principal foi alterado.</text>
+<text id="311000">Tem certeza de que deseja apagar este Vestígio?</text>
+<text id="311001">Apreciar este Vestígio?</text>
+<text id="311002">Rejeitar este Vestígio?</text>
+<text id="321000">Criar um Vestígio com esta mensagem?</text>
+<text id="321001">Descartar a mensagem anexada atualmente?</text>
+<text id="321002">%null%</text>
+<text id="321003">%null%</text>
+<text id="321004">%null%</text>
+<text id="321005">%null%</text>
+<text id="321006">%null%</text>
+<text id="321007">%null%</text>
+<text id="321008">%null%</text>
+<text id="321009">%null%</text>
+<text id="321010">Menu de Vestígio não disponível</text>
+<text id="321011">Menu de Vestígio não disponível</text>
+<text id="322000">Tem certeza de que deseja apagar este Vestígio?</text>
+<text id="322001">Gravar Vestígio?</text>
+<text id="322002">Excluir o Vestígio atual e começar a gravar um novo?</text>
+<text id="322003">Excluir o Vestígio atual e escrever uma nova mensagem de Vestígio?</text>
+<text id="322004">Usar mensagem do Vestígio anterior?</text>
+<text id="323000">Terminar a gravação do Vestígio?</text>
+<text id="323001">Descartar Vestígio gravado?</text>
+<text id="401701">&lt;?sysmsg@401701?&gt;</text>
+<text id="404020">Quando o HDR estiver ligado, o brilho só pode ser  
+ajustado no menu de pausa.</text>
+<text id="406011">Começar com o perfil selecionado?</text>
+<text id="406012">Excluir o perfil selecionado
+e iniciar um novo jogo?</text>
+<text id="406013">Isso excluirá o perfil selecionado.
+Tem certeza disso?</text>
+<text id="450000">Iniciar jogo núm. &lt;?nextLoopCount?&gt; agora?
+Se optar por não iniciar o jogo núm. &lt;?nextLoopCount?&gt; agora, você
+poderá fazer isso a qualquer momento acessando o Ídolo do
+Escultor no Templo Dilapidado.</text>
+<text id="450001">Você não poderá voltar ao atual jogo núm. &lt;?loopCount?&gt;
+depois que iniciar o jogo núm. &lt;?nextLoopCount?&gt;.
+Tem certeza de que deseja iniciar o jogo núm. &lt;?nextLoopCount?&gt;?</text>
+</entries>
+</fmg>

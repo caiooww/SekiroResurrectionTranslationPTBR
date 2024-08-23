@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<filename>防具説明.fmg</filename>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="0">%null%</text>
+<text id="103000">Uma lembrança da forma original do Lobo.
+
+Concentre-se nesta lembrança em um
+Ídolo do Escultor para reverter o Lobo
+para sua aparência original.
+
+Naturalmente, a forma original do Lobo
+também é a sua melhor forma.</text>
+<text id="303000">Memórias deixadas para trás por outro.
+Concentre-se nesses arrependimentos mais íntimos ou obsessões no Ídolo do Escultor para alterar a aparência do Lobo.
+Não tem efeito em habilidades.
+Uma memória de Shura advinda de uma canção popular:
+"Campos de corpos, montanhas de mortos
+No rio da Fonte do Dragão, nosso país sangrou
+Um deus de fogo, lobo, demônio escarlate."</text>
+<text id="403000">Memórias deixadas para trás por outro.
+Concentre-se nesses arrependimentos mais íntimos ou obsessões no Ídolo do Escultor para alterar a aparência do Lobo.
+Não tem efeito em habilidades.
+A memória de um shinobi que uma vez serviu Ashina. Ela acompanha um débito de gratidão; para aquele que tomou seu braço e o agraciou com o nome Sekijo.</text>
+<text id="503000">A memória de batalha de um inimigo extraordinário.
+Concentre-se nesses arrependimentos mais íntimos ou
+obsessões no Ídolo do Escultor para alterar
+a aparência do lobo.
+Não tem efeito em habilidades.
+
+A memória do Tengu de Ashina.
+Acompanhado por um forte desejo.
+Se você vir um rato, ele deve ser morto.</text>
+</entries>
+</fmg>

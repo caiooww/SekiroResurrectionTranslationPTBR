@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<filename>戦技種別.fmg</filename>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="200000">Adquire a arte marcial shinobi "Ataque com Gancho".
+
+
+
+Usa o Gancho para se lançar sobre o inimigo para um ataque de espada com rolagem.
+
+A prótese shinobi combina movimentação e ataque. Nenhum movimento é desperdiçado.</text>
+<text id="200100">Adquire a arte marcial shinobi "Repelir Aéreo".
+
+Permite defender ou repelir ataques inimigos no ar. Armas de fogo e outras armas com projéteis causam dano adicional em alvos aéreos, e esta técnica serve para prevenir esse dano. Um shinobi não é derrubado com tanta facilidade.
+</text>
+<text id="200200">Adquire a arte marcial shinobi "Ferramenta Prostética Aérea".
+
+Permite o uso de ferramentas prostéticas no ar. A prótese shinobi é pesada, porque é feita de ferro e engrenagens. Apesar disso, ela pode ser usada no ar graças a técnicas do seu criador, Dogen, e ao treinamento do seu dono.  </text>
+<text id="200300">Adquire a arte marcial shinobi "Contra-ataque Mikiri". Permite combater investidas de oponentes pisando na arma do inimigo, causando um dano considerável à postura.
+
+Perceber a velocidade de uma investida é quase impossível, mas não para a visão aguçada de um shinobi.  </text>
+<text id="200400">Adquire a arte marcial shinobi "Corrida e Deslizamento".
+
+Permite deslizar para a posição agachada enquanto se corre.
+
+Corra por uma área e deslize para dentro de um abrigo ou outro lugar oculto.
+
+A manobra engana bem os olhos inimigos.</text>
+<text id="200500">Adquire a arte marcial shinobi "Artes de Combate Aéreas".
+
+Permite executar artes de combate enquanto estiver no ar.
+
+Permite usar artes de combate após pular para perto de um inimigo, ou imediatamente após saltar sobre um ataque amplo.</text>
+<text id="200600">Adquire a arte marcial shinobi "Salto".
+
+Permite saltar por cima e para trás de inimigos com a postura quebrada.
+
+Essa técnica de artes marciais permite o uso de golpes mortais pelas costas durante uma batalha, mesmo sem usar furtividade.</text>
+<text id="210000">Adquire a arte de combate
+"Corte Redemoinho".
+
+Ataque giratório que pode acertar vários inimigos de uma vez. O corte aliado à força do giro pode atingir múltiplos oponentes e causar dano mesmo ao ser defendido.
+
+Quando cercado, use essa técnica shinobi para abrir caminho para a vitória.</text>
+<text id="211000">Adquire a arte de combate "Impulso Sombrio". Técnica secreta do estilo shinobi criada pelo grande shinobi. Faça uma poderosa investida de longo alcance e então use o oponente empalado como plataforma para realizar um salto.
+
+Seja como uma coruja na caça e suba aos céus após perfurar sua presa. Brasões espirituais são consumidos ao saltar.</text>
+<text id="301000">Adquire a arte marcial shinobi
+"Corte Perseguidor".
+
+Permite realizar um corte com a espada avançando-se para frente após o uso de certas ferramentas prostéticas, o que possibilita se aproximar dos inimigos instantaneamente.
+
+Ferramentas prostéticas aplicáveis:
+&lt;?acquiredWeaponNameId@70000?&gt;, &lt;?acquiredWeaponNameId@71000?&gt;, &lt;?acquiredWeaponNameId@78000?&gt;</text>
+<text id="301100">Adquire a arte marcial shinobi
+"Presa e Lâmina".
+
+Após o uso de certas ferramentas prostéticas, esse movimento permite atacar com a ferramenta e a espada simultaneamente, ou realizar um ataque subsequente com a ferramenta.
+
+Ferramentas prostéticas aplicáveis:
+&lt;?acquiredWeaponNameId@73000?&gt;, &lt;?acquiredWeaponNameId@78000?&gt;, &lt;?acquiredWeaponNameId@74000?&gt;</text>
+<text id="301200">Adquire a arte marcial shinobi
+"Força Projetada".
+
+Após o uso de certa ferramenta prostética, permite transferir seu poder para a espada e liberá-lo para a frente. O ataque específico muda conforme a ferramenta usada.
+
+Ferramentas prostéticas aplicáveis:
+&lt;?acquiredWeaponNameId@76000?&gt;, &lt;?acquiredWeaponNameId@79000?&gt;</text>
+<text id="301300">Adquire a arte marcial shinobi
+"Força Vital".
+Permite realizar um ataque subsequente com certas ferramentas que imbui a espada com o efeito da ferramenta. O Escultor deixou para trás a prótese shinobi após desenvolver essa técnica. Ele havia ido longe demais, matado demais. As chamas do rancor haviam começado a se manifestar...
+Ferramentas prostéticas aplicáveis:
+&lt;?acquiredWeaponNameId@72000?&gt;, &lt;?acquiredWeaponNameId@77000?&gt;</text>
+<text id="310000">Adquire a arte de combate "Corte Noitibó". Um salto giratório ofensivo que possibilita se aproximar ou se afastar de oponentes rapidamente.
+
+Técnica do clã Noitibó. Os noitibós usam o peso de suas shurikens para adicionar força ao golpe. A prótese shinobi é feita de aço pesado, e pode ser usada de forma parecida.
+&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;: Corte Noitibó</text>
+<text id="310100">Adquire a arte de combate "Corte Noitibó Reverso". Realiza um salto giratório ofensivo que possibilita se aproximar ou se afastar de oponentes rapidamente.
+
+Essa técnica permite decidir em qual direção girar ao usar o Corte Noitibó. Utilizar ambas as direções torna a habilidade tanto ofensiva como defensiva.</text>
+<text id="410000">Adquire a arte de combate "Ichimonji". Ichimonji realiza um golpe de espada sobre a cabeça. Causa dano à postura e recupera sua própria postura com um passo firme para frente.
+
+O domínio dessa técnica é o cerne da força do estilo Ashina. Ao ser dominada, ela pode ser melhorada.</text>
+<text id="410100">Adquire a arte de combate "Ichimonji - Duplo". Adiciona um golpe de espada após o Ichimonji. Causa dano à postura e recupera sua postura com um passo firme para frente.
+
+O ataque subsequente previne contra-ataques. O Ichimonji de Ashina é aperfeiçoado com esse golpe</text>
+<text id="411000">Adquire a arte de combate "Cruz de Ashina". Um ataque com saque veloz. É a técnica secreta do estilo Ashina. Seu uso custa brasões espirituais.
+
+Manter uma postura firme permite contra-atacar num piscar de olhos. Faz um corte em forma de cruz no momento em que a espada é sacada. Sua intensidade é tal que pode até cortar o braço de um Shura.</text>
+<text id="510000">Adquire a arte de combate "Golpes Hieráticos".
+
+Usando golpes sucessivos de cotovelo e braço, lance ataques rápidos que causam dano e previnem contra-ataques. Os golpes combinam artes marciais e oração.
+
+"Sem força, não é possível derrotar os inimigos de Buda."</text>
+<text id="510100">Adquire a arte de combate "Golpes Hieráticos - Exorcismo". Adiciona um ataque finalizador aos Golpes Hieráticos. Realize ataques rápidos, causando dano e prevenindo contra-ataques. Depois, use um golpe mais pesado para concluir. Os monges Senpo usavam essa técnica para expurgar desejos mundanos. Contudo...  </text>
+<text id="511000">Adquire a arte de combate "Chute Alto Senpo", em que uma série de ataques é iniciada com um chute alto. Um contra-ataque útil contra ataques amplos e aéreos, seguido de uma combinação de chutes.
+
+Uma técnica refinada pelos reclusos de Senpo. O domínio do chute alto prova que a iluminação foi alcançada.  
+</text>
+<text id="511100">Adquire a arte de combate "Monge Elevado". A técnica secreta do estilo Senpo, adiciona cortes de espada e chutes adicionais ao Chute Alto Senpo.
+
+A técnica não tem forma e os ataques variam de pessoa a pessoa. Para o Lobo, nada mais natural do que depender da Kusabimaru para realizá-la.</text>
+<text id="610100">Adquire a arte de combate "Queda Sombria". Uma evolução do Impulso Sombrio, esta é uma técnica secreta do estilo Ashina Mushin. Após saltar com o Impulso Sombrio, faça um ataque giratório de espada ao cair. Perfure, voe e mergulhe. Utilizar o inimigo para saltar custa brasões espirituais.</text>
+<text id="611100">Adquire a arte de combate "Passagem de Nuvens Espirais". Uma técnica de espada que libera poderosas ondas de vento. Seu uso custa brasões espirituais. O nome advém de um grande turbilhão de nuvens que se forma perto da nascente, a Espiral da Nascente. Tomoe via seu jovem mestre fitando saudosamente as nuvens espirais. Essa imagem era tudo para ela.</text>
+<text id="612100">Adquire a arte de combate "Saque Mortal Fortalecido". Uma técnica que usa a Lâmina Mortal. Seu uso custa brasões espirituais. Ao se concentrar e sacar a Lâmina Mortal, é possível conjurar poder extra, resultando em um corte com mais alcance e potência. Saque a espada e libere sua devastação.  </text>
+<text id="620000">Adquire a habilidade passiva "Ocultar Presença". Reduz a capacidade de um inimigo detectar aqueles em estado de furtividade.
+
+Anular a própria presença é o que define um shinobi.</text>
+<text id="620100">Adquire a habilidade passiva "Suprimir Som". Suprime ruídos de movimentação ao inibir a capacidade de um inimigo ouvi-los.
+
+Mover-se em silêncio é parte daquilo que define um shinobi.</text>
+<text id="630000">Adquire a habilidade passiva "Virtude". Aumenta a quantidade de sens obtidos e a frequência de itens liberados por inimigos.
+
+Conforme o sumo sacerdote do Templo Senpo...
+
+"Deve-se focar em feitos virtuosos e renunciar o acúmulo de riquezas."</text>
+<text id="630100">Adquire a habilidade passiva "Virtude Irrefutável". Aumenta a quantidade de sens obtidos e a frequência de itens liberados pelos inimigos.
+
+Conforme o sumo sacerdote do Templo Senpo...
+
+"Deve-se focar em feitos virtuosos e renunciar o acúmulo de riquezas."
+</text>
+<text id="640000">Adquire a habilidade passiva "Remédio da Emma: Potência". Aumenta o efeito de cura dos itens.
+
+Emma ensinou essa técnica ao Escultor há muito tempo. Memorizar o gosto melhora seus efeitos. Contudo, saber a técnica não deixa o gosto do remédio melhor.</text>
+<text id="640100">Adquire a habilidade passiva "Remédio da Emma: Aroma". Aumenta o efeito de cura dos itens.
+
+Emma ensinou essa técnica ao Escultor há muito tempo. Sentir o aroma do remédio e memorizá-lo melhora seu efeito. Mas ele continuará cheirando tão mal quanto.</text>
+<text id="640200">Adquire a habilidade passiva "Remédio Shinobi: nível 1". Aumenta o efeito de cura dos itens.
+
+ Conhecimento medicinal é vital para a sobrevivência de um shinobi. Ferir-se em batalha é inevitável.
+
+A única forma de aprender é ser gravemente ferido várias vezes por oponentes valorosos.</text>
+<text id="640300">Adquire a habilidade passiva "Remédio Shinobi: nível 2". Aumenta o efeito de cura dos itens. Às vezes o shinobi sobrevive ao que seria morte certa. Para isso, conhecimento medicinal é vital. A única forma de aprender é ser gravemente ferido várias vezes por oponentes valorosos.</text>
+<text id="640400">Adquire a habilidade passiva "Remédio Shinobi: nível 3". Aumenta o efeito de cura dos itens. Um shinobi luta como um lobo solitário, sem a ajuda de outrem. Assim, conhecimento medicinal é vital. A única maneira de aprender tal técnica é ser gravemente ferido várias e várias vezes por oponentes valorosos.</text>
+<text id="650000">Adquire a habilidade passiva "Carma Shinobi: Corpo". Aumenta o número máximo de brasões espirituais carregados.
+
+Brasões são manifestações de remorso. Os arrependidos de suas ações são assombrados por muitos brasões. O shinobi que muito mata deve pagar por esses pecados com o seu corpo.</text>
+<text id="650100">Adquire a habilidade passiva "Carma Shinobi: Mente". Aumenta o número máximo de brasões espirituais carregados.
+
+Brasões são manifestações de remorso. Os arrependidos de suas ações são assombrados por muitos brasões. O shinobi que muito mata deve pagar por esses pecados com a sua mente.</text>
+<text id="650200">Adquire a habilidade passiva "Carma do Escultor: Sangue". Aumenta o número máximo de brasões espirituais carregados.
+
+Brasões são manifestações de remorso. Os arrependidos de suas ações são assombrados por muitos brasões. O sangue derramado na prótese se transforma em ferrugem permanente, uma prova do fardo do usuário.</text>
+<text id="650300">Adquire a habilidade passiva "Carma do Escultor: Cicatrizes". Aumenta o número máximo de brasões espirituais carregados.
+
+Brasões são manifestações de remorso. Os arrependidos de suas ações são assombrados por muitos brasões. Os pequenos cortes e cicatrizes da prótese são provas das inúmeras mortes que ela causou. </text>
+<text id="650400">Adquire a habilidade passiva "Carma monstruoso". Aumenta a quantidade máxima de brasões espirituais carregados. Brasões são manifestações de remorso. Os arrependidos de suas ações são assombrados brasões. O monstro pode ter sido fadado ao carma de um homem. Herdar o carma das vítimas faz parte de ser um shinobi.</text>
+<text id="660000">Adquire a habilidade passiva "Sopro de Vida - Luz".
+Recupera vitalidade após um golpe mortal. Golpes mortais dão ao shinobi uma chance de respirar. O shinobi consegue acalmar o corpo e a mente através da respiração, mesmo durante uma execução. Isso possibilita execuções contínuas, sem intervalos.</text>
+<text id="660100">Adquire a habilidade passiva "Sopro de Vida - Sombra".
+Recupera vitalidade após um golpe mortal.
+
+Golpes mortais dão aos shinobi uma oportunidade de respirar. Enfrentar batalhas com oponentes poderosos aumenta ainda mais esse momento de alívio.</text>
+<text id="660200">Adquire a habilidade passiva "Sopro da Natureza - Luz". Recupera a postura após um golpe mortal. O estilo Ashina também tem técnicas para lutas em que o inimigo está em número maior. Após uma execução, é preciso expirar para expelir o remorso e reafirmar seu centro para recuperar a postura.</text>
+<text id="660300">Adquire a habilidade passiva "Sopro da Natureza - Sombra". Recupera a postura após um golpe mortal. Um shinobi deve estar preparado para batalhas contra inimigos em maior número. Após uma execução, é preciso expirar para expelir o remorso e reafirmar seu centro para recuperar a postura. Enfrentar oponentes aumenta esse alívio.</text>
+<text id="660400">Adquire a habilidade passiva "Olhos de Shinobi". Aumenta o dano causado à postura após um Contra-ataque Mikiri.
+
+Os olhos de um shinobi seguem a lâmina prevendo seus movimentos. Manter a compostura mesmo temendo o gume afiado é a chave da vitória.  </text>
+<text id="660500">Adquire a habilidade passiva "Devoção". Aumenta o tempo de efeito de um confeito budista ao ser usado.
+
+Aqueles que demonstram devoção são agraciados com a proteção dos deuses por um período estendido.  </text>
+<text id="660600">Adquire a habilidade passiva "Carpa Ascendente". Aumenta o dano causado à postura após repelir um ataque.
+
+O estilo Ashina está arraigado ao fluxo das águas da nascente. Acredita-se que o ato de repelir uma lâmina é comparável à ascensão da carpa por uma cascata.</text>
+<text id="660700">Adquire a habilidade passiva "Carpa Descendente". Por alguns segundos após repelir um golpe, aumenta o dano à postura do inimigo.
+
+O estilo Ashina está arraigado ao fluxo da nascente. Acredita-se que o ato de repelir uma lâmina é comparável à descida da carpa por uma cascata.</text>
+<text id="660800">Adquire a habilidade passiva "Água Fluente".
+
+Reduz a quantidade de dano à postura quando atacado por inimigos com espada.
+
+Como os rios, a força não deve ser combatida com mais força, mas deve ser redirecionada como o curso da água.</text>
+<text id="670000">Adquire a arte de combate "Saque Mortal".
+
+Uma técnica de espada que usa a Lâmina Mortal. Seu uso custa brasões espirituais. A Lâmina Mortal retalha inimigos deixando uma névoa nociva. Ela estende o alcance da lâmina. Usar a lâmina que não pode ser empunhada apenas o juramentado pode alcançar.</text>
+<text id="671000">Adquire a arte de combate "Lampejo do Dragão". Um corte em alta velocidade a partir da postura de espada embainhada. Carregue para lançar ondas de vento. Seu uso custa brasões espirituais. Quando jovem, Isshin era um demônio com a espada, passando seus dias em busca de combates mortais. Ele costumava ponderar sobre como executar seus ataques, mas sua lâmina sempre se movia primeiro.</text>
+<text id="672000">Adquire a arte de combate "Passagem Flutuante". Lança uma série de ataques que confundem o inimigo com seus movimentos coreografados. Apesar de ser uma arte de Ashina, é considerada herege, pois foi ensinada por uma forasteira. Sua mestra atravessou a Passagem Flutuante e desceu até Ashina. Seu nome era Tomoe.</text>
+<text id="673000">Adquire a arte de combate "Mente Una". Desfere uma tempestade de ataques a partir da posição de espada embainhada. É tão rápido que a lâmina fica invisível. Custa brasões espirituais para usar. Deve-se focar sua alma no desembainhar da lâmina e nada mais, através disso, a velocidade dos ataques será sobrenatural. Somente alguém tão talentoso quanto Isshin seria capaz de executá-la.</text>
+<text id="680000">Adquire a habilidade passiva "Técnica de respiração Mibu". Concede a capacidade de mergulhar e respirar debaixo d'água.
+
+Desenvolvida pelo fundador do vilarejo de Mibu. Quem quiser se juntar ao cortejo deve dominar a técnica. Sem isso, não se pode encontrar o Dragão Divino.</text>
+<text id="681000">Adquire a arte marcial shinobi "Golpe Mortal Antiaéreo". Uma técnica feita para deter um inimigo saltando.
+
+Explora um inimigo pulando em sua direção e realizando um golpe mortal. A habilidade perfeita para um shinobi que queira obter vantagem no ar.  </text>
+<text id="690000">Informação bloqueada</text>
+<text id="690100">Informação bloqueada</text>
+<text id="690200">Informação bloqueada</text>
+<text id="690300">Informação bloqueada</text>
+<text id="690400">Informação bloqueada</text>
+<text id="699000">Informação bloqueada</text>
+</entries>
+</fmg>

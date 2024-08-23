@@ -1,0 +1,3806 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<filename>イベントテキスト.fmg</filename>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">%null%</text>
+<text id="2">%null%</text>
+<text id="3">%null%</text>
+<text id="4">%null%</text>
+<text id="5">%null%</text>
+<text id="6">%null%</text>
+<text id="7">%null%</text>
+<text id="8">%null%</text>
+<text id="9">%null%</text>
+<text id="10">%null%</text>
+<text id="11">%null%</text>
+<text id="12">%null%</text>
+<text id="13">%null%</text>
+<text id="14">%null%</text>
+<text id="15">%null%</text>
+<text id="16">%null%</text>
+<text id="17">%null%</text>
+<text id="18">%null%</text>
+<text id="19">%null%</text>
+<text id="20">%null%</text>
+<text id="21">%null%</text>
+<text id="22">%null%</text>
+<text id="23">%null%</text>
+<text id="24">%null%</text>
+<text id="25">%null%</text>
+<text id="26">%null%</text>
+<text id="27">%null%</text>
+<text id="28">%null%</text>
+<text id="29">%null%</text>
+<text id="30">%null%</text>
+<text id="31">%null%</text>
+<text id="32">%null%</text>
+<text id="33">%null%</text>
+<text id="34">%null%</text>
+<text id="35">%null%</text>
+<text id="36">%null%</text>
+<text id="37">%null%</text>
+<text id="38">%null%</text>
+<text id="39">%null%</text>
+<text id="40">%null%</text>
+<text id="41">%null%</text>
+<text id="42">%null%</text>
+<text id="43">%null%</text>
+<text id="44">%null%</text>
+<text id="45">%null%</text>
+<text id="46">%null%</text>
+<text id="47">%null%</text>
+<text id="48">%null%</text>
+<text id="49">%null%</text>
+<text id="50">%null%</text>
+<text id="51">%null%</text>
+<text id="52">%null%</text>
+<text id="53">%null%</text>
+<text id="54">%null%</text>
+<text id="55">%null%</text>
+<text id="56">%null%</text>
+<text id="57">%null%</text>
+<text id="58">%null%</text>
+<text id="59">%null%</text>
+<text id="60">%null%</text>
+<text id="61">%null%</text>
+<text id="62">%null%</text>
+<text id="63">%null%</text>
+<text id="64">%null%</text>
+<text id="65">%null%</text>
+<text id="66">%null%</text>
+<text id="67">%null%</text>
+<text id="68">%null%</text>
+<text id="69">%null%</text>
+<text id="70">%null%</text>
+<text id="71">%null%</text>
+<text id="72">%null%</text>
+<text id="73">%null%</text>
+<text id="74">%null%</text>
+<text id="75">%null%</text>
+<text id="76">%null%</text>
+<text id="77">%null%</text>
+<text id="78">%null%</text>
+<text id="79">%null%</text>
+<text id="80">%null%</text>
+<text id="81">%null%</text>
+<text id="82">%null%</text>
+<text id="83">%null%</text>
+<text id="2290">%null%</text>
+<text id="2291">%null%</text>
+<text id="2292">%null%</text>
+<text id="2293">%null%</text>
+<text id="2294">%null%</text>
+<text id="2295">%null%</text>
+<text id="2296">%null%</text>
+<text id="2297">%null%</text>
+<text id="2298">%null%</text>
+<text id="2299">%null%</text>
+<text id="2300">%null%</text>
+<text id="2301">%null%</text>
+<text id="2302">%null%</text>
+<text id="2303">%null%</text>
+<text id="2304">%null%</text>
+<text id="2305">%null%</text>
+<text id="2306">%null%</text>
+<text id="2307">%null%</text>
+<text id="2308">%null%</text>
+<text id="2309">%null%</text>
+<text id="2310">%null%</text>
+<text id="2311">%null%</text>
+<text id="2312">%null%</text>
+<text id="2313">%null%</text>
+<text id="2314">%null%</text>
+<text id="2315">%null%</text>
+<text id="2316">%null%</text>
+<text id="2317">%null%</text>
+<text id="2318">%null%</text>
+<text id="2319">%null%</text>
+<text id="2320">%null%</text>
+<text id="2321">%null%</text>
+<text id="2322">%null%</text>
+<text id="2323">%null%</text>
+<text id="2324">%null%</text>
+<text id="2400">%null%</text>
+<text id="2401">%null%</text>
+<text id="2402">%null%</text>
+<text id="2403">%null%</text>
+<text id="2404">%null%</text>
+<text id="2405">%null%</text>
+<text id="2406">%null%</text>
+<text id="2407">%null%</text>
+<text id="2408">%null%</text>
+<text id="2409">%null%</text>
+<text id="2410">%null%</text>
+<text id="2411">%null%</text>
+<text id="2412">%null%</text>
+<text id="2413">%null%</text>
+<text id="2414">%null%</text>
+<text id="2415">%null%</text>
+<text id="2416">%null%</text>
+<text id="2417">%null%</text>
+<text id="2418">%null%</text>
+<text id="2419">%null%</text>
+<text id="2420">%null%</text>
+<text id="2421">%null%</text>
+<text id="2422">%null%</text>
+<text id="2450">%null%</text>
+<text id="2451">%null%</text>
+<text id="2452">%null%</text>
+<text id="2453">%null%</text>
+<text id="2500">%null%</text>
+<text id="2501">%null%</text>
+<text id="2502">%null%</text>
+<text id="2503">%null%</text>
+<text id="2504">%null%</text>
+<text id="2505">%null%</text>
+<text id="2506">%null%</text>
+<text id="2507">%null%</text>
+<text id="2508">%null%</text>
+<text id="2509">%null%</text>
+<text id="2510">%null%</text>
+<text id="2511">%null%</text>
+<text id="2512">%null%</text>
+<text id="2513">%null%</text>
+<text id="2514">%null%</text>
+<text id="2515">%null%</text>
+<text id="2516">%null%</text>
+<text id="2517">%null%</text>
+<text id="2518">%null%</text>
+<text id="2519">%null%</text>
+<text id="2520">%null%</text>
+<text id="2521">%null%</text>
+<text id="2522">%null%</text>
+<text id="2523">%null%</text>
+<text id="2524">%null%</text>
+<text id="2525">%null%</text>
+<text id="2526">%null%</text>
+<text id="2527">%null%</text>
+<text id="2528">%null%</text>
+<text id="2529">%null%</text>
+<text id="2530">%null%</text>
+<text id="2531">%null%</text>
+<text id="2532">%null%</text>
+<text id="2533">%null%</text>
+<text id="2534">%null%</text>
+<text id="2535">%null%</text>
+<text id="2610">%null%</text>
+<text id="2611">%null%</text>
+<text id="2612">%null%</text>
+<text id="2613">%null%</text>
+<text id="2614">%null%</text>
+<text id="2615">%null%</text>
+<text id="2616">%null%</text>
+<text id="2617">%null%</text>
+<text id="2618">%null%</text>
+<text id="2619">%null%</text>
+<text id="2620">%null%</text>
+<text id="2621">%null%</text>
+<text id="2622">%null%</text>
+<text id="2623">%null%</text>
+<text id="2624">%null%</text>
+<text id="2625">%null%</text>
+<text id="70000">Shuriken anexada (após lançamento)</text>
+<text id="71000">Bombinha shinobi (após lançamento)</text>
+<text id="78000">Lança anexada (após investida/dilaceramento)</text>
+<text id="83000">Machado anexado (após ataque inicial)</text>
+<text id="84000">Corvo da Névoa (após ativação)</text>
+<text id="88000">Lança anexada (após arrastar)</text>
+<text id="96000">Guarda-chuva anexado (enquanto defende)
+O guarda-chuva anexado acumula energia
+bloqueando projéteis inimigos,  
+e então a libera. </text>
+<text id="99000">Apito de dedo (pós-assobio)
+Causa um zumbido na posição do alvo.</text>
+<text id="102000">Duto Flamejante (pós-explosão inicial)</text>
+<text id="107000">Abdução Divina (após Vórtice Iminente)</text>
+<text id="10010103">Pegar item</text>
+<text id="10010104">%null%</text>
+<text id="10010105">%null%</text>
+<text id="10010106">%null%</text>
+<text id="10010107">Pegar item</text>
+<text id="10010108">%null%</text>
+<text id="10010109">%null%</text>
+<text id="10010110">OK</text>
+<text id="10010111">%null%</text>
+<text id="10010112">%null%</text>
+<text id="10010113">%null%</text>
+<text id="10010114">%null%</text>
+<text id="10010115">%null%</text>
+<text id="10010116">%null%</text>
+<text id="10010117">%null%</text>
+<text id="10010118">%null%</text>
+<text id="10010119">%null%</text>
+<text id="10010120">Inspecionar</text>
+<text id="10010121">Inspecionar caixa de oferendas</text>
+<text id="10010122">Ir para os Corredores da Ilusão </text>
+<text id="10010123">Deixar os Corredores da Ilusão</text>
+<text id="10010124">%null%</text>
+<text id="10010125">%null%</text>
+<text id="10010126">%null%</text>
+<text id="10010127">%null%</text>
+<text id="10010128">%null%</text>
+<text id="10010129">%null%</text>
+<text id="10010130">Orar</text>
+<text id="10010131">Orar</text>
+<text id="10010132">%null%</text>
+<text id="10010133">%null%</text>
+<text id="10010134">%null%</text>
+<text id="10010135">%null%</text>
+<text id="10010136">%null%</text>
+<text id="10010137">%null%</text>
+<text id="10010138">%null%</text>
+<text id="10010139">%null%</text>
+<text id="10010140">Ler</text>
+<text id="10010141">%null%</text>
+<text id="10010142">%null%</text>
+<text id="10010143">%null%</text>
+<text id="10010144">%null%</text>
+<text id="10010145">%null%</text>
+<text id="10010146">%null%</text>
+<text id="10010147">%null%</text>
+<text id="10010148">%null%</text>
+<text id="10010149">%null%</text>
+<text id="10010150">Usou a chave da casa de guarda.</text>
+<text id="10010151">Usou a chave do templo escondido.</text>
+<text id="10010152">Usou a chave da passagem secreta.</text>
+<text id="10010153">Usou a chave do santuário do forte de armas.</text>
+<text id="10010154">%null%</text>
+<text id="10010155">%null%</text>
+<text id="10010156">%null%</text>
+<text id="10010157">%null%</text>
+<text id="10010158">%null%</text>
+<text id="10010159">%null%</text>
+<text id="10010160">%null%</text>
+<text id="10010161">Não abre por este lado.</text>
+<text id="10010162">Trancado.</text>
+<text id="10010163">O portão está fechado com firmeza.</text>
+<text id="10010164">O dispositivo está inoperante.</text>
+<text id="10010182">Comungar com Ídolo do Escultor</text>
+<text id="10010183"> Comungar com Ídolo do Escultor</text>
+<text id="10010184">%null%</text>
+<text id="10010185">%null%</text>
+<text id="10010186">%null%</text>
+<text id="10010187">%null%</text>
+<text id="10010188">%null%</text>
+<text id="10010189">%null%</text>
+<text id="10010190">Ajoelhar diante do Herdeiro Divino</text>
+<text id="10010191">Tocar o Vestígio</text>
+<text id="10010192">%null%</text>
+<text id="10010193">%null%</text>
+<text id="10010194">%null%</text>
+<text id="10010195">%null%</text>
+<text id="10010196">%null%</text>
+<text id="10010197">%null%</text>
+<text id="10010198">%null%</text>
+<text id="10010199">%null%</text>
+<text id="10010200">Falar</text>
+<text id="10010250">Bisbilhotar</text>
+<text id="10010251">%null%</text>
+<text id="10010252">%null%</text>
+<text id="10010253">%null%</text>
+<text id="10010254">%null%</text>
+<text id="10010255">%null%</text>
+<text id="10010256">%null%</text>
+<text id="10010257">%null%</text>
+<text id="10010258">%null%</text>
+<text id="10010259">%null%</text>
+<text id="10010260">Escutar o Vestígio</text>
+<text id="10010310">&lt;?kgiconKc@20?&gt;: Encostar-se</text>
+<text id="10010311">&lt;?kgiconKc@20?&gt;: Desencostar-se</text>
+<text id="10010312">%null%</text>
+<text id="10010313">%null%</text>
+<text id="10010314">%null%</text>
+<text id="10010315">%null%</text>
+<text id="10010316">%null%</text>
+<text id="10010317">%null%</text>
+<text id="10010318">%null%</text>
+<text id="10010319">%null%</text>
+<text id="10010320">&lt;?kgiconKc@20?&gt;: Pendurar-se</text>
+<text id="10010321">&lt;?kgiconKc@20?&gt;: Subir</text>
+<text id="10010322">&lt;?kgiconKc@5?&gt;: Soltar</text>
+<text id="10010323">%null%</text>
+<text id="10010324">%null%</text>
+<text id="10010325">%null%</text>
+<text id="10010326">%null%</text>
+<text id="10010327">%null%</text>
+<text id="10010328">%null%</text>
+<text id="10010329">%null%</text>
+<text id="10010330">&lt;?kgiconKc@17?&gt;: Mergulhar</text>
+<text id="10010331">%null%</text>
+<text id="10010332">%null%</text>
+<text id="10010333">%null%</text>
+<text id="10010334">%null%</text>
+<text id="10010335">%null%</text>
+<text id="10010336">%null%</text>
+<text id="10010337">%null%</text>
+<text id="10010338">%null%</text>
+<text id="10010339">%null%</text>
+<text id="10010340">&lt;?kgiconKc@5?&gt;: Impulso subaquático</text>
+<text id="10010341">&lt;?kgiconKc@19?&gt;: Nadar para cima</text>
+<text id="10010342">&lt;?kgiconKc@17?&gt;: Nadar para baixo</text>
+<text id="10010343">&lt;?kgiconKc@19?&gt;: Nadar para cima</text>
+<text id="10010390">&lt;?kgiconKc@16?&gt;: Ressuscitar</text>
+<text id="10010391">&lt;?kgiconKc@18?&gt;: Morrer</text>
+<text id="10010392">%null%</text>
+<text id="10010393">%null%</text>
+<text id="10010394">%null%</text>
+<text id="10010395">%null%</text>
+<text id="10010396">%null%</text>
+<text id="10010397">%null%</text>
+<text id="10010398">%null%</text>
+<text id="10010399">%null%</text>
+<text id="10010400">Abrir</text>
+<text id="10010401">%null%</text>
+<text id="10010402">%null%</text>
+<text id="10010403">%null%</text>
+<text id="10010404">%null%</text>
+<text id="10010405">%null%</text>
+<text id="10010406">%null%</text>
+<text id="10010407">%null%</text>
+<text id="10010408">%null%</text>
+<text id="10010409">%null%</text>
+<text id="10010410">Afastar tatame</text>
+<text id="10010411">%null%</text>
+<text id="10010412">%null%</text>
+<text id="10010413">%null%</text>
+<text id="10010414">%null%</text>
+<text id="10010415">%null%</text>
+<text id="10010416">%null%</text>
+<text id="10010417">%null%</text>
+<text id="10010418">%null%</text>
+<text id="10010419">%null%</text>
+<text id="10010420">Abrir baú</text>
+<text id="10010500">Operar mecanismo</text>
+<text id="10010501">Operar mecanismo</text>
+<text id="10010502">%null%</text>
+<text id="10010503">%null%</text>
+<text id="10010504">%null%</text>
+<text id="10010505">%null%</text>
+<text id="10010506">%null%</text>
+<text id="10010507">%null%</text>
+<text id="10010508">%null%</text>
+<text id="10010509">%null%</text>
+<text id="10010510">Tocar sino</text>
+<text id="10010511">Tocar sino</text>
+<text id="10010512">%null%</text>
+<text id="10010513">%null%</text>
+<text id="10010514">%null%</text>
+<text id="10010515">%null%</text>
+<text id="10010516">%null%</text>
+<text id="10010517">%null%</text>
+<text id="10010518">%null%</text>
+<text id="10010519">%null%</text>
+<text id="10010520">Entrar na liteira</text>
+<text id="10010521">Sair da liteira</text>
+<text id="10010522">%null%</text>
+<text id="10010523">%null%</text>
+<text id="10010524">%null%</text>
+<text id="10010525">%null%</text>
+<text id="10010526">%null%</text>
+<text id="10010527">%null%</text>
+<text id="10010528">%null%</text>
+<text id="10010529">%null%</text>
+<text id="10010530">Empinar pipa</text>
+<text id="10010531">Largar</text>
+<text id="10010532">%null%</text>
+<text id="10010533">%null%</text>
+<text id="10010534">%null%</text>
+<text id="10010535">%null%</text>
+<text id="10010536">%null%</text>
+<text id="10010537">%null%</text>
+<text id="10010538">%null%</text>
+<text id="10010539">%null%</text>
+<text id="10010540">Usar porta giratória</text>
+<text id="10010541">Usar porta giratória</text>
+<text id="10010542">Fechado pelo outro lado.</text>
+<text id="10010543">%null%</text>
+<text id="10010544">%null%</text>
+<text id="10010545">%null%</text>
+<text id="10010546">%null%</text>
+<text id="10010547">%null%</text>
+<text id="10010548">%null%</text>
+<text id="10010549">%null%</text>
+<text id="10010550">Orar</text>
+<text id="10010551">Viajar para Palácio da Nascente</text>
+<text id="10010552">Não viajar para o Palácio</text>
+<text id="10010553">%null%</text>
+<text id="10010554">%null%</text>
+<text id="10010555">%null%</text>
+<text id="10010556">%null%</text>
+<text id="10010557">%null%</text>
+<text id="10010558">%null%</text>
+<text id="10010559">%null%</text>
+<text id="10010560">Orar</text>
+<text id="10010561">A donzela dorme profundamente.</text>
+<text id="10010562">%null%</text>
+<text id="10010563">%null%</text>
+<text id="10010564">%null%</text>
+<text id="10010565">%null%</text>
+<text id="10010566">%null%</text>
+<text id="10010567">%null%</text>
+<text id="10010568">%null%</text>
+<text id="10010569">%null%</text>
+<text id="10010570">%null%</text>
+<text id="10010571">%null%</text>
+<text id="10010572">%null%</text>
+<text id="10010573">%null%</text>
+<text id="10010574">%null%</text>
+<text id="10010575">%null%</text>
+<text id="10010576">%null%</text>
+<text id="10010577">%null%</text>
+<text id="10010578">%null%</text>
+<text id="10010579">%null%</text>
+<text id="10010580">Examinar incensário</text>
+<text id="10010581">Queimar incenso</text>
+<text id="10010582">%null%</text>
+<text id="10010583">%null%</text>
+<text id="10010584">%null%</text>
+<text id="10010585">%null%</text>
+<text id="10010586">%null%</text>
+<text id="10010587">%null%</text>
+<text id="10010588">%null%</text>
+<text id="10010589">%null%</text>
+<text id="10010590">Parar treinamento?</text>
+<text id="10010591">%null%</text>
+<text id="10010592">%null%</text>
+<text id="10010593">%null%</text>
+<text id="10010594">%null%</text>
+<text id="10010595">%null%</text>
+<text id="10010596">%null%</text>
+<text id="10010597">%null%</text>
+<text id="10010598">%null%</text>
+<text id="10010599">%null%</text>
+<text id="10010600">&lt;?kgiconKc@44?&gt;: Parar gravação</text>
+<text id="10010700">Esta parece ser a rota de fuga.
+Chamar o Herdeiro Divino com o apito de junco?</text>
+<text id="10010713">A instalação do jogo está incompleta,
+então você não poderá prosseguir.</text>
+<text id="10010714">%null%</text>
+<text id="10010715">%null%</text>
+<text id="10010716">%null%</text>
+<text id="10010717">%null%</text>
+<text id="10010718">%null%</text>
+<text id="10010719">%null%</text>
+<text id="10010720">Selecione o destino</text>
+<text id="10010768">&lt;?null?&gt;</text>
+<text id="10010769">%null%</text>
+<text id="10010770">Queimadura</text>
+<text id="10010771">Veneno</text>
+<text id="10010772">Terror</text>
+<text id="10010773">%null%</text>
+<text id="10010774">%null%</text>
+<text id="10010775">%null%</text>
+<text id="10010776">Debilitado</text>
+<text id="10010777">Choque</text>
+<text id="10010778">%null%</text>
+<text id="10010779">%null%</text>
+<text id="10010780">%null%</text>
+<text id="10010781">%null%</text>
+<text id="10010782">%null%</text>
+<text id="10010783">%null%</text>
+<text id="10010784">%null%</text>
+<text id="10010785">%null%</text>
+<text id="10010786">%null%</text>
+<text id="10010787">%null%</text>
+<text id="10010788">%null%</text>
+<text id="10010789">%null%</text>
+<text id="10010790">Perigo</text>
+<text id="10010791">%null%</text>
+<text id="10010792">%null%</text>
+<text id="10010793">%null%</text>
+<text id="10010794">%null%</text>
+<text id="10010795">%null%</text>
+<text id="10010796">%null%</text>
+<text id="10010797">%null%</text>
+<text id="10010798">%null%</text>
+<text id="10010799">%null%</text>
+<text id="10010800">A caixa está vazia.</text>
+<text id="10010900">EXECUÇÃO SHINOBI</text>
+<text id="10010901">ÍDOLO DO ESCULTOR ENCONTRADO</text>
+<text id="10010902">MORTE</text>
+<text id="10010903">IMORTALIDADE ROMPIDA</text>
+<text id="10010950">DÁDIVA DAS LÁGRIMAS</text>
+<text id="10010951">FARDO SOMBRIO</text>
+<text id="10010952">FARDO DESFEITO</text>
+<text id="10010953">AUXÍLIO OCULTO</text>
+<text id="10010954">PRAGA DO DRAGÃO CURADA</text>
+<text id="10010955">REFLEXÃO INTERIOR CONQUISTADA</text>
+<text id="10011951">Ídolo do Templo Dilapidado</text>
+<text id="10011952">Último Ídolo comungado</text>
+<text id="10020000">%null%</text>
+<text id="10020001">%null%</text>
+<text id="10020002">%null%</text>
+<text id="10020003">%null%</text>
+<text id="10020004">%null%</text>
+<text id="10020005">%null%</text>
+<text id="10020006">%null%</text>
+<text id="10020007">%null%</text>
+<text id="10020008">%null%</text>
+<text id="10020009">%null%</text>
+<text id="10020010">Movimentação sob o piso</text>
+<text id="10020011">O Lobo pode passar por espaços estreitos
+como debaixo do piso quando agachado.</text>
+<text id="10020012">%null%</text>
+<text id="10020013">%null%</text>
+<text id="10020014">%null%</text>
+<text id="10020015">%null%</text>
+<text id="10020016">%null%</text>
+<text id="10020017">%null%</text>
+<text id="10020018">%null%</text>
+<text id="10020019">%null%</text>
+<text id="10020020">Gancho aéreo</text>
+<text id="10020021">&lt;?kgiconKc@6?&gt;, &lt;?kgiconKc@19?&gt;: Gancho aéreo</text>
+<text id="10020022">%null%</text>
+<text id="10020023">%null%</text>
+<text id="10020024">%null%</text>
+<text id="10020025">%null%</text>
+<text id="10020026">%null%</text>
+<text id="10020027">%null%</text>
+<text id="10020028">%null%</text>
+<text id="10020029">%null%</text>
+<text id="10020030">%null%</text>
+<text id="10020031">%null%</text>
+<text id="10020032">%null%</text>
+<text id="10020033">%null%</text>
+<text id="10020034">%null%</text>
+<text id="10020035">%null%</text>
+<text id="10020036">%null%</text>
+<text id="10020037">%null%</text>
+<text id="10020038">%null%</text>
+<text id="10020039">%null%</text>
+<text id="10020040">Pular na parede e se pendurar</text>
+<text id="10020041">&lt;?kgiconKc@6?&gt; no ar perto de uma parede: Pulo de parede
+&lt;?kgiconKc@20?&gt; no ar perto de uma beirada: Pendurar-se</text>
+<text id="10020042">%null%</text>
+<text id="10020043">%null%</text>
+<text id="10020044">%null%</text>
+<text id="10020045">%null%</text>
+<text id="10020046">%null%</text>
+<text id="10020047">%null%</text>
+<text id="10020048">%null%</text>
+<text id="10020049">%null%</text>
+<text id="10020050">%null%</text>
+<text id="10020051">%null%</text>
+<text id="10020052">%null%</text>
+<text id="10020053">%null%</text>
+<text id="10020054">%null%</text>
+<text id="10020055">%null%</text>
+<text id="10020056">%null%</text>
+<text id="10020057">%null%</text>
+<text id="10020058">%null%</text>
+<text id="10020059">%null%</text>
+<text id="10020060">Pulo de parede sequencial</text>
+<text id="10020061">&lt;?kgiconKc@6?&gt; em paredes com pontos de apoio: Pulo de parede sequencial</text>
+<text id="10020080">%null%</text>
+<text id="10020081">%null%</text>
+<text id="10020082">%null%</text>
+<text id="10020083">%null%</text>
+<text id="10020084">%null%</text>
+<text id="10020085">%null%</text>
+<text id="10020086">%null%</text>
+<text id="10020087">%null%</text>
+<text id="10020088">%null%</text>
+<text id="10020089">%null%</text>
+<text id="10020090">Pular e se pendurar</text>
+<text id="10020091">&lt;?kgiconKc@6?&gt;: Pular
+&lt;?kgiconKc@20?&gt; no ar perto de uma beirada: Pendurar-se</text>
+<text id="10020120">Golpe mortal aéreo</text>
+<text id="10020121">&lt;?kgiconKc@6?&gt; em direção a um inimigo pulando: Pular
+&lt;?kgiconKc@16?&gt; quando o símbolo vermelho aparecer: Golpe mortal aéreo</text>
+<text id="10020250">Controle subaquático</text>
+<text id="10020251">&lt;?kgiconKc@17?&gt;: Mergulhar/Nadar para baixo
+&lt;?kgiconKc@19?&gt;: Emergir/Nadar para cima
+&lt;?kgiconKc@5?&gt; movendo-se com &lt;?kgMove?&gt;: Impulso subaquático</text>
+<text id="10020252">%null%</text>
+<text id="10020253">%null%</text>
+<text id="10020254">%null%</text>
+<text id="10020255">%null%</text>
+<text id="10020256">%null%</text>
+<text id="10020257">%null%</text>
+<text id="10020258">%null%</text>
+<text id="10020259">%null%</text>
+<text id="10020260">Golpe mortal descendente</text>
+<text id="10020261">&lt;?kgiconKc@12?&gt;: Travar mira no alvo
+&lt;?kgiconKc@6?&gt;: Pular
+&lt;?kgiconKc@16?&gt; quando o marcador vermelho aparecer: Golpe mortal descendente</text>
+<text id="10020262">%null%</text>
+<text id="10020263">%null%</text>
+<text id="10020264">%null%</text>
+<text id="10020265">%null%</text>
+<text id="10020266">%null%</text>
+<text id="10020267">%null%</text>
+<text id="10020268">%null%</text>
+<text id="10020269">%null%</text>
+<text id="10020270">Furtividade</text>
+<text id="10020271">Você está desarmado.
+
+Use a furtividade para chegar à Torre da Lua evitando os inimigos.</text>
+<text id="10020272">%null%</text>
+<text id="10020273">%null%</text>
+<text id="10020274">%null%</text>
+<text id="10020275">%null%</text>
+<text id="10020276">%null%</text>
+<text id="10020277">%null%</text>
+<text id="10020278">%null%</text>
+<text id="10020279">%null%</text>
+<text id="10020280">Contra-atacando projéteis inimigos</text>
+<text id="10020281">É possível repelir balas e outros projéteis</text>
+<text id="10020282">%null%</text>
+<text id="10020283">%null%</text>
+<text id="10020284">%null%</text>
+<text id="10020285">%null%</text>
+<text id="10020286">%null%</text>
+<text id="10020287">%null%</text>
+<text id="10020288">%null%</text>
+<text id="10020289">%null%</text>
+<text id="10020290">Inversão de Raio</text>
+<text id="10020291">Após ser atingido por um ataque de
+raio no ar,  &lt;?kgiconKc@16?&gt; antes de tocar o chão:
+Inversão de Raio</text>
+<text id="10020292">%null%</text>
+<text id="10020293">%null%</text>
+<text id="10020294">%null%</text>
+<text id="10020295">%null%</text>
+<text id="10020296">%null%</text>
+<text id="10020297">%null%</text>
+<text id="10020298">%null%</text>
+<text id="10020299">%null%</text>
+<text id="10020300">Essência da praga</text>
+<text id="10020301">Quanto mais vítimas da praga do dragão, mais essência da praga você acumulará, reduzindo a chance de Auxílio Oculto.</text>
+<text id="10020302">%null%</text>
+<text id="10020303">%null%</text>
+<text id="10020304">%null%</text>
+<text id="10020305">%null%</text>
+<text id="10020306">%null%</text>
+<text id="10020307">%null%</text>
+<text id="10020308">%null%</text>
+<text id="10020309">%null%</text>
+<text id="10020310">Uso de recursos durante reflexão</text>
+<text id="10020311">Consumíveis usados durante a Reflexão 
+ou Desafio de força são revertidos para seus estados anteriores ao retornar à realidade.
+
+Como a reflexão está totalmente dentro da mente, os recursos podem ser usados livremente.</text>
+<text id="10020840">%null%</text>
+<text id="10020841">%null%</text>
+<text id="10021000">&lt;?kgControlCamera?&gt;: Controlar câmera</text>
+<text id="10021001">%null%</text>
+<text id="10021002">%null%</text>
+<text id="10021003">%null%</text>
+<text id="10021004">%null%</text>
+<text id="10021005">%null%</text>
+<text id="10021006">%null%</text>
+<text id="10021007">%null%</text>
+<text id="10021008">%null%</text>
+<text id="10021009">%null%</text>
+<text id="10021010">&lt;?kgiconKc@6?&gt;: Pular</text>
+<text id="10021011">%null%</text>
+<text id="10021012">%null%</text>
+<text id="10021013">%null%</text>
+<text id="10021014">%null%</text>
+<text id="10021015">%null%</text>
+<text id="10021016">%null%</text>
+<text id="10021017">%null%</text>
+<text id="10021018">%null%</text>
+<text id="10021019">%null%</text>
+<text id="10021020">&lt;?kgiconKc@6?&gt; no ar perto da parede: Pulo de parede</text>
+<text id="10021021">%null%</text>
+<text id="10021022">%null%</text>
+<text id="10021023">%null%</text>
+<text id="10021024">%null%</text>
+<text id="10021025">%null%</text>
+<text id="10021026">%null%</text>
+<text id="10021027">%null%</text>
+<text id="10021028">%null%</text>
+<text id="10021029">%null%</text>
+<text id="10021030">&lt;?kgiconKc@20?&gt;: Encostar-se à parede</text>
+<text id="10021031">%null%</text>
+<text id="10021032">%null%</text>
+<text id="10021033">%null%</text>
+<text id="10021034">%null%</text>
+<text id="10021035">%null%</text>
+<text id="10021036">%null%</text>
+<text id="10021037">%null%</text>
+<text id="10021038">%null%</text>
+<text id="10021039">%null%</text>
+<text id="10021040">&lt;?kgMove?&gt; encostado a uma parede: Mover-se lateralmente</text>
+<text id="10021041">%null%</text>
+<text id="10021042">%null%</text>
+<text id="10021043">%null%</text>
+<text id="10021044">%null%</text>
+<text id="10021045">%null%</text>
+<text id="10021046">%null%</text>
+<text id="10021047">%null%</text>
+<text id="10021048">%null%</text>
+<text id="10021049">%null%</text>
+<text id="10021050">&lt;?kgiconKc@7?&gt;: Agachar-se</text>
+<text id="10021051">%null%</text>
+<text id="10021052">%null%</text>
+<text id="10021053">%null%</text>
+<text id="10021054">%null%</text>
+<text id="10021055">%null%</text>
+<text id="10021056">%null%</text>
+<text id="10021057">%null%</text>
+<text id="10021058">%null%</text>
+<text id="10021059">%null%</text>
+<text id="10021060">&lt;?kgiconKc@22?&gt;: Bisbilhotar</text>
+<text id="10021061">%null%</text>
+<text id="10021062">%null%</text>
+<text id="10021063">%null%</text>
+<text id="10021064">%null%</text>
+<text id="10021065">%null%</text>
+<text id="10021066">%null%</text>
+<text id="10021067">%null%</text>
+<text id="10021068">%null%</text>
+<text id="10021069">%null%</text>
+<text id="10021070">&lt;?kgiconKc@20?&gt; perto de uma beirada: Pendurar-se</text>
+<text id="10021071">%null%</text>
+<text id="10021072">%null%</text>
+<text id="10021073">%null%</text>
+<text id="10021074">%null%</text>
+<text id="10021075">%null%</text>
+<text id="10021076">%null%</text>
+<text id="10021077">%null%</text>
+<text id="10021078">%null%</text>
+<text id="10021079">%null%</text>
+<text id="10021080">&lt;?kgMove?&gt; ao se pendurar: Mover-se lateralmente</text>
+<text id="10021081">%null%</text>
+<text id="10021082">%null%</text>
+<text id="10021083">%null%</text>
+<text id="10021084">%null%</text>
+<text id="10021085">%null%</text>
+<text id="10021086">%null%</text>
+<text id="10021087">%null%</text>
+<text id="10021088">%null%</text>
+<text id="10021089">%null%</text>
+<text id="10021090">&lt;?kgiconKc@20?&gt;: Subir</text>
+<text id="10021091">%null%</text>
+<text id="10021092">%null%</text>
+<text id="10021093">%null%</text>
+<text id="10021094">%null%</text>
+<text id="10021095">%null%</text>
+<text id="10021096">%null%</text>
+<text id="10021097">%null%</text>
+<text id="10021098">%null%</text>
+<text id="10021099">%null%</text>
+<text id="10021100">&lt;?kgiconKc@5?&gt;: Soltar</text>
+<text id="10021101">%null%</text>
+<text id="10021102">%null%</text>
+<text id="10021103">%null%</text>
+<text id="10021104">%null%</text>
+<text id="10021105">%null%</text>
+<text id="10021106">%null%</text>
+<text id="10021107">%null%</text>
+<text id="10021108">%null%</text>
+<text id="10021109">%null%</text>
+<text id="10021110">&lt;?kgiconKc@27?&gt;: Abrir menu de equipamento</text>
+<text id="10021111">%null%</text>
+<text id="10021112">%null%</text>
+<text id="10021113">%null%</text>
+<text id="10021114">%null%</text>
+<text id="10021115">%null%</text>
+<text id="10021116">%null%</text>
+<text id="10021117">%null%</text>
+<text id="10021118">%null%</text>
+<text id="10021119">%null%</text>
+<text id="10021120">&lt;?kgiconKc@12?&gt;: Travar mira em alvo</text>
+<text id="10021121">%null%</text>
+<text id="10021122">%null%</text>
+<text id="10021123">%null%</text>
+<text id="10021124">%null%</text>
+<text id="10021125">%null%</text>
+<text id="10021126">%null%</text>
+<text id="10021127">%null%</text>
+<text id="10021128">%null%</text>
+<text id="10021129">%null%</text>
+<text id="10021130">&lt;?kgiconKc@16?&gt;: Atacar</text>
+<text id="10021131">%null%</text>
+<text id="10021132">%null%</text>
+<text id="10021133">%null%</text>
+<text id="10021134">%null%</text>
+<text id="10021135">%null%</text>
+<text id="10021136">%null%</text>
+<text id="10021137">%null%</text>
+<text id="10021138">%null%</text>
+<text id="10021139">%null%</text>
+<text id="10021140">&lt;?kgiconKc@16?&gt; em um inimigo com postura quebrada: Golpe mortal</text>
+<text id="10021141">%null%</text>
+<text id="10021142">%null%</text>
+<text id="10021143">%null%</text>
+<text id="10021144">%null%</text>
+<text id="10021145">%null%</text>
+<text id="10021146">%null%</text>
+<text id="10021147">%null%</text>
+<text id="10021148">%null%</text>
+<text id="10021149">%null%</text>
+<text id="10021150">&lt;?kgiconKc@18?&gt; no momento que o ataque inimigo atingir você: Repelir</text>
+<text id="10021151">%null%</text>
+<text id="10021152">%null%</text>
+<text id="10021153">%null%</text>
+<text id="10021154">%null%</text>
+<text id="10021155">%null%</text>
+<text id="10021156">%null%</text>
+<text id="10021157">%null%</text>
+<text id="10021158">%null%</text>
+<text id="10021159">%null%</text>
+<text id="10021160">&lt;?kgControlCamera?&gt; com alvo travado: Mudar de alvo</text>
+<text id="10021161">%null%</text>
+<text id="10021162">%null%</text>
+<text id="10021163">%null%</text>
+<text id="10021164">%null%</text>
+<text id="10021165">%null%</text>
+<text id="10021166">%null%</text>
+<text id="10021167">%null%</text>
+<text id="10021168">%null%</text>
+<text id="10021169">%null%</text>
+<text id="10021170">&lt;?kgiconKc@5?&gt;: Soltar</text>
+<text id="10021171">%null%</text>
+<text id="10021172">%null%</text>
+<text id="10021173">%null%</text>
+<text id="10021174">%null%</text>
+<text id="10021175">%null%</text>
+<text id="10021176">%null%</text>
+<text id="10021177">%null%</text>
+<text id="10021178">%null%</text>
+<text id="10021179">%null%</text>
+<text id="10021180">&lt;?kgiconKc@19?&gt;: Usar Gancho</text>
+<text id="10021181">%null%</text>
+<text id="10021182">%null%</text>
+<text id="10021183">%null%</text>
+<text id="10021184">%null%</text>
+<text id="10021185">%null%</text>
+<text id="10021186">%null%</text>
+<text id="10021187">%null%</text>
+<text id="10021188">%null%</text>
+<text id="10021189">%null%</text>
+<text id="10021190">%null%</text>
+<text id="10021191">%null%</text>
+<text id="10021192">%null%</text>
+<text id="10021193">%null%</text>
+<text id="10021194">%null%</text>
+<text id="10021195">%null%</text>
+<text id="10021196">%null%</text>
+<text id="10021197">%null%</text>
+<text id="10021198">%null%</text>
+<text id="10021199">%null%</text>
+<text id="10021200">&lt;?kgiconKc@17?&gt;: Usar ferramenta prostética</text>
+<text id="10021201">%null%</text>
+<text id="10021202">%null%</text>
+<text id="10021203">%null%</text>
+<text id="10021204">%null%</text>
+<text id="10021205">%null%</text>
+<text id="10021206">%null%</text>
+<text id="10021207">%null%</text>
+<text id="10021208">%null%</text>
+<text id="10021209">%null%</text>
+<text id="10021210">&lt;?kgiconKc@15?&gt;: Alternar ferramentas prostéticas equipadas</text>
+<text id="10021211">%null%</text>
+<text id="10021212">%null%</text>
+<text id="10021213">%null%</text>
+<text id="10021214">%null%</text>
+<text id="10021215">%null%</text>
+<text id="10021216">%null%</text>
+<text id="10021217">%null%</text>
+<text id="10021218">%null%</text>
+<text id="10021219">%null%</text>
+<text id="10021220">&lt;?kgiconKc@21?&gt;: Usar itens</text>
+<text id="10021221">%null%</text>
+<text id="10021222">%null%</text>
+<text id="10021223">%null%</text>
+<text id="10021224">%null%</text>
+<text id="10021225">%null%</text>
+<text id="10021226">%null%</text>
+<text id="10021227">%null%</text>
+<text id="10021228">%null%</text>
+<text id="10021229">%null%</text>
+<text id="10021230">&lt;?kgiconKc@16?&gt; após golpe mortal pelas costas: Ninjutsu</text>
+<text id="10021231">%null%</text>
+<text id="10021232">%null%</text>
+<text id="10021233">%null%</text>
+<text id="10021234">%null%</text>
+<text id="10021235">%null%</text>
+<text id="10021236">%null%</text>
+<text id="10021237">%null%</text>
+<text id="10021238">%null%</text>
+<text id="10021239">%null%</text>
+<text id="10021240">Segurar &lt;?kgiconKc@20?&gt;: Coletar itens dos inimigos</text>
+<text id="10021241">%null%</text>
+<text id="10021242">%null%</text>
+<text id="10021243">%null%</text>
+<text id="10021244">%null%</text>
+<text id="10021245">%null%</text>
+<text id="10021246">%null%</text>
+<text id="10021247">%null%</text>
+<text id="10021248">%null%</text>
+<text id="10021249">%null%</text>
+<text id="10021250">&lt;?kgiconKc@6?&gt;, &lt;?kgiconKc@19?&gt;: Gancho aéreo</text>
+<text id="10021251">%null%</text>
+<text id="10021252">%null%</text>
+<text id="10021253">%null%</text>
+<text id="10021254">%null%</text>
+<text id="10021255">%null%</text>
+<text id="10021256">%null%</text>
+<text id="10021257">%null%</text>
+<text id="10021258">%null%</text>
+<text id="10021259">%null%</text>
+<text id="10021260">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt;: Usar arte de combate equipada</text>
+<text id="10021261">%null%</text>
+<text id="10021262">%null%</text>
+<text id="10021263">%null%</text>
+<text id="10021264">%null%</text>
+<text id="10021265">%null%</text>
+<text id="10021266">%null%</text>
+<text id="10021267">%null%</text>
+<text id="10021268">%null%</text>
+<text id="10021269">%null%</text>
+<text id="10021270">&lt;?kgiconKc@5?&gt;: Esquiva</text>
+<text id="10021271">%null%</text>
+<text id="10021272">%null%</text>
+<text id="10021273">%null%</text>
+<text id="10021274">%null%</text>
+<text id="10021275">%null%</text>
+<text id="10021276">%null%</text>
+<text id="10021277">%null%</text>
+<text id="10021278">%null%</text>
+<text id="10021279">%null%</text>
+<text id="10021280">&lt;?kgMove?&gt; em direção a uma esquina: Espiar</text>
+<text id="10021500">&lt;?kgiconKc@20?&gt; no Ídolo do Escultor: Comungar</text>
+<text id="10021501">%null%</text>
+<text id="10021502">%null%</text>
+<text id="10021503">%null%</text>
+<text id="10021504">%null%</text>
+<text id="10021505">%null%</text>
+<text id="10021506">%null%</text>
+<text id="10021507">%null%</text>
+<text id="10021508">%null%</text>
+<text id="10021509">%null%</text>
+<text id="10021510">&lt;?kgiconKc@18?&gt; quando o projétil inimigo acertar você: Repelir</text>
+<text id="10021511">%null%</text>
+<text id="10021512">%null%</text>
+<text id="10021513">%null%</text>
+<text id="10021514">%null%</text>
+<text id="10021515">%null%</text>
+<text id="10021516">%null%</text>
+<text id="10021517">%null%</text>
+<text id="10021518">%null%</text>
+<text id="10021519">%null%</text>
+<text id="10021520">&lt;?kgiconKc@16?&gt;: Golpe mortal finalizador</text>
+<text id="10021521">%null%</text>
+<text id="10021522">%null%</text>
+<text id="10021523">%null%</text>
+<text id="10021524">%null%</text>
+<text id="10021525">%null%</text>
+<text id="10021526">%null%</text>
+<text id="10021527">%null%</text>
+<text id="10021528">%null%</text>
+<text id="10021529">%null%</text>
+<text id="10021530">&lt;?kgiconKc@6?&gt;/&lt;?kgiconKc@5?&gt; quando derrubado: Rolamento evasivo</text>
+<text id="10021531">%null%</text>
+<text id="10021532">%null%</text>
+<text id="10021533">%null%</text>
+<text id="10021534">%null%</text>
+<text id="10021535">%null%</text>
+<text id="10021536">%null%</text>
+<text id="10021537">%null%</text>
+<text id="10021538">%null%</text>
+<text id="10021539">%null%</text>
+<text id="10021540">&lt;?kgiconKc@16?&gt; após repelir: Contracorte</text>
+<text id="10021541">%null%</text>
+<text id="10021542">%null%</text>
+<text id="10021543">%null%</text>
+<text id="10021544">%null%</text>
+<text id="10021545">%null%</text>
+<text id="10021546">%null%</text>
+<text id="10021547">%null%</text>
+<text id="10021548">%null%</text>
+<text id="10021549">%null%</text>
+<text id="10021550">Segurar &lt;?kgiconKc@16?&gt;: Investida</text>
+<text id="10021551">%null%</text>
+<text id="10021552">%null%</text>
+<text id="10021553">%null%</text>
+<text id="10021554">%null%</text>
+<text id="10021555">%null%</text>
+<text id="10021556">%null%</text>
+<text id="10021557">%null%</text>
+<text id="10021558">%null%</text>
+<text id="10021559">%null%</text>
+<text id="10021560">Segurar &lt;?kgiconKc@5?&gt; + &lt;?kgMove?&gt;: Correr</text>
+<text id="10021800">%null%</text>
+<text id="10021801">%null%</text>
+<text id="10021802">%null%</text>
+<text id="10021803">%null%</text>
+<text id="10021804">%null%</text>
+<text id="10021805">%null%</text>
+<text id="10021806">%null%</text>
+<text id="10021807">%null%</text>
+<text id="10021808">%null%</text>
+<text id="10021809">%null%</text>
+<text id="10021810">%null%</text>
+<text id="10021811">%null%</text>
+<text id="10021812">%null%</text>
+<text id="10021813">%null%</text>
+<text id="10021814">%null%</text>
+<text id="10021815">%null%</text>
+<text id="10021816">%null%</text>
+<text id="10021817">%null%</text>
+<text id="10021818">%null%</text>
+<text id="10021819">%null%</text>
+<text id="10021820">%null%</text>
+<text id="10022000">Postura</text>
+<text id="10022001">Quando o medidor de postura do Lobo ou de um inimigo chega ao máximo, a postura é quebrada.
+
+A postura do inimigo pode ser danificada repelindo os ataques dele e atacando.</text>
+<text id="10022002">%null%</text>
+<text id="10022003">%null%</text>
+<text id="10022004">%null%</text>
+<text id="10022005">%null%</text>
+<text id="10022006">%null%</text>
+<text id="10022007">%null%</text>
+<text id="10022008">%null%</text>
+<text id="10022009">%null%</text>
+<text id="10022010">%null%</text>
+<text id="10022011">%null%</text>
+<text id="10022012">%null%</text>
+<text id="10022013">%null%</text>
+<text id="10022014">%null%</text>
+<text id="10022015">%null%</text>
+<text id="10022016">%null%</text>
+<text id="10022017">%null%</text>
+<text id="10022018">%null%</text>
+<text id="10022019">%null%</text>
+<text id="10022020">%null%</text>
+<text id="10022021">%null%</text>
+<text id="10022022">%null%</text>
+<text id="10022023">%null%</text>
+<text id="10022024">%null%</text>
+<text id="10022025">%null%</text>
+<text id="10022026">%null%</text>
+<text id="10022027">%null%</text>
+<text id="10022028">%null%</text>
+<text id="10022029">%null%</text>
+<text id="10022030">%null%</text>
+<text id="10022031">%null%</text>
+<text id="10022032">%null%</text>
+<text id="10022033">%null%</text>
+<text id="10022034">%null%</text>
+<text id="10022035">%null%</text>
+<text id="10022036">%null%</text>
+<text id="10022037">%null%</text>
+<text id="10022038">%null%</text>
+<text id="10022039">%null%</text>
+<text id="10022040">%null%</text>
+<text id="10022041">%null%</text>
+<text id="10022042">%null%</text>
+<text id="10022043">%null%</text>
+<text id="10022044">%null%</text>
+<text id="10022045">%null%</text>
+<text id="10022046">%null%</text>
+<text id="10022047">%null%</text>
+<text id="10022048">%null%</text>
+<text id="10022049">%null%</text>
+<text id="10022050">%null%</text>
+<text id="10022051">%null%</text>
+<text id="10022052">%null%</text>
+<text id="10022053">%null%</text>
+<text id="10022054">%null%</text>
+<text id="10022055">%null%</text>
+<text id="10022056">%null%</text>
+<text id="10022057">%null%</text>
+<text id="10022058">%null%</text>
+<text id="10022059">%null%</text>
+<text id="10022060">Golpe mortal descendente</text>
+<text id="10022061">&lt;?kgiconKc@6?&gt;: Pular 
+&lt;?kgiconKc@16?&gt;: quando o marcador vermelho aparecer: Golpe mortal descendente</text>
+<text id="10023000">Combate com espada</text>
+<text id="10023001">&lt;?kgiconKc@16?&gt;: Atacar
+&lt;?kgiconKc@18?&gt; no momento que o ataque inimigo atingir você: Repelir</text>
+<text id="10023002">%null%</text>
+<text id="10023003">%null%</text>
+<text id="10023004">%null%</text>
+<text id="10023005">%null%</text>
+<text id="10023006">%null%</text>
+<text id="10023007">%null%</text>
+<text id="10023008">%null%</text>
+<text id="10023009">%null%</text>
+<text id="10023010">%null%</text>
+<text id="10023011">%null%</text>
+<text id="10023012">%null%</text>
+<text id="10023013">%null%</text>
+<text id="10023014">%null%</text>
+<text id="10023015">%null%</text>
+<text id="10023016">%null%</text>
+<text id="10023017">%null%</text>
+<text id="10023018">%null%</text>
+<text id="10023019">%null%</text>
+<text id="10023020">&lt;?kgiconKc@21?&gt;: Usar item rápido</text>
+<text id="10023021">%null%</text>
+<text id="10023022">%null%</text>
+<text id="10023023">%null%</text>
+<text id="10023024">%null%</text>
+<text id="10023025">%null%</text>
+<text id="10023026">%null%</text>
+<text id="10023027">%null%</text>
+<text id="10023028">%null%</text>
+<text id="10023029">%null%</text>
+<text id="10023030">Brasão espiritual</text>
+<text id="10023031">Usar ferramentas prostéticas custa brasões espirituais.</text>
+<text id="10023032">%null%</text>
+<text id="10023033">%null%</text>
+<text id="10023034">%null%</text>
+<text id="10023035">%null%</text>
+<text id="10023036">%null%</text>
+<text id="10023037">%null%</text>
+<text id="10023038">%null%</text>
+<text id="10023039">%null%</text>
+<text id="10023040">Ídolo do Escultor</text>
+<text id="10023041">Comungue com um Ídolo do Escultor para repousar.
+O último com o qual você comungou funciona como um ponto de controle.</text>
+<text id="10023042">%null%</text>
+<text id="10023043">%null%</text>
+<text id="10023044">%null%</text>
+<text id="10023045">%null%</text>
+<text id="10023046">%null%</text>
+<text id="10023047">%null%</text>
+<text id="10023048">%null%</text>
+<text id="10023049">%null%</text>
+<text id="10023050">&lt;?kgiconKc@5?&gt;: Esquiva</text>
+<text id="10023051">%null%</text>
+<text id="10023052">%null%</text>
+<text id="10023053">%null%</text>
+<text id="10023054">%null%</text>
+<text id="10023055">%null%</text>
+<text id="10023056">%null%</text>
+<text id="10023057">%null%</text>
+<text id="10023058">%null%</text>
+<text id="10023059">%null%</text>
+<text id="10023060">Itens rápidos</text>
+<text id="10023061">&lt;?kgiconKc@21?&gt;: Usar item rápido atual
+&lt;?kgToggleItems?&gt;: Alternar itens rápidos</text>
+<text id="10023062">%null%</text>
+<text id="10023063">%null%</text>
+<text id="10023064">%null%</text>
+<text id="10023065">%null%</text>
+<text id="10023066">%null%</text>
+<text id="10023067">%null%</text>
+<text id="10023068">%null%</text>
+<text id="10023069">%null%</text>
+<text id="10023070">Velocidade de recuperação de postura</text>
+<text id="10023071">A postura se recupera com o tempo.
+
+Quando menor a vitalidade, mais lenta a recuperação da postura.</text>
+<text id="10023090">Ataques perigosos</text>
+<text id="10023091">Alguns inimigos usam ataques perigosos e indefensáveis, indicados por um símbolo de perigo. Quando isso acontecer, observe atentamente e tente reagir da forma mais adequada.
+&lt;?kgiconKc@18?&gt; quando a investida atingir: Repelir
+&lt;?kgiconKc@6?&gt; ao receber um ataque amplo: Pular
+Contra agarramentos, pule ou corra para se afastar ou &lt;?kgiconKc@5?&gt;: Esquive-se</text>
+<text id="10023092">%null%</text>
+<text id="10023093">%null%</text>
+<text id="10023094">%null%</text>
+<text id="10023095">%null%</text>
+<text id="10023096">%null%</text>
+<text id="10023097">%null%</text>
+<text id="10023098">%null%</text>
+<text id="10023099">%null%</text>
+<text id="10023100">%null%</text>
+<text id="10023101">%null%</text>
+<text id="10023102">%null%</text>
+<text id="10023103">%null%</text>
+<text id="10023104">%null%</text>
+<text id="10023105">%null%</text>
+<text id="10023106">%null%</text>
+<text id="10023107">%null%</text>
+<text id="10023108">%null%</text>
+<text id="10023109">%null%</text>
+<text id="10023110">Golpe mortal descendente</text>
+<text id="10023111">Elimine inimigos distraídos
+saltando em cima deles.
+
+&lt;?kgiconKc@12?&gt;: Mirar
+&lt;?kgiconKc@6?&gt;: Pular em direção ao inimigo
+&lt;?kgiconKc@16?&gt; quando o marcador vermelho aparecer: Golpe mortal descendente</text>
+<text id="10023112">%null%</text>
+<text id="10023113">%null%</text>
+<text id="10023114">%null%</text>
+<text id="10023115">%null%</text>
+<text id="10023116">%null%</text>
+<text id="10023117">%null%</text>
+<text id="10023118">%null%</text>
+<text id="10023119">%null%</text>
+<text id="10023120">Sistema de postura</text>
+<text id="10023121">Combine ataques e repelimentos para quebrar a postura do inimigo.
+
+Um inimigo com postura quebrada é vulnerável ao golpe mortal.
+
+&lt;?kgiconKc@16?&gt;: Atacar
+&lt;?kgiconKc@18?&gt; quando o ataque atingir você: Repelir
+&lt;?kgiconKc@16?&gt; em um inimigo com postura quebrada: Golpe mortal</text>
+<text id="10023122">%null%</text>
+<text id="10023123">%null%</text>
+<text id="10023124">%null%</text>
+<text id="10023125">%null%</text>
+<text id="10023126">%null%</text>
+<text id="10023127">%null%</text>
+<text id="10023128">%null%</text>
+<text id="10023129">%null%</text>
+<text id="10023130">Ferramentas prostéticas</text>
+<text id="10023131">Ferramentas prostéticas são armas ocultas que ficam dentro da prótese shinobi.
+
+Há uma grande variedade de ferramentas prostéticas, eficazes em situações diferentes.
+
+&lt;?kgiconKc@17?&gt;: Usar ferramenta prostética
+&lt;?kgiconKc@15?&gt; Alternar ferramenta prostética</text>
+<text id="10023150">Usando itens rápidos</text>
+<text id="10023151">Você pode alternar por vários itens rápidos e usá-los conforme cada situação.
+
+Se tiver sofrido dano, por exemplo, você pode recuperar a vitalidade com a cabaça curativa.
+
+&lt;?kgiconKc@21?&gt;: Usar item rápido 
+&lt;?kgToggleItems?&gt;: Alternar itens rápidos</text>
+<text id="10023152">%null%</text>
+<text id="10023153">%null%</text>
+<text id="10023154">%null%</text>
+<text id="10023155">%null%</text>
+<text id="10023156">%null%</text>
+<text id="10023157">%null%</text>
+<text id="10023158">%null%</text>
+<text id="10023159">%null%</text>
+<text id="10023160">Rolamento evasivo</text>
+<text id="10023161">Quando sua postura for quebrada,
+use o rolamento evasivo para se recuperar.
+
+&lt;?kgiconKc@6?&gt; ou &lt;?kgiconKc@5?&gt; quando for derrubado ou tiver a postura quebrada: Rolamento evasivo</text>
+<text id="10023162">%null%</text>
+<text id="10023163">%null%</text>
+<text id="10023164">%null%</text>
+<text id="10023165">%null%</text>
+<text id="10023166">%null%</text>
+<text id="10023167">%null%</text>
+<text id="10023168">%null%</text>
+<text id="10023169">%null%</text>
+<text id="10023170">&lt;?kgToggleItems?&gt;: Alternar itens rápidos</text>
+<text id="10024500">Furtividade</text>
+<text id="10024501">Avance sem ser visto agachando-se e se escondendo nos arbustos ou sob os pisos.
+
+Você não tem uma espada no momento. Evite inimigos usando furtividade e siga para a Torre da Lua.
+
+Quando você estiver prestes a ser visto, marcadores aparecerão sobre os inimigos.</text>
+<text id="10024502">%null%</text>
+<text id="10024503">%null%</text>
+<text id="10024504">%null%</text>
+<text id="10024505">%null%</text>
+<text id="10024506">%null%</text>
+<text id="10024507">%null%</text>
+<text id="10024508">%null%</text>
+<text id="10024509">%null%</text>
+<text id="10024510">Usando itens rápidos</text>
+<text id="10024511">Você pode alternar por vários itens rápidos e usá-los conforme cada situação.
+
+Se tiver sofrido dano, por exemplo, você pode recuperar a vitalidade com a cabaça curativa.
+
+&lt;?kgiconKc@21?&gt;: Usar item rápido 
+&lt;?kgToggleItems?&gt;: Alternar itens rápidos</text>
+<text id="10024512">%null%</text>
+<text id="10024513">%null%</text>
+<text id="10024514">%null%</text>
+<text id="10024515">%null%</text>
+<text id="10024516">%null%</text>
+<text id="10024517">%null%</text>
+<text id="10024518">%null%</text>
+<text id="10024519">%null%</text>
+<text id="10024520">Contracorte</text>
+<text id="10024521">Um contracorte pode ser realizado imediatamente após repelir um ataque.
+
+Isso permite causar dano à postura sem dar ao inimigo tempo para se recuperar.
+
+&lt;?kgiconKc@18?&gt; quando o ataque atingir você: Repelir 
+&lt;?kgiconKc@16?&gt; após repelir: Contracorte</text>
+<text id="10024522">%null%</text>
+<text id="10024523">%null%</text>
+<text id="10024524">%null%</text>
+<text id="10024525">%null%</text>
+<text id="10024526">%null%</text>
+<text id="10024527">%null%</text>
+<text id="10024528">%null%</text>
+<text id="10024529">%null%</text>
+<text id="10024530">Golpe mortal contra inimigos poderosos</text>
+<text id="10024531">Alguns oponentes poderosos exigem múltiplos golpes mortais para serem derrotados.
+
+A quantidade de golpes mortais para matar um inimigo é indicada pelos círculos vermelhos sobre a barra de vitalidade dele. 
+
+Cada golpe mortal elimina um.</text>
+<text id="10024532">%null%</text>
+<text id="10024533">%null%</text>
+<text id="10024534">%null%</text>
+<text id="10024535">%null%</text>
+<text id="10024536">%null%</text>
+<text id="10024537">%null%</text>
+<text id="10024538">%null%</text>
+<text id="10024539">%null%</text>
+<text id="10024540">Gancho</text>
+<text id="10024541">O gancho da prótese shinobi permite acessar áreas normalmente inalcançáveis, como áreas mais altas.
+
+Pontos de gancho são indicados com um símbolo circular. Quando ele fica verde, significa que está dentro do alcance.
+
+&lt;?kgiconKc@19?&gt;: Gancho</text>
+<text id="10024542">%null%</text>
+<text id="10024543">%null%</text>
+<text id="10024544">%null%</text>
+<text id="10024545">%null%</text>
+<text id="10024546">%null%</text>
+<text id="10024547">%null%</text>
+<text id="10024548">%null%</text>
+<text id="10024549">%null%</text>
+<text id="10024550">Golpe mortal furtivo</text>
+<text id="10024551">Você pode realizar golpes mortais furtivos em oponentes desavisados. O "golpe mortal descendente" é um deles, realizado ao saltar de um ponto mais alto sobre um inimigo desavisado.
+
+&lt;?kgiconKc@12?&gt;: Travar mira no inimigo. 
+&lt;?kgiconKc@6?&gt;: Pular. 
+&lt;?kgiconKc@16?&gt;: Golpe mortal descendente.</text>
+<text id="10024552">%null%</text>
+<text id="10024553">%null%</text>
+<text id="10024554">%null%</text>
+<text id="10024555">%null%</text>
+<text id="10024556">%null%</text>
+<text id="10024557">%null%</text>
+<text id="10024558">%null%</text>
+<text id="10024559">%null%</text>
+<text id="10024560">Encaixando ferramentas prostéticas</text>
+<text id="10024561">Ferramentas shinobi não podem ser utilizadas sozinhas. Entregue-as ao Escultor para serem anexadas à prótese shinobi.
+
+Você pode voltar rapidamente para o Escultor viajando através de um Ídolo do Escultor ou usando o Ídolo do regresso.</text>
+<text id="10024562">%null%</text>
+<text id="10024563">%null%</text>
+<text id="10024564">%null%</text>
+<text id="10024565">%null%</text>
+<text id="10024566">%null%</text>
+<text id="10024567">%null%</text>
+<text id="10024568">%null%</text>
+<text id="10024569">%null%</text>
+<text id="10024570">Ferramenta prostética</text>
+<text id="10024571">Ferramentas prostéticas são ferramentas shinobi adaptadas para uso com a prótese shinobi.
+
+Podem ser equipadas no menu de equipamento, e utilizá-las consome brasões espirituais.
+
+&lt;?kgiconKc@27?&gt;: Abrir menu
+&lt;?kgiconKc@17?&gt;: Usar ferramenta
+&lt;?kgiconKc@15?&gt;: Trocar ferramenta</text>
+<text id="10024572">%null%</text>
+<text id="10024573">%null%</text>
+<text id="10024574">%null%</text>
+<text id="10024575">%null%</text>
+<text id="10024576">%null%</text>
+<text id="10024577">%null%</text>
+<text id="10024578">%null%</text>
+<text id="10024579">%null%</text>
+<text id="10024580">Ataques perigosos</text>
+<text id="10024581">Alguns inimigos usam ataques perigosos e indefensáveis, indicados por um símbolo de perigo. Quando isso acontecer, observe atentamente e tente reagir da forma mais adequada.
+&lt;?kgiconKc@18?&gt; quando a investida atingir: Repelir
+&lt;?kgiconKc@6?&gt; ao receber um ataque amplo: Pular
+Contra agarramentos, pule ou corra para se afastar ou &lt;?kgiconKc@5?&gt;: Esquive-se</text>
+<text id="10024582">%null%</text>
+<text id="10024583">%null%</text>
+<text id="10024584">%null%</text>
+<text id="10024585">%null%</text>
+<text id="10024586">%null%</text>
+<text id="10024587">%null%</text>
+<text id="10024588">%null%</text>
+<text id="10024589">%null%</text>
+<text id="10024590">Melhorias de ferramenta prostética</text>
+<text id="10024591">Entregando o cano mecânico para o Escultor, você poderá criar versões melhoradas das ferramentas prostéticas.
+
+Você pode voltar rapidamente para o Escultor viajando através de um Ídolo do Escultor ou usando o item rápido Ídolo do regresso.</text>
+<text id="10024592">%null%</text>
+<text id="10024593">%null%</text>
+<text id="10024594">%null%</text>
+<text id="10024595">%null%</text>
+<text id="10024596">%null%</text>
+<text id="10024597">%null%</text>
+<text id="10024598">%null%</text>
+<text id="10024599">%null%</text>
+<text id="10024600">Estagnação do Sangue do Dragão</text>
+<text id="10024601">Morrer sem ressuscitar resulta na estagnação do Sangue do Dragão. Quando a estagnação alcança o limite, há uma chance dela transbordar. Cada morte sucessiva aumenta a chance de transbordar. Quando isso acontece, alguém que o Lobo conhece contrai a praga do dragão e seu poder de ressurreição é reduzido em 1.</text>
+<text id="10024602">%null%</text>
+<text id="10024603">%null%</text>
+<text id="10024604">%null%</text>
+<text id="10024605">%null%</text>
+<text id="10024606">%null%</text>
+<text id="10024607">%null%</text>
+<text id="10024608">%null%</text>
+<text id="10024609">%null%</text>
+<text id="10024610">Curar a praga do dragão</text>
+<text id="10024611">Se uma pessoa com praga do dragão não for tratada, ela morrerá.
+
+Porém, Emma pode criar um remédio  chamado pastilha de praga do dragão para curá-la.
+
+As pastilhas de praga do dragão requerem poder de ressurreição para serem criadas.</text>
+<text id="10024612">%null%</text>
+<text id="10024613">%null%</text>
+<text id="10024614">%null%</text>
+<text id="10024615">%null%</text>
+<text id="10024616">%null%</text>
+<text id="10024617">%null%</text>
+<text id="10024618">%null%</text>
+<text id="10024619">%null%</text>
+<text id="10024620">Inversão de Raio</text>
+<text id="10024621">Se seus pés estiverem tocando o chão ao ser atingido por um raio, a eletricidade percorrerá seu corpo, imobilizando-o. 
+Porém, se for atingido por um raio enquanto estiver no ar, é possível absorver a energia e redirecioná-la ao inimigo
+
+&lt;?kgiconKc@18?&gt; ao ser atingido por um raio no ar: Carregar
+&lt;?kgiconKc@16?&gt; antes de tocar o chão: Inversão de Raio</text>
+<text id="10024622">%null%</text>
+<text id="10024623">%null%</text>
+<text id="10024624">%null%</text>
+<text id="10024625">%null%</text>
+<text id="10024626">%null%</text>
+<text id="10024627">%null%</text>
+<text id="10024628">%null%</text>
+<text id="10024629">%null%</text>
+<text id="10024630">Habilidades</text>
+<text id="10024631">Ter um texto esotérico de um estilo de combate permite adquirir suas habilidades no menu do Ídolo do Escultor. Derrotar inimigos concede experiência. Pontos de habilidade são obtidos ao receber experiência suficiente e servem para desbloquear habilidades. Algumas habilidades podem ser obtidas ao conseguir certos itens ou derrotar inimigos.</text>
+<text id="10024632">%null%</text>
+<text id="10024633">%null%</text>
+<text id="10024634">%null%</text>
+<text id="10024635">%null%</text>
+<text id="10024636">%null%</text>
+<text id="10024637">%null%</text>
+<text id="10024638">%null%</text>
+<text id="10024639">%null%</text>
+<text id="10024640">Artes de combate</text>
+<text id="10024641">"Artes de combate" são habilidades especiais baseadas nas forças de um estilo de combate específico. Devem ser equipadas no menu de equipamento para serem usadas e podem ser aprendidas no menu de habilidades ou encontradas em textos esotéricos.
+ 
+&lt;?kgiconKc@16?&gt; segurando &lt;?kgiconKc@18?&gt;: Arte de combate</text>
+<text id="10024642">%null%</text>
+<text id="10024643">%null%</text>
+<text id="10024644">%null%</text>
+<text id="10024645">%null%</text>
+<text id="10024646">%null%</text>
+<text id="10024647">%null%</text>
+<text id="10024648">%null%</text>
+<text id="10024649">%null%</text>
+<text id="10024650">Ataque prostético subsequente</text>
+<text id="10024651">Ataques especiais com espada podem ser realizados após usar ferramentas prostéticas.
+
+&lt;?kgiconKc@17?&gt;: Usar ferramenta prostética
+&lt;?kgiconKc@16?&gt; imediatamente após usar: Ataque subsequente
+
+Comandos para ataques subsequentes podem ser vistos no menu de equipamento.</text>
+<text id="10024652">%null%</text>
+<text id="10024653">%null%</text>
+<text id="10024654">%null%</text>
+<text id="10024655">%null%</text>
+<text id="10024656">%null%</text>
+<text id="10024657">%null%</text>
+<text id="10024658">%null%</text>
+<text id="10024659">%null%</text>
+<text id="10024660">Técnicas de ninjutsu</text>
+<text id="10024661">Técnicas de ninjutsu são poderosas habilidades que só podem ser usadas após um golpe mortal pelas costas.
+
+Elas podem ser equipadas no menu de equipamento, e custam brasões espirituais para realizar.
+
+&lt;?kgiconKc@16?&gt; após o golpe mortal pelas costas: técnica de ninjutsu</text>
+<text id="10024662">%null%</text>
+<text id="10024663">%null%</text>
+<text id="10024664">%null%</text>
+<text id="10024665">%null%</text>
+<text id="10024666">%null%</text>
+<text id="10024667">%null%</text>
+<text id="10024668">%null%</text>
+<text id="10024669">%null%</text>
+<text id="10024670">Saqueando inimigos</text>
+<text id="10024671">Inimigos deixam cair itens e dinheiro. Mais de um inimigo pode ser saqueado de uma vez e isso pode ser feito a certa distância. Itens encontrados no mundo são diferentes dos saqueados, pois você precisa estar próximo para pegá-los.
+Apertar e segurar &lt;?kgiconKc@20?&gt;: Saquear inimigos
+Apertar &lt;?kgiconKc@20?&gt; perto de um item do mundo: Pegar item</text>
+<text id="10024672">%null%</text>
+<text id="10024673">%null%</text>
+<text id="10024674">%null%</text>
+<text id="10024675">%null%</text>
+<text id="10024676">%null%</text>
+<text id="10024677">%null%</text>
+<text id="10024678">%null%</text>
+<text id="10024679">%null%</text>
+<text id="10024680">Ressurreição</text>
+<text id="10024681">O sangue do Herdeiro Divino concede a habilidade de retornar dos mortos usando o "Poder de Ressurreição".
+Uma carga dele é restaurada ao descansar em um Ídolo do Escultor e cargas adicionais são restauradas derrotando inimigos. Não pode ser usado em rápidas sucessões, mas matar inimigos ou executar um golpe mortal o disponibilizará de novo.</text>
+<text id="10024682">%null%</text>
+<text id="10024683">%null%</text>
+<text id="10024684">%null%</text>
+<text id="10024685">%null%</text>
+<text id="10024686">%null%</text>
+<text id="10024687">%null%</text>
+<text id="10024688">%null%</text>
+<text id="10024689">%null%</text>
+<text id="10024690">Movimentação subaquática</text>
+<text id="10024691">A técnica de respiração Mibu concede a habilidade de respirar debaixo d'água. Com ela, é possível permanecer submerso indefinidamente.
+
+&lt;?kgiconKc@17?&gt;: Mergulhar.
+&lt;?kgiconKc@19?&gt;: Emergir.
+&lt;?kgiconKc@5?&gt; enquanto usa &lt;?kgMove?&gt;: Impulso subaquático.</text>
+<text id="10024692">%null%</text>
+<text id="10024693">%null%</text>
+<text id="10024694">%null%</text>
+<text id="10024695">%null%</text>
+<text id="10024696">%null%</text>
+<text id="10024697">%null%</text>
+<text id="10024698">%null%</text>
+<text id="10024699">%null%</text>
+<text id="10024700">Alterações de estado</text>
+<text id="10024701">"Alterações de estado" possuem diversos efeitos negativos em combate. Antes de uma alteração ser infligida, um medidor de resistência é exibido. Quando o medidor enche, o Lobo recebe a alteração de estado. Existem itens que impedem o medidor de resistência ou curam as alterações de estado.</text>
+<text id="10024702">%null%</text>
+<text id="10024703">%null%</text>
+<text id="10024704">%null%</text>
+<text id="10024705">%null%</text>
+<text id="10024706">%null%</text>
+<text id="10024707">%null%</text>
+<text id="10024708">%null%</text>
+<text id="10024709">%null%</text>
+<text id="10024710">Rolamento evasivo</text>
+<text id="10024711">Permanecer caído após ser derrubado significará a sua morte.
+"Rolamento evasivo" pode ser usado para se recuperar rapidamente de uma derrubada ou quebra de postura.
+
+Com a postura quebrada ou derrubado,
+&lt;?kgiconKc@6?&gt; ou &lt;?kgiconKc@5?&gt;: Rolamento evasivo</text>
+<text id="10024712">%null%</text>
+<text id="10024713">%null%</text>
+<text id="10024714">%null%</text>
+<text id="10024715">%null%</text>
+<text id="10024716">%null%</text>
+<text id="10024717">%null%</text>
+<text id="10024718">%null%</text>
+<text id="10024719">%null%</text>
+<text id="10024720">Brasões espirituais</text>
+<text id="10024721">Brasões espirituais são necessários para ativar ferramentas prostéticas e são consumidos toda vez que são utilizadas.
+
+Você pode obtê-los derrotando inimigos, achando-os pelo mundo ou comprando-os nos Ídolos do Escultor.
+
+Eles são atraídos por você quando você passa próximo a eles.</text>
+<text id="10024740">Caixa de oferendas</text>
+<text id="10024741">Itens que ficam indisponíveis em outros lugares acabam indo para a caixa de oferendas.
+
+Quando a caixa fica iluminada, significa que há um item dentro dela.
+
+É possível conseguir os itens inspecionando a caixa e oferecendo dinheiro.</text>
+<text id="10024742">%null%</text>
+<text id="10024743">%null%</text>
+<text id="10024744">%null%</text>
+<text id="10024745">%null%</text>
+<text id="10024746">%null%</text>
+<text id="10024747">%null%</text>
+<text id="10024748">%null%</text>
+<text id="10024749">%null%</text>
+<text id="10024750">Postura e golpes mortais</text>
+<text id="10024751">O shinobi busca quebrar a postura do inimigo. Atacá-lo é uma maneira de fazer isso.
+
+Quando a postura do inimigo quebra, ele fica vulnerável ao "golpe mortal shinobi".
+
+&lt;?kgiconKc@16?&gt;: Atacar
+&lt;?kgiconKc@16?&gt; após quebrar a postura: Golpe mortal</text>
+<text id="10024752">%null%</text>
+<text id="10024753">%null%</text>
+<text id="10024754">%null%</text>
+<text id="10024755">%null%</text>
+<text id="10024756">%null%</text>
+<text id="10024757">%null%</text>
+<text id="10024758">%null%</text>
+<text id="10024759">%null%</text>
+<text id="10024760">Repelir</text>
+<text id="10024761">Às vezes, atacar não é o bastante para quebrar a postura inimiga.
+
+Repelir ataques é outra maneira de causar dano à postura. O mestre shinobi combina defesa e ataque para alcançar a vitória.
+
+&lt;?kgiconKc@18?&gt; quando o ataque atingir você: Repelir</text>
+<text id="10024762">%null%</text>
+<text id="10024763">%null%</text>
+<text id="10024764">%null%</text>
+<text id="10024765">%null%</text>
+<text id="10024766">%null%</text>
+<text id="10024767">%null%</text>
+<text id="10024768">%null%</text>
+<text id="10024769">%null%</text>
+<text id="10024770">Mirar</text>
+<text id="10024771">Travando a mira no seu alvo e mantendo seu inimigo na sua frente, será mais fácil atacar, repelir e realizar outras ações de combate.
+
+&lt;?kgiconKc@12?&gt;: Travar/destravar mira no alvo
+&lt;?kgControlCamera?&gt;com alvo travado: Mudar alvo</text>
+<text id="10024772">%null%</text>
+<text id="10024773">%null%</text>
+<text id="10024774">%null%</text>
+<text id="10024775">%null%</text>
+<text id="10024776">%null%</text>
+<text id="10024777">%null%</text>
+<text id="10024778">%null%</text>
+<text id="10024779">%null%</text>
+<text id="10024780">Choque</text>
+<text id="10024781">A alteração de estado "Choque" ocorre quando uma pessoa está pisando no chão ao ser atingida por um raio. Esse choque causa muito dano à vitalidade e imobiliza brevemente a vítima. No entanto, é possível realizar uma "Inversão de Raio" para absorver o raio no ar e refleti-lo no inimigo.
+&lt;?kgiconKc@18?&gt; no ar durante um ataque de raio: Carregar
+&lt;?kgiconKc@16?&gt; antes de tocar o chão: Inversão</text>
+<text id="10024782">%null%</text>
+<text id="10024783">%null%</text>
+<text id="10024784">%null%</text>
+<text id="10024785">%null%</text>
+<text id="10024786">%null%</text>
+<text id="10024787">%null%</text>
+<text id="10024788">%null%</text>
+<text id="10024789">%null%</text>
+<text id="10024790">Agarramentos</text>
+<text id="10024791">É impossível repelir um agarramento. Não há como evitar um dano grave após ser agarrado.
+
+Mas é possível evitar agarramentos pulando ou correndo para se afastar. Alguns agarramentos também podem ser evitados com uma esquiva na hora certa.
+&lt;?kgiconKc@6?&gt; + &lt;?kgMove?&gt;: Pulo na direção desejada
+Segurar &lt;?kgiconKc@5?&gt; + &lt;?kgMove?&gt;: Correr
+&lt;?kgiconKc@5?&gt;: Esquivar</text>
+<text id="10024792">%null%</text>
+<text id="10024793">%null%</text>
+<text id="10024794">%null%</text>
+<text id="10024795">%null%</text>
+<text id="10024796">%null%</text>
+<text id="10024797">%null%</text>
+<text id="10024798">%null%</text>
+<text id="10024799">%null%</text>
+<text id="10024800">Perda após a morte</text>
+<text id="10024801">A experiência do próximo ponto de habilidade e seus sens são reduzidos pela metade ao morrer. Tudo o que é perdido nunca mais volta.
+
+Não se sabe de nenhuma forma de escapar dessa perda.
+
+Contudo, por meio da graça dos deuses ou do Buda, talvez não seja impossível.</text>
+<text id="10024802">%null%</text>
+<text id="10024803">%null%</text>
+<text id="10024804">%null%</text>
+<text id="10024805">%null%</text>
+<text id="10024806">%null%</text>
+<text id="10024807">%null%</text>
+<text id="10024808">%null%</text>
+<text id="10024809">%null%</text>
+<text id="10024810">Auxílio Oculto</text>
+<text id="10024811">Metade da XP de habilidade e sens são perdidos ao morrer, mas há uma forma de evitar isso.
+
+Através do Auxílio Oculto dos deuses e de Buda, é possível evitar essa perda.
+
+A chance de receber o auxílio pode ser vista no menu de pausa.
+&lt;?kgiconKc@27?&gt;: Abrir menu de pausa</text>
+<text id="10024812">%null%</text>
+<text id="10024813">%null%</text>
+<text id="10024814">%null%</text>
+<text id="10024815">%null%</text>
+<text id="10024816">%null%</text>
+<text id="10024817">%null%</text>
+<text id="10024818">%null%</text>
+<text id="10024819">%null%</text>
+<text id="10024820">Praga do dragão</text>
+<text id="10024821">Quanto mais vezes um portador do poder da Linhagem do Dragão morrer, mais a praga do dragão se espalhará. A praga do dragão não é causada pela ressurreição, ela pode surgir apenas quando o Lobo realmente morrer, repetidas vezes.
+
+Quanto mais essência da praga o Lobo tiver, menores as chances de receber Auxílio Oculto.</text>
+<text id="10024822">%null%</text>
+<text id="10024823">%null%</text>
+<text id="10024824">%null%</text>
+<text id="10024825">%null%</text>
+<text id="10024826">%null%</text>
+<text id="10024827">%null%</text>
+<text id="10024828">%null%</text>
+<text id="10024829">%null%</text>
+<text id="10024830">Curar a praga do dragão</text>
+<text id="10024831">O amuleto de recuperação permite curar os que têm praga do dragão em um Ídolo do Escultor.
+
+Uma Gota de Sangue do Dragão pode ser consumida para curar a praga do dragão. Isso fará a essência da praga desaparecer, fazendo a chance de receber Auxílio Oculto voltar ao valor padrão.</text>
+<text id="10024832">%null%</text>
+<text id="10024833">%null%</text>
+<text id="10024834">%null%</text>
+<text id="10024835">%null%</text>
+<text id="10024836">%null%</text>
+<text id="10024837">%null%</text>
+<text id="10024838">%null%</text>
+<text id="10024839">%null%</text>
+<text id="10024840">Vitalidade e postura</text>
+<text id="10024841">Quanto menor a vitalidade, mais devagar a postura se recupera. O medidor de postura fica mais vermelho conforme a taxa de recuperação diminui. Técnicas como o contra-ataque de esquiva são ideais contra inimigos com alta recuperação de postura. Após reduzir a vitalidade, seus ataques serão mais eficazes.
+&lt;?kgiconKc@5?&gt;: Esquivar
+&lt;?kgiconKc@16?&gt; após esquivar: Contra-ataque</text>
+<text id="10024842">%null%</text>
+<text id="10024843">%null%</text>
+<text id="10024844">%null%</text>
+<text id="10024845">%null%</text>
+<text id="10024846">%null%</text>
+<text id="10024847">%null%</text>
+<text id="10024848">%null%</text>
+<text id="10024849">%null%</text>
+<text id="10024850">Contra-atacando investidas</text>
+<text id="10024851">Investidas não podem ser defendidas,
+porém elas podem ser repelidas.
+
+A habilidade "Contra-ataque Mikiri" também lida com investidas e, ao realizá-la, você causará um dano maior de postura do que repelindo-as.</text>
+<text id="10024880">Vestígios</text>
+<text id="10024881">Shinobis podem deixar para trás sombras de suas ações passadas, conhecidas como "Vestígios".
+Vestígios são deixados para instruir seus colegas. Alguns são mestres no caminho a seguir, outros provocam rivalidades.
+&lt;?kgiconKc@44?&gt;: Abrir menu de Vestígios
+
+Nota: É necessária uma conexão de rede para deixar Vestígios.</text>
+<text id="10024882">%null%</text>
+<text id="10024883">%null%</text>
+<text id="10024884">%null%</text>
+<text id="10024885">%null%</text>
+<text id="10024886">%null%</text>
+<text id="10024887">%null%</text>
+<text id="10024888">%null%</text>
+<text id="10024889">%null%</text>
+<text id="10024890">Reflexão de força</text>
+<text id="10024891">Você derrotou um inimigo extraordinário, que agora pode ser encarado mais uma vez na memória.
+
+A Reflexão de força pode ser acessada no menu do Ídolo do Escultor.</text>
+<text id="10024892">%null%</text>
+<text id="10024893">%null%</text>
+<text id="10024894">%null%</text>
+<text id="10024895">%null%</text>
+<text id="10024896">%null%</text>
+<text id="10024897">%null%</text>
+<text id="10024898">%null%</text>
+<text id="10024899">%null%</text>
+<text id="10024900">Desafio de força</text>
+<text id="10024901">Você derrotou muitos oponentes extraordinários, que agora podem ser enfrentados em sua memória como uma série de combates consecutivos.
+O Desafio de força pode ser acessado através do menu Ídolo do Escultor.
+Enfrentar suas memórias do passado pode abrir novas possibilidades. 
+Os próprios fins do conflito podem proporcionar um novo estado de espírito.</text>
+<text id="10024902">%null%</text>
+<text id="10024903">%null%</text>
+<text id="10024904">%null%</text>
+<text id="10024905">%null%</text>
+<text id="10024906">%null%</text>
+<text id="10024907">%null%</text>
+<text id="10024908">%null%</text>
+<text id="10024909">%null%</text>
+<text id="10024910">Reflexão/Desafio de força</text>
+<text id="10024911">Inimigos extraordinários que você derrotou agora podem ser encarados novamente na memória, um de cada vez ou em uma série de batalhas.
+A Reflexão e o Desafio de força podem ser acessados através do menu do Ídolo do Escultor.
+Enfrentar suas memórias do passado pode abrir novas possibilidades. 
+Os próprios fins do conflito podem proporcionar um novo estado de espírito.</text>
+<text id="10024912">%null%</text>
+<text id="10024913">%null%</text>
+<text id="10024914">%null%</text>
+<text id="10024915">%null%</text>
+<text id="10024916">%null%</text>
+<text id="10024917">%null%</text>
+<text id="10024918">%null%</text>
+<text id="10024919">%null%</text>
+<text id="10024920">Memórias de outro</text>
+<text id="10024921">Memórias, arrependimentos ou obsessões deixadas por outro. 
+
+Abrigar esses pensamentos mais íntimos no Ídolo do Escultor permitirá que o Lobo altere sua forma, embora isso não influencie sua capacidade.
+
+Afinal, assumir o controle do arrependimento alheio é uma coisa passageira.</text>
+<text id="10024922">%null%</text>
+<text id="10024923">%null%</text>
+<text id="10024924">%null%</text>
+<text id="10024925">%null%</text>
+<text id="10024926">%null%</text>
+<text id="10024927">%null%</text>
+<text id="10024928">%null%</text>
+<text id="10024929">%null%</text>
+<text id="10024930">Reputação de Vestígio</text>
+<text id="10024931">Você recuperará vitalidade quando alguém 
+aprovar um vestígio deixado por você.
+
+A reputação de um shinobi viaja com o vento.  
+Ouvir os sussurros do vento concede um precioso momento de consolação e conforto.
+
+*Uma conexão de rede é necessária para obter os benefícios da reputação de Vestígio
+</text>
+<text id="10025000">Menu de equipamento: itens rápidos</text>
+<text id="10025001">O menu de equipamento possibilita a troca dos itens rápidos equipados.
+
+Existem 5 espaços para equipar e trocar itens rápidos conforme necessário.</text>
+<text id="10025002">%null%</text>
+<text id="10025003">%null%</text>
+<text id="10025004">%null%</text>
+<text id="10025005">%null%</text>
+<text id="10025006">%null%</text>
+<text id="10025007">%null%</text>
+<text id="10025008">%null%</text>
+<text id="10025009">%null%</text>
+<text id="10025010">Menu de equipamento - Ferramentas prostéticas</text>
+<text id="10025011">Espaços de equipamento para ferramentas prostéticas desbloqueados.
+
+Existem 3 espaços para equipar e trocar ferramentas prostéticas conforme necessário.
+Na tela de seleção de equipamento, você pode ver os controles com &lt;?kgicon@2010?&gt;.</text>
+<text id="10025012">%null%</text>
+<text id="10025013">%null%</text>
+<text id="10025014">%null%</text>
+<text id="10025015">%null%</text>
+<text id="10025016">%null%</text>
+<text id="10025017">%null%</text>
+<text id="10025018">%null%</text>
+<text id="10025019">%null%</text>
+<text id="10025020">Menu de habilidades</text>
+<text id="10025021">Habilidades adquiridas podem ser encontradas no menu de habilidades.
+
+As categorias podem ser selecionadas com &lt;?kgicon@2014?&gt; e &lt;?kgicon@2015?&gt;.
+
+Artes de combate podem ser equipadas no menu de equipamento.</text>
+<text id="10025022">%null%</text>
+<text id="10025023">%null%</text>
+<text id="10025024">%null%</text>
+<text id="10025025">%null%</text>
+<text id="10025026">%null%</text>
+<text id="10025027">%null%</text>
+<text id="10025028">%null%</text>
+<text id="10025029">%null%</text>
+<text id="10025030">Menu de equipamento - Técnicas de ninjutsu</text>
+<text id="10025031">Espaço de equipamento para técnica de ninjutsu desbloqueado.
+
+Apenas 1 espaço está disponível para selecionar uma técnica de ninjutsu.</text>
+<text id="10025050">Viagem com Ídolo do Escultor</text>
+<text id="10025051">Agora você pode viajar instantaneamente entre Ídolos do Escultor com os quais você já comungou.
+
+A viagem pode ser acessada pelo menu de viagem de um Ídolo do Escultor.</text>
+<text id="10025070">Aprimoramento físico</text>
+<text id="10025071">A opção de aprimoramento físico foi desbloqueada no menu do Ídolo do Escultor.
+
+Nela, você pode gastar 4 contas de oração para criar um colar de oração, que aumenta permanentemente sua vitalidade e postura máxima.
+
+</text>
+<text id="10025090">Encaixando ferramentas prostéticas</text>
+<text id="10025091">Ferramentas comuns dos shinobis podem ser encontradas pelo mundo e adaptadas para a prótese shinobi através do menu "Encaixar ferramentas prostéticas".</text>
+<text id="10025092">%null%</text>
+<text id="10025093">%null%</text>
+<text id="10025094">%null%</text>
+<text id="10025095">%null%</text>
+<text id="10025096">%null%</text>
+<text id="10025097">%null%</text>
+<text id="10025098">%null%</text>
+<text id="10025099">%null%</text>
+<text id="10025100">Melhorias de ferramenta prostética</text>
+<text id="10025101">No menu de melhoria de ferramentas prostéticas, materiais e sen podem ser usados para criar versões melhoradas das ferramentas.
+Para melhorar, é preciso ter a ferramenta base e atender aos pré-requisitos.
+Versões antigas das ferramentas ainda podem ser usadas após a melhoria.</text>
+<text id="10025102">%null%</text>
+<text id="10025103">%null%</text>
+<text id="10025104">%null%</text>
+<text id="10025105">%null%</text>
+<text id="10025106">%null%</text>
+<text id="10025107">%null%</text>
+<text id="10025108">%null%</text>
+<text id="10025109">%null%</text>
+<text id="10025110">Adquirindo habilidades</text>
+<text id="10025111">Habilidades podem ser adquiridas gastando pontos no menu de habilidades. Novos estilos de combate podem ser aprendidos obtendo textos esotéricos de cada estilo. Existem 3 tipos: "Artes de combate", "artes marciais shinobi" e "habilidades passivas". Artes de combate devem ser equipadas, mas as artes marciais shinobi e as habilidades passivas são ativadas automaticamente ao obtê-las.</text>
+<text id="10025140">Adquirindo habilidades</text>
+<text id="10025141">O menu de adquirir habilidades foi desbloqueado no menu do Ídolo do Escultor.
+
+Você pode aprender novas habilidades gastando pontos de habilidade neste menu.</text>
+<text id="10025200">Menu do inventário</text>
+<text id="10025201">Os itens que você possui podem ser encontrados no menu de inventário.
+
+As categorias podem ser selecionadas com &lt;?kgicon@2014?&gt; e &lt;?kgicon@2015?&gt;.</text>
+<text id="10025202">%null%</text>
+<text id="10025203">%null%</text>
+<text id="10025204">%null%</text>
+<text id="10025205">%null%</text>
+<text id="10025206">%null%</text>
+<text id="10025207">%null%</text>
+<text id="10025208">%null%</text>
+<text id="10025209">%null%</text>
+<text id="10025210">Menu de equipamento - Artes de combate</text>
+<text id="10025211">Artes de combate agora podem ser equipadas no menu de equipamento.
+
+Apenas 1 arte de combate pode ser equipada por vez.</text>
+<text id="10025212">%null%</text>
+<text id="10025213">%null%</text>
+<text id="10025214">%null%</text>
+<text id="10025215">%null%</text>
+<text id="10025216">%null%</text>
+<text id="10025217">%null%</text>
+<text id="10025218">%null%</text>
+<text id="10025219">%null%</text>
+<text id="10025220">Melhorando o poder de ataque</text>
+<text id="10025221">A opção "Aprimorar ataque" foi desbloqueada no menu do Ídolo do Escultor.
+
+Agora você pode utilizar memórias de batalha para aprimorar seu poder de ataque, aumentando o dano à vitalidade e à postura causado com seus ataques.</text>
+<text id="10025222">%null%</text>
+<text id="10025223">%null%</text>
+<text id="10025224">%null%</text>
+<text id="10025225">%null%</text>
+<text id="10025226">%null%</text>
+<text id="10025227">%null%</text>
+<text id="10025228">%null%</text>
+<text id="10025229">%null%</text>
+<text id="10025230">Menu do Ídolo do Escultor</text>
+<text id="10025231">Os Ídolos do Escultor servem como pontos de controle e são encontrados por toda Ashina. Descansar em um deles restaura totalmente a vitalidade e recupera um uso de Ressurreição. Além disso, itens rápidos e brasões espirituais armazenados são adicionados ao seu inventário.
+
+Descansar também revive inimigos derrotados, com algumas exceções.</text>
+<text id="10025232">%null%</text>
+<text id="10025233">%null%</text>
+<text id="10025234">%null%</text>
+<text id="10025235">%null%</text>
+<text id="10025236">%null%</text>
+<text id="10025237">%null%</text>
+<text id="10025238">%null%</text>
+<text id="10025239">%null%</text>
+<text id="10025240">Curar a praga do dragão</text>
+<text id="10025241">O menu "Curar a praga do dragão" foi desbloqueado no menu do Ídolo do Escultor.
+
+Consumir uma "Gota de Sangue do Dragão" restaurará a saúde daqueles acometidos pela praga do dragão.</text>
+<text id="10025260">Mudança de forma </text>
+<text id="10025261">Altere a aparência do Lobo no menu Alterar Forma.
+
+Independentemente de sua aparência, as habilidades do Lobo não serão afetadas.
+
+Formas adicionais serão disponibilizadas através da obtenção de "Memórias de Outro".</text>
+<text id="10025262">%null%</text>
+<text id="10025263">%null%</text>
+<text id="10025264">%null%</text>
+<text id="10025265">%null%</text>
+<text id="10025266">%null%</text>
+<text id="10025267">%null%</text>
+<text id="10025268">%null%</text>
+<text id="10025269">%null%</text>
+<text id="10025270">Reflexão de força</text>
+<text id="10025271">Reflita sobre um inimigo extraordinário derrotado anteriormente para combatê-lo mais uma vez nas memórias do Lobo.
+
+Durante a reflexão, o poder de ataque do Lobo não está ligado à sua força no mundo real, e quaisquer Itens rápidos e Brasões espirituais usados nessas batalhas são revertidos para seus estados originais ao retornar à realidade.</text>
+<text id="10025272">%null%</text>
+<text id="10025273">%null%</text>
+<text id="10025274">%null%</text>
+<text id="10025275">%null%</text>
+<text id="10025276">%null%</text>
+<text id="10025277">%null%</text>
+<text id="10025278">%null%</text>
+<text id="10025279">%null%</text>
+<text id="10025280">Desafio de força</text>
+<text id="10025281">Ao refletir sobre suas memórias, o Lobo pode realizar uma série de batalhas consecutivas com inimigos extraordinários derrotados no passado. Após cada vitória, ele enfrenta o próximo inimigo. A derrota o devolve à realidade. 
+
+Durante a reflexão, o poder de ataque do Lobo não está ligado à sua força no mundo real, e quaisquer Itens rápidos e Brasões espirituais usados serão reabastecidos ao retornar à realidade.
+</text>
+<text id="10025300">Mudando de forma</text>
+<text id="10025301">O menu de mudança de forma foi desbloqueado.
+
+Esse menu permite alterar sua aparência de acordo com as "memórias de outro" que você possui.</text>
+<text id="10025302">%null%</text>
+<text id="10025303">%null%</text>
+<text id="10025304">%null%</text>
+<text id="10025305">%null%</text>
+<text id="10025306">%null%</text>
+<text id="10025307">%null%</text>
+<text id="10025308">%null%</text>
+<text id="10025309">%null%</text>
+<text id="10025310">Reflexão de força</text>
+<text id="10025311">O menu Reflexão da força foi desbloqueado.
+
+Nesse menu, você pode reviver batalhas contra inimigos extraordinários que foram derrotados anteriormente.</text>
+<text id="10025312">%null%</text>
+<text id="10025313">%null%</text>
+<text id="10025314">%null%</text>
+<text id="10025315">%null%</text>
+<text id="10025316">%null%</text>
+<text id="10025317">%null%</text>
+<text id="10025318">%null%</text>
+<text id="10025319">%null%</text>
+<text id="10025320">Desafio de força</text>
+<text id="10025321">O menu Desafio de força foi desbloqueado.
+
+Nesse menu, você pode reviver batalhas contra inimigos extraordinários que foram derrotados anteriormente, em uma série de batalhas consecutivas.</text>
+<text id="10025322">%null%</text>
+<text id="10025323">%null%</text>
+<text id="10025324">%null%</text>
+<text id="10025325">%null%</text>
+<text id="10025326">%null%</text>
+<text id="10025327">%null%</text>
+<text id="10025328">%null%</text>
+<text id="10025329">%null%</text>
+<text id="10025330">Conquistando o Desafio de força</text>
+<text id="10025331">Reflita sobre as batalhas e lute contra todos os inimigos extraordinários.
+
+Nenhuma recompensa é concedida ao completar esse combate.</text>
+<text id="10025332">%null%</text>
+<text id="10025333">%null%</text>
+<text id="10025334">%null%</text>
+<text id="10025335">%null%</text>
+<text id="10025336">%null%</text>
+<text id="10025337">%null%</text>
+<text id="10025338">%null%</text>
+<text id="10025339">%null%</text>
+<text id="10025340">Vestígios</text>
+<text id="10025341">Shinobis podem deixar para trás sombras de suas ações passadas, conhecidas como "Vestígios". 
+A vitalidade é reabastecida quando o Vestígio é elogiado por outro Shinobi.
+Vestígios podem ser gravados na guia "Vestígios gravados".  
+Mensagens podem ser escritas para acompanhar os Vestígios.
+
+Selecione um espaço e &lt;?kgiconKC@XXXX?&gt;: Gravar Vestígio</text>
+<text id="10025342">%null%</text>
+<text id="10025343">%null%</text>
+<text id="10025344">%null%</text>
+<text id="10025345">%null%</text>
+<text id="10025346">%null%</text>
+<text id="10025347">%null%</text>
+<text id="10025348">%null%</text>
+<text id="10025349">%null%</text>
+<text id="10025350">Vestígios Vistos</text>
+<text id="10025351">Uma lista de Vestígios que você visualizou é exibida na guia "Vestígios vistos".
+
+Os remanescentes vistos também podem ser elogiados ou rejeitados aqui.</text>
+<text id="10025352">%null%</text>
+<text id="10025353">%null%</text>
+<text id="10025354">%null%</text>
+<text id="10025355">%null%</text>
+<text id="10025356">%null%</text>
+<text id="10025357">%null%</text>
+<text id="10025358">%null%</text>
+<text id="10025359">%null%</text>
+<text id="10025360">Deixando Mensagens</text>
+<text id="10025361">Mensagens podem ser escritas para acompanhar os Vestígios.
+
+Podem ser escritas com modelos pré-determinados. Selecione "Tamanho da mensagem" para incluir outra linha.
+
+Selecione "Gravar Vestígio" para começar.</text>
+<text id="10025362">%null%</text>
+<text id="10025363">%null%</text>
+<text id="10025364">%null%</text>
+<text id="10025365">%null%</text>
+<text id="10025366">%null%</text>
+<text id="10025367">%null%</text>
+<text id="10025368">%null%</text>
+<text id="10025369">%null%</text>
+<text id="10025370">Novo Estado de Espírito alcançado</text>
+<text id="10025371">Um novo estado de espírito foi descoberto em meio a lembranças de batalhas.
+
+O inimigo extraordinário "Genichiro Interior" agora pode ser enfrentado através da Reflexão de força.</text>
+<text id="10025372">%null%</text>
+<text id="10025373">%null%</text>
+<text id="10025374">%null%</text>
+<text id="10025375">%null%</text>
+<text id="10025376">%null%</text>
+<text id="10025377">%null%</text>
+<text id="10025378">%null%</text>
+<text id="10025379">%null%</text>
+<text id="10025380">Novo Estado de Espírito alcançado</text>
+<text id="10025381">Um novo estado de espírito foi descoberto em meio a lembranças de batalhas.
+
+O inimigo extraordinário "Pai Interior" agora pode ser enfrentado através da Reflexão de força.</text>
+<text id="10025382">%null%</text>
+<text id="10025383">%null%</text>
+<text id="10025384">%null%</text>
+<text id="10025385">%null%</text>
+<text id="10025386">%null%</text>
+<text id="10025387">%null%</text>
+<text id="10025388">%null%</text>
+<text id="10025389">%null%</text>
+<text id="10025390">Novo Estado de Espírito alcançado</text>
+<text id="10025391">Um novo estado de espírito foi descoberto em meio a lembranças de batalhas.
+
+O inimigo extraordinário "Isshin Interior" agora pode ser enfrentado através da Reflexão de força.</text>
+<text id="10090000">%null%</text>
+<text id="10090001">%null%</text>
+<text id="10090002">%null%</text>
+<text id="10090003">%null%</text>
+<text id="10090004">%null%</text>
+<text id="10090005">%null%</text>
+<text id="10090006">%null%</text>
+<text id="10090007">%null%</text>
+<text id="10090008">%null%</text>
+<text id="10090009">%null%</text>
+<text id="10090010">%null%</text>
+<text id="10090011">%null%</text>
+<text id="10090012">%null%</text>
+<text id="10090013">%null%</text>
+<text id="10090014">%null%</text>
+<text id="10090015">%null%</text>
+<text id="10090016">%null%</text>
+<text id="10090017">%null%</text>
+<text id="10090018">%null%</text>
+<text id="10090019">%null%</text>
+<text id="10090020">%null%</text>
+<text id="10090021">%null%</text>
+<text id="10090022">%null%</text>
+<text id="10090023">%null%</text>
+<text id="10090024">%null%</text>
+<text id="10090025">%null%</text>
+<text id="10090026">%null%</text>
+<text id="10090027">%null%</text>
+<text id="10090028">%null%</text>
+<text id="10090029">%null%</text>
+<text id="10090030">%null%</text>
+<text id="10090031">%null%</text>
+<text id="10090032">%null%</text>
+<text id="10090033">%null%</text>
+<text id="10090034">%null%</text>
+<text id="10090035">%null%</text>
+<text id="10090036">%null%</text>
+<text id="10090037">%null%</text>
+<text id="10090038">%null%</text>
+<text id="10090039">%null%</text>
+<text id="10090040">%null%</text>
+<text id="10090041">%null%</text>
+<text id="10090042">%null%</text>
+<text id="10090043">%null%</text>
+<text id="10090044">%null%</text>
+<text id="10090045">%null%</text>
+<text id="10090046">%null%</text>
+<text id="10090047">%null%</text>
+<text id="10090048">%null%</text>
+<text id="10090049">%null%</text>
+<text id="10090050">%null%</text>
+<text id="10090051">%null%</text>
+<text id="11000000">%null%</text>
+<text id="11000001">%null%</text>
+<text id="11000020">%null%</text>
+<text id="11010030">%null%</text>
+<text id="11010031">%null%</text>
+<text id="11010060">%null%</text>
+<text id="11010061">%null%</text>
+<text id="11010062">%null%</text>
+<text id="11010063">%null%</text>
+<text id="11010064">%null%</text>
+<text id="11010065">%null%</text>
+<text id="11010066">%null%</text>
+<text id="11010067">%null%</text>
+<text id="11010068">%null%</text>
+<text id="11010069">%null%</text>
+<text id="11010070">%null%</text>
+<text id="11010071">%null%</text>
+<text id="11010072">%null%</text>
+<text id="11010073">%null%</text>
+<text id="11010074">%null%</text>
+<text id="11010075">%null%</text>
+<text id="11010076">%null%</text>
+<text id="11010077">%null%</text>
+<text id="11010078">%null%</text>
+<text id="11010079">%null%</text>
+<text id="11010080">%null%</text>
+<text id="11010081">%null%</text>
+<text id="11010082">%null%</text>
+<text id="11010083">%null%</text>
+<text id="11010084">%null%</text>
+<text id="11010085">%null%</text>
+<text id="11010086">%null%</text>
+<text id="11010087">%null%</text>
+<text id="11010088">%null%</text>
+<text id="11010089">%null%</text>
+<text id="11010090">%null%</text>
+<text id="11010091">%null%</text>
+<text id="11100000">Ataques com espada</text>
+<text id="11100001">Um shinobi busca quebrar a postura do inimigo. Atacá-lo é uma maneira de fazer isso. Inimigos com postura quebrada são vulneráveis ao "golpe mortal shinobi".
+
+"Realize 3 golpes mortais após quebrar a postura do inimigo"
+&lt;?kgiconKc@16?&gt;: Atacar
+&lt;?kgiconKc@16?&gt; após quebrar a postura: Golpe mortal</text>
+<text id="11100002">%null%</text>
+<text id="11100003">%null%</text>
+<text id="11100004">%null%</text>
+<text id="11100005">%null%</text>
+<text id="11100006">%null%</text>
+<text id="11100007">%null%</text>
+<text id="11100008">%null%</text>
+<text id="11100009">%null%</text>
+<text id="11100010">Repelir</text>
+<text id="11100011">Às vezes, atacar não é o bastante para quebrar a postura inimiga.
+Repelir ataques também causa dano à postura deles. Um mestre shinobi combina defesa a ataques.
+
+"Repelir os ataques do inimigo e realizar 3 golpes mortais."
+&lt;?kgiconKc@18?&gt; quando o ataque atingir você: Repelir
+&lt;?kgiconKc@16?&gt; no inimigo atordoado: Golpe mortal</text>
+<text id="11100012">%null%</text>
+<text id="11100013">%null%</text>
+<text id="11100014">%null%</text>
+<text id="11100015">%null%</text>
+<text id="11100016">%null%</text>
+<text id="11100017">%null%</text>
+<text id="11100018">%null%</text>
+<text id="11100019">%null%</text>
+<text id="11100020">Contracorte</text>
+<text id="11100021">Ataque imediatamente após repelir para realizar um "contracorte". Isso causa dano à postura do inimigo sem dar a ele a chance de se recuperar.
+
+"Alterne entre repelir e atacar para realizar três golpes mortais."
+&lt;?kgiconKc@18?&gt; quando o ataque inimigo atingir você: Repelir
+&lt;?kgiconKc@16?&gt; após repelir: Contracorte</text>
+<text id="11100022">%null%</text>
+<text id="11100023">%null%</text>
+<text id="11100024">%null%</text>
+<text id="11100025">%null%</text>
+<text id="11100026">%null%</text>
+<text id="11100027">%null%</text>
+<text id="11100028">%null%</text>
+<text id="11100029">%null%</text>
+<text id="11100030">Esquiva</text>
+<text id="11100031">Esquivar permite evitar ataques. Esquivar não compromete a postura dos inimigos, mas ajuda a não receber dano.
+
+"Evite os ataques do inimigo, depois ataque e realize três golpes mortais." 
+&lt;?kgiconKc@5?&gt;: Esquivar
+&lt;?kgiconKc@16?&gt; ao esquivar: Contra-ataque</text>
+<text id="11100032">%null%</text>
+<text id="11100033">%null%</text>
+<text id="11100034">%null%</text>
+<text id="11100035">%null%</text>
+<text id="11100036">%null%</text>
+<text id="11100037">%null%</text>
+<text id="11100038">%null%</text>
+<text id="11100039">%null%</text>
+<text id="11100040">Vitalidade e postura</text>
+<text id="11100041">Quanto menor a vitalidade, mais devagar a postura se recupera. Para inimigos com uma postura aparentemente imbatível, use técnicas como "contra-ataque de esquiva" para reduzir a vitalidade, facilitando a quebra da postura.
+"Realize três golpes mortais no inimigo."
+
+&lt;?kgiconKc@5?&gt;: Esquivar
+&lt;?kgiconKc@16?&gt; ao esquivar: Contra-ataque</text>
+<text id="11100042">%null%</text>
+<text id="11100043">%null%</text>
+<text id="11100044">%null%</text>
+<text id="11100045">%null%</text>
+<text id="11100046">%null%</text>
+<text id="11100047">%null%</text>
+<text id="11100048">%null%</text>
+<text id="11100049">%null%</text>
+<text id="11100050">Contra-atacando investidas</text>
+<text id="11100051">As investidas não podem ser defendidas, mas podem ser contra-atacadas repelindo ou esquivando-se para os lados.
+
+"Contra-ataque o inimigo e realize 3 golpes mortais."
+
+&lt;?kgiconKc@18?&gt; quando a investida atingir: Repelir
+&lt;?kgiconKc@5?&gt;: Esquivar</text>
+<text id="11100052">%null%</text>
+<text id="11100053">%null%</text>
+<text id="11100054">%null%</text>
+<text id="11100055">%null%</text>
+<text id="11100056">%null%</text>
+<text id="11100057">%null%</text>
+<text id="11100058">%null%</text>
+<text id="11100059">%null%</text>
+<text id="11100060">Contra-atacando ataques amplos</text>
+<text id="11100061">Ataques amplos não podem ser defendidos ou repelidos. Você deve pular para evitá-los. Dar uma voadora no inimigo durante um ataque amplo causa muito dano à postura, muitas vezes possibilitando um golpe mortal.
+"Contra-ataque ataques amplos e realize três golpes mortais."
+&lt;?kgiconKc@6?&gt;: Pular
+&lt;?kgiconKc@6?&gt; no ar perto do inimigo: Voadora</text>
+<text id="11100062">%null%</text>
+<text id="11100063">%null%</text>
+<text id="11100064">%null%</text>
+<text id="11100065">%null%</text>
+<text id="11100066">%null%</text>
+<text id="11100067">%null%</text>
+<text id="11100068">%null%</text>
+<text id="11100069">%null%</text>
+<text id="11100070">Contra-ataque Mikiri</text>
+<text id="11100071">O shinobi pode prever uma investida e contra-atacar subindo na arma do inimigo. 
+
+Conhecido como "Contra-ataque Mikiri", esse é um golpe arriscado que causa mais dano à postura do que simplesmente repelir o ataque.
+"Use o Contra-ataque Mikiri para realizar três golpes mortais."</text>
+<text id="11100072">%null%</text>
+<text id="11100073">%null%</text>
+<text id="11100074">%null%</text>
+<text id="11100075">%null%</text>
+<text id="11100076">%null%</text>
+<text id="11100077">%null%</text>
+<text id="11100078">%null%</text>
+<text id="11100079">%null%</text>
+<text id="11100080">Salto</text>
+<text id="11100081">Se a postura do inimigo for quebrada, "Salto" pode ser usado para pular sobre ele e cair atrás dele para realizar um golpe mortal pelas costas.
+
+Use o salto para realizar 3 golpes mortais pelas costas.
+
+&lt;?kgiconKc@6?&gt; em um inimigo com postura quebrada: Salto</text>
+<text id="11100082">%null%</text>
+<text id="11100083">%null%</text>
+<text id="11100084">%null%</text>
+<text id="11100085">%null%</text>
+<text id="11100086">%null%</text>
+<text id="11100087">%null%</text>
+<text id="11100088">%null%</text>
+<text id="11100089">%null%</text>
+<text id="11100090">Repelir consecutivamente</text>
+<text id="11100091">Quanto menor a vitalidade, mais devagar a postura se recupera. Para inimigos com uma postura aparentemente imbatível, use técnicas como "contra-ataque de esquiva" para reduzir a vitalidade, facilitando a quebra da postura.
+"Realize três golpes mortais no inimigo."
+
+&lt;?kgiconKc@5?&gt;: Esquivar
+&lt;?kgiconKc@16?&gt; ao esquivar: Contra-ataque</text>
+<text id="11101000">Combate com espada</text>
+<text id="11101001">&lt;?kgiconKc@16?&gt;: Atacar
+&lt;?kgiconKc@18?&gt; no momento que o ataque inimigo atingir você: Repelir
+&lt;?kgiconKc@16?&gt; em um inimigo com postura quebrada: Golpe mortal</text>
+<text id="11101002">%null%</text>
+<text id="11101003">%null%</text>
+<text id="11101004">%null%</text>
+<text id="11101005">%null%</text>
+<text id="11101006">%null%</text>
+<text id="11101007">%null%</text>
+<text id="11101008">%null%</text>
+<text id="11101009">%null%</text>
+<text id="11101010">Contra-ataque de esquiva</text>
+<text id="11101011">&lt;?kgiconKc@5?&gt;: Esquivar
+&lt;?kgiconKc@16?&gt; após esquivar: Contra-ataque de esquiva</text>
+<text id="11101012">%null%</text>
+<text id="11101013">%null%</text>
+<text id="11101014">%null%</text>
+<text id="11101015">%null%</text>
+<text id="11101016">%null%</text>
+<text id="11101017">%null%</text>
+<text id="11101018">%null%</text>
+<text id="11101019">%null%</text>
+<text id="11101020">Contra-atacando ataques amplos</text>
+<text id="11101021">&lt;?kgiconKc@6?&gt;: Pular
+&lt;?kgiconKc@6?&gt; no ar perto do inimigo: Voadora
+&lt;?kgiconKc@16?&gt; no ar em um inimigo com postura quebrada: Golpe mortal descendente</text>
+<text id="11101022">%null%</text>
+<text id="11101023">%null%</text>
+<text id="11101024">%null%</text>
+<text id="11101025">%null%</text>
+<text id="11101026">%null%</text>
+<text id="11101027">%null%</text>
+<text id="11101028">%null%</text>
+<text id="11101029">%null%</text>
+<text id="11101030">Combate Livre (fundamentos)</text>
+<text id="11101031">Pratique o que já aprendeu até agora.</text>
+<text id="11101032">%null%</text>
+<text id="11101033">%null%</text>
+<text id="11101034">%null%</text>
+<text id="11101035">%null%</text>
+<text id="11101036">%null%</text>
+<text id="11101037">%null%</text>
+<text id="11101038">%null%</text>
+<text id="11101039">%null%</text>
+<text id="11101040">Combate Livre (aplicação prática)</text>
+<text id="11101041">Encare uma variedade de ataques,
+usando seu treinamento para vencer.</text>
+<text id="11101042">%null%</text>
+<text id="11101043">%null%</text>
+<text id="11101044">%null%</text>
+<text id="11101045">%null%</text>
+<text id="11101046">%null%</text>
+<text id="11101047">%null%</text>
+<text id="11101048">%null%</text>
+<text id="11101049">%null%</text>
+<text id="11101050">Vitalidade e postura (Parte 1)</text>
+<text id="11101051">A postura desse inimigo se recupera rapidamente. 
+Use contra-ataques de esquiva para reduzir a vitalidade dele.</text>
+<text id="11101052">%null%</text>
+<text id="11101053">%null%</text>
+<text id="11101054">%null%</text>
+<text id="11101055">%null%</text>
+<text id="11101056">%null%</text>
+<text id="11101057">%null%</text>
+<text id="11101058">%null%</text>
+<text id="11101059">%null%</text>
+<text id="11101060">Vitalidade e postura (Parte 2)</text>
+<text id="11101061">Inimigos com vitalidade baixa recuperam a postura devagar.
+
+Foque em quebrar a postura e realizar um golpe mortal.</text>
+<text id="11101062">%null%</text>
+<text id="11101063">%null%</text>
+<text id="11101064">%null%</text>
+<text id="11101065">%null%</text>
+<text id="11101066">%null%</text>
+<text id="11101067">%null%</text>
+<text id="11101068">%null%</text>
+<text id="11101069">%null%</text>
+<text id="11101070">Recuperação de postura ao defender</text>
+<text id="11101071">Segurar a defesa recupera a postura mais rápido.
+
+Segurar &lt;?kgiconKc@18?&gt;: Defender
+</text>
+<text id="11101072">%null%</text>
+<text id="11101073">%null%</text>
+<text id="11101074">%null%</text>
+<text id="11101075">%null%</text>
+<text id="11101076">%null%</text>
+<text id="11101077">%null%</text>
+<text id="11101078">%null%</text>
+<text id="11101079">%null%</text>
+<text id="11101080">Inimigos em antigas memórias</text>
+<text id="11101081">Alguns inimigos nas antigas memórias do Lobo são muito poderosos.
+
+Caso eles pareçam imbatíveis,
+explore outros locais e retorne
+após tornar-se mais forte.</text>
+<text id="11102000">&lt;?kgiconKc@16?&gt;: Atacar</text>
+<text id="11102001">%null%</text>
+<text id="11102002">%null%</text>
+<text id="11102003">%null%</text>
+<text id="11102004">%null%</text>
+<text id="11102005">%null%</text>
+<text id="11102006">%null%</text>
+<text id="11102007">%null%</text>
+<text id="11102008">%null%</text>
+<text id="11102009">%null%</text>
+<text id="11102010">&lt;?kgiconKc@18?&gt; quando o ataque atingir você: Repelir</text>
+<text id="11102011">%null%</text>
+<text id="11102012">%null%</text>
+<text id="11102013">%null%</text>
+<text id="11102014">%null%</text>
+<text id="11102015">%null%</text>
+<text id="11102016">%null%</text>
+<text id="11102017">%null%</text>
+<text id="11102018">%null%</text>
+<text id="11102019">%null%</text>
+<text id="11102020">&lt;?kgiconKc@16?&gt; em um inimigo com postura quebrada: Golpe mortal</text>
+<text id="11102021">%null%</text>
+<text id="11102022">%null%</text>
+<text id="11102023">%null%</text>
+<text id="11102024">%null%</text>
+<text id="11102025">%null%</text>
+<text id="11102026">%null%</text>
+<text id="11102027">%null%</text>
+<text id="11102028">%null%</text>
+<text id="11102029">%null%</text>
+<text id="11102030">&lt;?kgiconKc@18?&gt; ao receber investida: Repelir</text>
+<text id="11102031">%null%</text>
+<text id="11102032">%null%</text>
+<text id="11102033">%null%</text>
+<text id="11102034">%null%</text>
+<text id="11102035">%null%</text>
+<text id="11102036">%null%</text>
+<text id="11102037">%null%</text>
+<text id="11102038">%null%</text>
+<text id="11102039">%null%</text>
+<text id="11102040">&lt;?kgiconKc@5?&gt; ao receber investida: Contra-ataque Mikiri</text>
+<text id="11102041">%null%</text>
+<text id="11102042">%null%</text>
+<text id="11102043">%null%</text>
+<text id="11102044">%null%</text>
+<text id="11102045">%null%</text>
+<text id="11102046">%null%</text>
+<text id="11102047">%null%</text>
+<text id="11102048">%null%</text>
+<text id="11102049">%null%</text>
+<text id="11102050">&lt;?kgiconKc@6?&gt; em um inimigo com postura quebrada: Salto</text>
+<text id="11102051">%null%</text>
+<text id="11102052">%null%</text>
+<text id="11102053">%null%</text>
+<text id="11102054">%null%</text>
+<text id="11102055">%null%</text>
+<text id="11102056">%null%</text>
+<text id="11102057">%null%</text>
+<text id="11102058">%null%</text>
+<text id="11102059">%null%</text>
+<text id="11102060">&lt;?kgiconKc@5?&gt;: Esquivar</text>
+<text id="11102061">%null%</text>
+<text id="11102062">%null%</text>
+<text id="11102063">%null%</text>
+<text id="11102064">%null%</text>
+<text id="11102065">%null%</text>
+<text id="11102066">%null%</text>
+<text id="11102067">%null%</text>
+<text id="11102068">%null%</text>
+<text id="11102069">%null%</text>
+<text id="11102070">&lt;?kgiconKc@16?&gt; após esquivar: Contra-ataque de esquiva</text>
+<text id="11102071">%null%</text>
+<text id="11102072">%null%</text>
+<text id="11102073">%null%</text>
+<text id="11102074">%null%</text>
+<text id="11102075">%null%</text>
+<text id="11102076">%null%</text>
+<text id="11102077">%null%</text>
+<text id="11102078">%null%</text>
+<text id="11102079">%null%</text>
+<text id="11102080">%null%</text>
+<text id="11102081">%null%</text>
+<text id="11102082">%null%</text>
+<text id="11102083">%null%</text>
+<text id="11102084">%null%</text>
+<text id="11102085">%null%</text>
+<text id="11102086">%null%</text>
+<text id="11102087">%null%</text>
+<text id="11102088">%null%</text>
+<text id="11102089">%null%</text>
+<text id="11102090">%null%</text>
+<text id="11102091">%null%</text>
+<text id="11102092">%null%</text>
+<text id="11102093">%null%</text>
+<text id="11102094">%null%</text>
+<text id="11102095">%null%</text>
+<text id="11102096">%null%</text>
+<text id="11102097">%null%</text>
+<text id="11102098">%null%</text>
+<text id="11102099">%null%</text>
+<text id="11102100">%null%</text>
+<text id="12000000">Se tem apreço à vida, dê meia volta.
+Você não pode decapitar aqueles que não têm cabeça.
+Nossas espadas e lanças foram inúteis.</text>
+<text id="12000001">Publicação no templo</text>
+<text id="12000002">%null%</text>
+<text id="12000003">%null%</text>
+<text id="12000004">%null%</text>
+<text id="12000005">%null%</text>
+<text id="12000006">%null%</text>
+<text id="12000007">%null%</text>
+<text id="12000008">%null%</text>
+<text id="12000009">%null%</text>
+<text id="12000010">Pergaminho sobre uma antiga batalha</text>
+<text id="12000011">Os fantasmas costumavam assombrar as
+terras de Ashina. O raio dos fantasmas
+vinha dos deuses da Nascente: 
+imbatíveis com estratégias normais.
+Não toque o chão, inverta o raio.</text>
+<text id="12000012">%null%</text>
+<text id="12000013">%null%</text>
+<text id="12000014">%null%</text>
+<text id="12000015">%null%</text>
+<text id="12000016">%null%</text>
+<text id="12000017">%null%</text>
+<text id="12000018">%null%</text>
+<text id="12000019">%null%</text>
+<text id="12000020">Torre de oferendas decadente</text>
+<text id="12000021">Local de descanso dos vassalos do clã Ashina executados após a grande rebelião.
+
+Que seus espíritos descansem em paz.</text>
+<text id="12000022">%null%</text>
+<text id="12000023">%null%</text>
+<text id="12000024">%null%</text>
+<text id="12000025">%null%</text>
+<text id="12000026">%null%</text>
+<text id="12000027">%null%</text>
+<text id="12000028">%null%</text>
+<text id="12000029">%null%</text>
+<text id="12000030">Documento do clã do Vale submerso</text>
+<text id="12000031">O clã do Vale submerso venera a Grande Serpente e atira em estranhos sem pensar. O "Olhos de serpente" é um grupo de franco-atiradoras conhecidas por acertar alvos a uma grande distância.</text>
+<text id="12000230">Emma.</text>
+<text id="12000231">     Tenho assuntos a resolver.
+     Tudo está sob controle.</text>
+<text id="12000232">%null%</text>
+<text id="12000233">%null%</text>
+<text id="12000234">%null%</text>
+<text id="12000235">%null%</text>
+<text id="12000236">%null%</text>
+<text id="12000237">%null%</text>
+<text id="12000238">%null%</text>
+<text id="12000239">%null%</text>
+<text id="12000240">Sekiro,</text>
+<text id="12000241">Na entrada do Vale submerso. Há muita movimentação perto do Santuário da Grande Serpente. O Tengu precisa cuidar de alguns ratos.</text>
+<text id="12000242">%null%</text>
+<text id="12000243">%null%</text>
+<text id="12000244">%null%</text>
+<text id="12000245">%null%</text>
+<text id="12000246">%null%</text>
+<text id="12000247">%null%</text>
+<text id="12000248">%null%</text>
+<text id="12000249">%null%</text>
+<text id="12000250">Nota sobre o saguão enlameado</text>
+<text id="12000251">Há lama para todos os lados.
+
+Ela vai espirrando conforme andamos.
+A lama sempre faz isso, não importa
+quem ande por ela.</text>
+<text id="12000252">Publicação do saguão enlameado</text>
+<text id="12000253">Lama! Lama em todo lugar.
+
+Não importa quem seja, eles sempre espalham lama. Espalham para todos os lados.
+
+O macaco que vê faz isso, assim como o macaco que ouve, o macaco que fala e até o... também...</text>
+<text id="12000254">%null%</text>
+<text id="12000255">%null%</text>
+<text id="12000256">%null%</text>
+<text id="12000257">%null%</text>
+<text id="12000258">%null%</text>
+<text id="12000259">%null%</text>
+<text id="12000260">Publicação do saguão da cascata</text>
+<text id="12000261">O barulho da cascata é ensurdecedor.
+De fato não é possivel escutar mais
+nada aqui dentro.</text>
+<text id="12000262">Publicação do saguão da cascata</text>
+<text id="12000263">O barulho da cascata é ensurdecedor.
+De fato não é possivel escutar mais
+nada aqui dentro.</text>
+<text id="12000264">%null%</text>
+<text id="12000265">%null%</text>
+<text id="12000266">%null%</text>
+<text id="12000267">%null%</text>
+<text id="12000268">%null%</text>
+<text id="12000269">%null%</text>
+<text id="12000270">Publicação do saguão pouco iluminado</text>
+<text id="12000271">Uma chama ao vento. Se a chama apagar, este lugar fica um breu.</text>
+<text id="12000272">Publicação do saguão pouco iluminado</text>
+<text id="12000273">Essa luz fraca é extinta com muita facilidade, como uma chama em meio ao vento.
+
+Quando isso acontece, o local fica um breu. Essa escuridão dá ensejo a medos e incertezas, mesmo em quem tem uma visão muito aguçada.</text>
+<text id="12000274">Nota do saguão pouco iluminado</text>
+<text id="12000275">Uma única chama ao vento.
+Quando ela se apaga, o lugar
+torna-se escuro como a noite.</text>
+<text id="12000276">%null%</text>
+<text id="12000277">%null%</text>
+<text id="12000278">%null%</text>
+<text id="12000279">%null%</text>
+<text id="12000280">Nota sobre o saguão abissal</text>
+<text id="12000281">Há um abismo embaixo.
+Impossível ver o fundo.
+
+Acima, só escuridão.
+Não dá para ver nada.</text>
+<text id="12000282">Nota sobre o saguão abissal</text>
+<text id="12000283">Abaixo, há um abismo. Acima, apenas escuridão.
+
+Ao subir, você encontrará esse breu desesperador. A escuridão dá ensejo a medos e incertezas, mesmo em quem tem uma visão muito aguçada.</text>
+<text id="12000284">Nota sobre o saguão abissal</text>
+<text id="12000285">Há um abismo embaixo.
+Impossível ver o fundo.
+
+Acima, só escuridão.
+Não dá para ver nada.
+</text>
+<text id="12000286">%null%</text>
+<text id="12000287">%null%</text>
+<text id="12000288">%null%</text>
+<text id="12000289">%null%</text>
+<text id="12000290">Altar da pedra do abrigo</text>
+<text id="12000291">Pedras do abrigo tais como esta
+são um presságio auspicioso e uma
+oferenda nupcial de doce perfume.
+
+A liteira aguarda de braços abertos.
+</text>
+<text id="12000292">%null%</text>
+<text id="12000293">%null%</text>
+<text id="12000294">%null%</text>
+<text id="12000295">%null%</text>
+<text id="12000296">%null%</text>
+<text id="12000297">%null%</text>
+<text id="12000298">%null%</text>
+<text id="12000299">%null%</text>
+<text id="12000300">Carta de Tengu</text>
+<text id="12000301">Os ratos estão se multiplicando perto do Santuário da Grande Serpente. O Tengu cuidará desses vermes.
+
+Sekiro, fique à vontade para me ajudar.</text>
+<text id="12000302">%null%</text>
+<text id="12000303">%null%</text>
+<text id="12000304">%null%</text>
+<text id="12000305">%null%</text>
+<text id="12000306">%null%</text>
+<text id="12000307">%null%</text>
+<text id="12000308">%null%</text>
+<text id="12000309">%null%</text>
+<text id="12000310">Carta do Herdeiro Divino</text>
+<text id="12000311">Lobo
+
+Encontrei algo.
+Eu abri a biblioteca. Encontre-me lá.
+
+                                             Kuro</text>
+<text id="12000312">%null%</text>
+<text id="12000313">%null%</text>
+<text id="12000314">%null%</text>
+<text id="12000315">%null%</text>
+<text id="12000316">%null%</text>
+<text id="12000317">%null%</text>
+<text id="12000318">%null%</text>
+<text id="12000319">%null%</text>
+<text id="12000320">Nota sobre o sino ensurdecedor</text>
+<text id="12000321">Esse sino é ensurdecedor.
+Tocá-lo de forma descuidada
+deixará seus ouvidos zumbindo.</text>
+<text id="12000322">%null%</text>
+<text id="12000323">%null%</text>
+<text id="12000324">%null%</text>
+<text id="12000325">%null%</text>
+<text id="12000326">%null%</text>
+<text id="12000327">%null%</text>
+<text id="12000328">%null%</text>
+<text id="12000329">%null%</text>
+<text id="12000330">Nota sobre o caminho de shinobi</text>
+<text id="12000331">Rota de fuga shinobi. Leva ao Sino Demoníaco.</text>
+<text id="12000332">%null%</text>
+<text id="12000333">%null%</text>
+<text id="12000334">%null%</text>
+<text id="12000335">%null%</text>
+<text id="12000336">%null%</text>
+<text id="12000337">%null%</text>
+<text id="12000338">%null%</text>
+<text id="12000339">%null%</text>
+<text id="12000340">Inscrição do sino</text>
+<text id="12000341">Não toque este sino.
+
+Convidar o infortúnio é um ato de virtude, mas apenas os de coração forte deveriam considerar isso.</text>
+<text id="12001000">Gastar pontos de habilidade para melhorar o poder de ataque?</text>
+<text id="12001001">%null%</text>
+<text id="12001002">%null%</text>
+<text id="12001003">%null%</text>
+<text id="12001004">%null%</text>
+<text id="12001005">%null%</text>
+<text id="12001006">%null%</text>
+<text id="12001007">%null%</text>
+<text id="12001008">%null%</text>
+<text id="12001009">%null%</text>
+<text id="12001010">Curar quem foi afligido pela praga do dragão?</text>
+<text id="12001011">%null%</text>
+<text id="12001012">%null%</text>
+<text id="12001013">%null%</text>
+<text id="12001014">%null%</text>
+<text id="12001015">%null%</text>
+<text id="12001016">%null%</text>
+<text id="12001017">%null%</text>
+<text id="12001018">%null%</text>
+<text id="12001019">%null%</text>
+<text id="12001020">Sair da batalha e voltar para o Ídolo do Escultor original?
+(Nenhum progresso será perdido)</text>
+<text id="12001021">%null%</text>
+<text id="12001022">%null%</text>
+<text id="12001023">%null%</text>
+<text id="12001024">%null%</text>
+<text id="12001025">%null%</text>
+<text id="12001026">%null%</text>
+<text id="12001027">%null%</text>
+<text id="12001028">%null%</text>
+<text id="12001029">%null%</text>
+<text id="12001030">Sair do desafio e voltar para o Ídolo do Escultor?
+(O progresso do desafio será perdido)</text>
+<text id="12001031">%null%</text>
+<text id="12001032">%null%</text>
+<text id="12001033">%null%</text>
+<text id="12001034">%null%</text>
+<text id="12001035">%null%</text>
+<text id="12001036">%null%</text>
+<text id="12001037">%null%</text>
+<text id="12001038">%null%</text>
+<text id="12001039">%null%</text>
+<text id="12001040">O poder de ataque está no máximo e não pode ser melhorado.
+Converter a memória da batalha em um Vestígio?</text>
+<text id="12010000">Dar o cano mecânico?</text>
+<text id="12010100">Tem certeza de que deseja retomar o amuleto
+e recusar o caminho de dificuldades adicionais?
+(Esta decisão não poderá ser desfeita neste jogo)</text>
+<text id="12011100">Trilhar o caminho da dificuldade adicional?</text>
+<text id="12014000">Pagar &lt;?evntAcquittalPrice?&gt; sen(s) para comprar a Gota de Sangue do Dragão?</text>
+<text id="12017002">Contar a ele do que os samurais Ashinas precisam?</text>
+<text id="12017003">Pagar &lt;?evntAcquittalPrice?&gt; sen(s) para comprar informação?</text>
+<text id="12022000">Dar as escrituras do sumo sacerdote do Templo Senpo?</text>
+<text id="12022001">Dar o caqui?</text>
+<text id="12022002">Oferecer o caqui de Taro?</text>
+<text id="12023000">Consumir poder de ressurreição para criar pastilha de praga do dragão?</text>
+<text id="12023001">Usar semente para aumentar o uso máximo da cabaça curativa?</text>
+<text id="12023002">Dar a amostra de sangue estagnado?</text>
+<text id="12090000">Você não poderá voltar ao jogo atual (&lt;?loopCount?&gt;)
+depois que iniciar o próximo jogo (&lt;?nextLoopCount?&gt;).
+Tem certeza de que deseja iniciar o próximo jogo (&lt;?nextLoopCount?&gt;)?</text>
+<text id="12095000">Dar o saquê de Ashina?</text>
+<text id="12095001">Dar o saquê rústico?</text>
+<text id="12095002">Dar a aguardente de macaco?</text>
+<text id="12095003">Dar o saquê Fonte do Dragão?</text>
+<text id="12095004">Dar o saquê de Ashina?</text>
+<text id="12095005">Dar o saquê rústico?</text>
+<text id="12095006">%null%</text>
+<text id="12095007">%null%</text>
+<text id="12095008">%null%</text>
+<text id="12095009">%null%</text>
+<text id="12095010">Dar a pastilha de praga do dragão?</text>
+<text id="13000000">Você não possui sementes de cabaça.</text>
+<text id="13000001">Usar semente para aumentar o uso máximo da cabaça curativa?</text>
+<text id="13000002">Agora você pode usar a cabaça curativa mais vezes.</text>
+<text id="13000003">A cabaça curativa não pode receber mais melhorias.</text>
+<text id="13000004">%null%</text>
+<text id="13000005">%null%</text>
+<text id="13000006">%null%</text>
+<text id="13000007">%null%</text>
+<text id="13000008">%null%</text>
+<text id="13000009">%null%</text>
+<text id="13000010">Você não possui as &lt;?evntAcquittalPrice?&gt; contas de oração necessárias.</text>
+<text id="13000011">Ofertar &lt;?evntAcquittalPrice?&gt; contas de oração para melhorar atributos físicos?</text>
+<text id="13000012">Atributos físicos melhorados.
+Vitalidade e postura máxima aumentadas.</text>
+<text id="13000013">Os atributos físicos não podem ser melhorados mais.</text>
+<text id="13000014">%null%</text>
+<text id="13000015">%null%</text>
+<text id="13000016">%null%</text>
+<text id="13000017">%null%</text>
+<text id="13000018">%null%</text>
+<text id="13000019">%null%</text>
+<text id="13000020">Você não tem sen suficiente para suprimir a estagnação. Requer 
+&lt;?evntAcquittalPrice?&gt; sen(s).</text>
+<text id="13000021">Gastar &lt;?evntAcquittalPrice?&gt; sen(s) para suprimir a estagnação?</text>
+<text id="13000022">A estagnação foi suprimida</text>
+<text id="13000023">O Sangue do Dragão não está estagnado</text>
+<text id="13000024">%null%</text>
+<text id="13000025">%null%</text>
+<text id="13000026">%null%</text>
+<text id="13000027">%null%</text>
+<text id="13000028">%null%</text>
+<text id="13000029">%null%</text>
+<text id="13000030">%null%</text>
+<text id="13000031">%null%</text>
+<text id="13000032">%null%</text>
+<text id="13000033">%null%</text>
+<text id="13000034">%null%</text>
+<text id="13000035">%null%</text>
+<text id="13000036">%null%</text>
+<text id="13000037">%null%</text>
+<text id="13000038">%null%</text>
+<text id="13000039">%null%</text>
+<text id="13000040">O poder de ataque foi melhorado.</text>
+<text id="13000041">O poder de ataque não pode ser melhorado mais.</text>
+<text id="13000042">Você não tem nenhuma memória.</text>
+<text id="13000043">%null%</text>
+<text id="13000044">%null%</text>
+<text id="13000045">%null%</text>
+<text id="13000046">%null%</text>
+<text id="13000047">%null%</text>
+<text id="13000048">%null%</text>
+<text id="13000049">%null%</text>
+<text id="13000050">Sem pontos de habilidade suficientes.</text>
+<text id="13000051">Pontos de habilidade gastos, poder de ataque melhorado.</text>
+<text id="13000052">O poder de ataque foi aumentado para o maior valor possível.</text>
+<text id="13000053">%null%</text>
+<text id="13000054">%null%</text>
+<text id="13000055">%null%</text>
+<text id="13000056">%null%</text>
+<text id="13000057">%null%</text>
+<text id="13000058">%null%</text>
+<text id="13000059">%null%</text>
+<text id="13000060">A saúde dos afligidos pela praga do dragão foi restaurada.</text>
+<text id="13000061">%null%</text>
+<text id="13000062">%null%</text>
+<text id="13000063">%null%</text>
+<text id="13000064">%null%</text>
+<text id="13000065">%null%</text>
+<text id="13000066">%null%</text>
+<text id="13000067">%null%</text>
+<text id="13000068">%null%</text>
+<text id="13000069">%null%</text>
+<text id="13000070">Você não possui &lt;?gdsparam@5600?&gt;.</text>
+<text id="13000071">%null%</text>
+<text id="13000072">%null%</text>
+<text id="13000073">%null%</text>
+<text id="13000074">%null%</text>
+<text id="13000075">%null%</text>
+<text id="13000076">%null%</text>
+<text id="13000077">%null%</text>
+<text id="13000078">%null%</text>
+<text id="13000079">%null%</text>
+<text id="13000080">Ninguém foi afligido pela praga do dragão.</text>
+<text id="13001700">Não há sens suficientes.</text>
+<text id="13010000">Você não tem ferramentas para encaixar na prótese shinobi.</text>
+<text id="13010001">%null%</text>
+<text id="13010002">%null%</text>
+<text id="13010003">%null%</text>
+<text id="13010004">%null%</text>
+<text id="13010005">%null%</text>
+<text id="13010006">%null%</text>
+<text id="13010007">%null%</text>
+<text id="13010008">%null%</text>
+<text id="13010009">%null%</text>
+<text id="13010010">Nenhuma das suas ferramentas prostéticas podem ser melhoradas.</text>
+<text id="13010011">%null%</text>
+<text id="13010012">%null%</text>
+<text id="13010013">%null%</text>
+<text id="13010014">%null%</text>
+<text id="13010015">%null%</text>
+<text id="13010016">%null%</text>
+<text id="13010017">%null%</text>
+<text id="13010018">%null%</text>
+<text id="13010019">%null%</text>
+<text id="13010020">%null%</text>
+<text id="13010021">%null%</text>
+<text id="13010022">%null%</text>
+<text id="13010023">%null%</text>
+<text id="13010024">%null%</text>
+<text id="13010025">%null%</text>
+<text id="13010026">%null%</text>
+<text id="13010027">%null%</text>
+<text id="13010028">%null%</text>
+<text id="13010029">%null%</text>
+<text id="13010030">%null%</text>
+<text id="13010031">%null%</text>
+<text id="13010032">%null%</text>
+<text id="13010033">%null%</text>
+<text id="13010034">%null%</text>
+<text id="13010035">%null%</text>
+<text id="13010036">%null%</text>
+<text id="13010037">%null%</text>
+<text id="13010038">%null%</text>
+<text id="13010039">%null%</text>
+<text id="13010040">%null%</text>
+<text id="13010041">%null%</text>
+<text id="13010042">%null%</text>
+<text id="13010043">%null%</text>
+<text id="13010044">%null%</text>
+<text id="13010045">%null%</text>
+<text id="13010046">%null%</text>
+<text id="13010047">%null%</text>
+<text id="13010048">%null%</text>
+<text id="13010049">%null%</text>
+<text id="13010050">%null%</text>
+<text id="13010051">%null%</text>
+<text id="13010052">%null%</text>
+<text id="13010053">%null%</text>
+<text id="13010054">%null%</text>
+<text id="13010055">%null%</text>
+<text id="13010056">%null%</text>
+<text id="13010057">%null%</text>
+<text id="13010058">%null%</text>
+<text id="13010059">%null%</text>
+<text id="13010060">%null%</text>
+<text id="13010061">%null%</text>
+<text id="13010062">%null%</text>
+<text id="13010063">%null%</text>
+<text id="13010064">%null%</text>
+<text id="13010065">%null%</text>
+<text id="13010066">%null%</text>
+<text id="13010067">%null%</text>
+<text id="13010068">%null%</text>
+<text id="13010069">%null%</text>
+<text id="13010070">%null%</text>
+<text id="13010071">%null%</text>
+<text id="13010072">%null%</text>
+<text id="13010073">%null%</text>
+<text id="13010074">%null%</text>
+<text id="13010075">%null%</text>
+<text id="13010076">%null%</text>
+<text id="13010077">%null%</text>
+<text id="13010078">%null%</text>
+<text id="13010079">%null%</text>
+<text id="13010080">%null%</text>
+<text id="13010081">%null%</text>
+<text id="13010082">%null%</text>
+<text id="13010083">%null%</text>
+<text id="13010084">%null%</text>
+<text id="13010085">%null%</text>
+<text id="13010086">%null%</text>
+<text id="13010087">%null%</text>
+<text id="13010088">%null%</text>
+<text id="13010089">%null%</text>
+<text id="13010090">%null%</text>
+<text id="13010091">%null%</text>
+<text id="13010092">%null%</text>
+<text id="13010093">%null%</text>
+<text id="13010094">%null%</text>
+<text id="13010095">%null%</text>
+<text id="13010096">%null%</text>
+<text id="13010097">%null%</text>
+<text id="13010098">%null%</text>
+<text id="13010099">%null%</text>
+<text id="13010100">Você não terá dificuldade adicional neste jogo.</text>
+<text id="13010101">Dar o cano mecânico,</text>
+<text id="13010102">Encaixou o cano mecânico na prótese shinobi.</text>
+<text id="13010103">Antigas memórias devem ser recordadas em certa ordem.
+Parece que há outro sino que deve ser usado primeiro.</text>
+<text id="13010104">Este Buda tem um ar de gentileza.
+Talvez eu possa fazer algum tipo de oferenda.</text>
+<text id="13011000">O Herdeiro Divino não pode ser deixado para trás.</text>
+<text id="13011011">O incensário tem um leve perfume de flor de cerejeira.</text>
+<text id="13011100">Você escolheu o caminho de mais sofrimento.</text>
+<text id="13011101">%null%</text>
+<text id="13011102">%null%</text>
+<text id="13011103">%null%</text>
+<text id="13011104">%null%</text>
+<text id="13011105">%null%</text>
+<text id="13011106">%null%</text>
+<text id="13011107">%null%</text>
+<text id="13011108">%null%</text>
+<text id="13011109">%null%</text>
+<text id="13011110">Deu arroz para Kuro.</text>
+<text id="13011111">%null%</text>
+<text id="13011112">%null%</text>
+<text id="13011113">%null%</text>
+<text id="13011114">%null%</text>
+<text id="13011115">%null%</text>
+<text id="13011116">%null%</text>
+<text id="13011117">%null%</text>
+<text id="13011118">%null%</text>
+<text id="13011119">%null%</text>
+<text id="13011120">Poder de ressurreição adicional concedido.</text>
+<text id="13011121">Não há nenhuma gota de cerejeira em sua posse.</text>
+<text id="13011122">Este item não pode receber mais melhorias.</text>
+<text id="13012200">Nenhum destino a apresentar</text>
+<text id="13013000">Combate Livre está disponível agora.</text>
+<text id="13013001">Novo treinamento do Samurai Imortal disponível.</text>
+<text id="13013002">%null%</text>
+<text id="13013003">Treinamento do Samurai Imortal "Contra-ataque Mikiri" disponível.</text>
+<text id="13013004">Treinamento do Samurai Imortal "Salto" disponível.</text>
+<text id="13013005">Nova opção de treinamento disponível.</text>
+<text id="13013006">Combate Livre está disponível agora.</text>
+<text id="13013007">Nova opção de treinamento disponível.</text>
+<text id="13013008">Treinamento do Samurai Imortal "Contra-ataque Mikiri" disponível.</text>
+<text id="13013009">Treinamento do Samurai Imortal "Salto" disponível.</text>
+<text id="13013010">Combate Livre está disponível agora.</text>
+<text id="13017000">Anayama pagou&lt;?evntAcquittalPrice?&gt; sen(s) para você.</text>
+<text id="13017001">Pagou &lt;?evntAcquittalPrice?&gt; sen(s).</text>
+<text id="13022000">Você não possui caquis.</text>
+<text id="13023003">Você não tem nenhuma semente de cabaça.</text>
+<text id="13023004">O número máximo de usos da cabaça curativa foi aumentado em 1.</text>
+<text id="13023005">A cabaça curativa não pode receber mais melhorias.</text>
+<text id="13023006">Deu amostra de sangue da praga do dragão.</text>
+<text id="13024000">Desafio de força: O caminho "Herdeiro Divino" foi desbloqueado</text>
+<text id="13024001">%null%</text>
+<text id="13024002">%null%</text>
+<text id="13024003">%null%</text>
+<text id="13024004">%null%</text>
+<text id="13024005">%null%</text>
+<text id="13024006">%null%</text>
+<text id="13024007">%null%</text>
+<text id="13024008">%null%</text>
+<text id="13024009">%null%</text>
+<text id="13024010">Desafio de força: "Shura" desbloqueado</text>
+<text id="13024011">%null%</text>
+<text id="13024012">%null%</text>
+<text id="13024013">%null%</text>
+<text id="13024014">%null%</text>
+<text id="13024015">%null%</text>
+<text id="13024016">%null%</text>
+<text id="13024017">%null%</text>
+<text id="13024018">%null%</text>
+<text id="13024019">%null%</text>
+<text id="13024020">Desafio de força: O caminho "Rompimento" foi desbloqueado</text>
+<text id="13024021">%null%</text>
+<text id="13024022">%null%</text>
+<text id="13024023">%null%</text>
+<text id="13024024">%null%</text>
+<text id="13024025">%null%</text>
+<text id="13024026">%null%</text>
+<text id="13024027">%null%</text>
+<text id="13024028">%null%</text>
+<text id="13024029">%null%</text>
+<text id="13024030">Desafio de força: "Jornada Mortal" desbloqueado</text>
+<text id="14000000">Dar a pastilha de praga do dragão</text>
+<text id="14000001">Permanecer em silêncio</text>
+<text id="14000002">Pegar amostra de sangue expelido</text>
+<text id="14000003">Não fazer nada</text>
+<text id="14000100">Dar as lágrimas do Dragão Divino</text>
+<text id="14000101">Dar as lágrimas do Dragão e a flor da Floreterna</text>
+<text id="14000102">Dar as lágrimas do Dragão e as lágrimas congeladas</text>
+<text id="14000500">Usar a isca preciosa</text>
+<text id="14000501">Selecionar a isca muito preciosa</text>
+<text id="14000502">Sair</text>
+<text id="14000503">Isca de Harunaga, o nobre do vaso </text>
+<text id="14000504">Isca de Koremori, o nobre do vaso </text>
+<text id="14010000">Perguntar o que Buda mostrou para ele</text>
+<text id="14010001">Permanecer em silêncio</text>
+<text id="14010002">%null%</text>
+<text id="14010003">%null%</text>
+<text id="14010004">%null%</text>
+<text id="14010005">%null%</text>
+<text id="14010006">%null%</text>
+<text id="14010007">%null%</text>
+<text id="14010008">%null%</text>
+<text id="14010009">%null%</text>
+<text id="14010010">Pegar o amuleto de Kuro de volta</text>
+<text id="14010011">Deixá-lo ficar com o amuleto de Kuro</text>
+<text id="14011000">Dar o amuleto de Kuro</text>
+<text id="14011001">Não fazer nada</text>
+<text id="14011002">%null%</text>
+<text id="14011003">%null%</text>
+<text id="14011004">%null%</text>
+<text id="14011005">%null%</text>
+<text id="14011006">%null%</text>
+<text id="14011007">%null%</text>
+<text id="14011008">%null%</text>
+<text id="14011009">%null%</text>
+<text id="14011010">Insistir que Kuro fique com ele</text>
+<text id="14011011">Manter sob o seu cuidado</text>
+<text id="14011012">%null%</text>
+<text id="14011013">%null%</text>
+<text id="14011014">%null%</text>
+<text id="14011015">%null%</text>
+<text id="14011016">%null%</text>
+<text id="14011017">%null%</text>
+<text id="14011018">%null%</text>
+<text id="14011019">%null%</text>
+<text id="14011020">Ajudar Kuro</text>
+<text id="14011021">Obedecer ao Código de Ferro, proteger Kuro</text>
+<text id="14011022">%null%</text>
+<text id="14011023">%null%</text>
+<text id="14011024">%null%</text>
+<text id="14011025">%null%</text>
+<text id="14011026">%null%</text>
+<text id="14011027">%null%</text>
+<text id="14011028">%null%</text>
+<text id="14011029">%null%</text>
+<text id="14011030">Acorde-o</text>
+<text id="14011031">Deixe-o dormir</text>
+<text id="14011032">%null%</text>
+<text id="14011033">%null%</text>
+<text id="14011034">%null%</text>
+<text id="14011035">%null%</text>
+<text id="14011036">%null%</text>
+<text id="14011037">%null%</text>
+<text id="14011038">%null%</text>
+<text id="14011039">%null%</text>
+<text id="14011040">Perguntar sobre o buraco sem fundo.</text>
+<text id="14011041">Não tenho certeza</text>
+<text id="14011042">%null%</text>
+<text id="14011043">%null%</text>
+<text id="14011044">%null%</text>
+<text id="14011045">%null%</text>
+<text id="14011046">%null%</text>
+<text id="14011047">%null%</text>
+<text id="14011048">%null%</text>
+<text id="14011049">%null%</text>
+<text id="14011050">Dar a gota de cerejeira</text>
+<text id="14011051">Ficar com a gota de cerejeira</text>
+<text id="14011052">%null%</text>
+<text id="14011053">%null%</text>
+<text id="14011054">%null%</text>
+<text id="14011055">%null%</text>
+<text id="14011056">%null%</text>
+<text id="14011057">%null%</text>
+<text id="14011058">%null%</text>
+<text id="14011059">%null%</text>
+<text id="14011060">Sim</text>
+<text id="14011061">Não</text>
+<text id="14012000">Obedecer ao Código de Ferro, renunciar Kuro</text>
+<text id="14012001">Desobedecer ao Código de Ferro, permanecer leal a Kuro</text>
+<text id="14012002">%null%</text>
+<text id="14012003">%null%</text>
+<text id="14012004">%null%</text>
+<text id="14012005">%null%</text>
+<text id="14012006">%null%</text>
+<text id="14012007">%null%</text>
+<text id="14012008">%null%</text>
+<text id="14012009">%null%</text>
+<text id="14012010">Obedecer ao Código de Ferro, renunciar Kuro</text>
+<text id="14012011">Mudar de ideia. Permanecer leal a Kuro</text>
+<text id="14013000">Aceitar</text>
+<text id="14013001">Recusar</text>
+<text id="14013002">Pedir desculpas</text>
+<text id="14013003">Agradecer</text>
+<text id="14013004">Contar sobre a Lâmina Mortal</text>
+<text id="14013005">Não contar</text>
+<text id="14013006">Aceitar</text>
+<text id="14013007">Eu não quero matar você</text>
+<text id="14014000">Eu não sabia</text>
+<text id="14014001">Eu sei</text>
+<text id="14014002">Permanecer em silêncio</text>
+<text id="14014003">Já ouvi falar.</text>
+<text id="14015000">Perguntar por que ela está chorando</text>
+<text id="14015001">Permanecer em silêncio</text>
+<text id="14015002">Eu não sei</text>
+<text id="14015003">Permanecer em silêncio</text>
+<text id="14016000">Eu não sou seu filho</text>
+<text id="14016001">Permanecer em silêncio</text>
+<text id="14017000">"Aquela noite"?</text>
+<text id="14017001">Permanecer em silêncio</text>
+<text id="14017002">Comprar informação por &lt;?evntAcquittalPrice?&gt; sen(s)</text>
+<text id="14017003">Não estou interessado</text>
+<text id="14018000">Responder</text>
+<text id="14018001">Permanecer em silêncio</text>
+<text id="14022000">Sim</text>
+<text id="14022001">Não</text>
+<text id="14022002">Oferecer o caqui</text>
+<text id="14022003">Manter o caqui</text>
+<text id="14022004">Saudá-la</text>
+<text id="14022005">Dar Capítulo Sagrado: Infestado</text>
+<text id="14022006">Sair</text>
+<text id="14022007">Oferecer os caquis da serpente</text>
+<text id="14022008">Manter os caquis da serpente</text>
+<text id="14022009">Dar gota de cerejeira</text>
+<text id="14022010">Ficar com gota de cerejeira</text>
+<text id="14023000">Perguntar como encontrar Isshin</text>
+<text id="14023001">Permanecer em silêncio</text>
+<text id="14023002">Concordo. Kuro não pode morrer</text>
+<text id="14023003">Não. Meu lorde almeja o Rompimento</text>
+<text id="14023004">Eu reconsiderei. Kuro deve viver</text>
+<text id="14023005">Eu já me decidi</text>
+<text id="14023006">Sair em silêncio</text>
+<text id="14023007">Perguntar o que ela está escondendo</text>
+<text id="14024000">Vinho de Shura</text>
+<text id="14024001">Não sei</text>
+<text id="14024050">Aceitar</text>
+<text id="14024051">Recusar</text>
+<text id="14025000">Dar o bigode grande branco</text>
+<text id="14025001">Ficar com o bigode grande branco</text>
+<text id="14025002">Não fazer nada</text>
+<text id="14026000">Perguntar por que ele está chorando</text>
+<text id="14026001">Permanecer em silêncio</text>
+<text id="14026002">Dar cata-vento vermelho e branco</text>
+<text id="14026003">Dar cata-vento branco</text>
+<text id="14026004">Atrair para a masmorra abandonada</text>
+<text id="14026005">Falar para ele sobre Anayama, o Mascate</text>
+<text id="14026006">Aceitar</text>
+<text id="14026007">Recusar</text>
+<text id="14026008">Sugerir um local de destino</text>
+<text id="14026009">Não fazer nada</text>
+<text id="14026010">Sair</text>
+<text id="14027000">Saudá-lo</text>
+<text id="14027001">Ignorá-lo</text>
+<text id="14028000">Saudá-lo</text>
+<text id="14028001">Ignorá-lo</text>
+<text id="14028002">Dar a água do palácio</text>
+<text id="14028003">Ficar com a água do palácio</text>
+<text id="14029000">Dar arroz</text>
+<text id="14029001">Ficar com arroz</text>
+<text id="14029002">Não fazer nada</text>
+<text id="14030000">Saudá-lo</text>
+<text id="14030001">Ignorá-lo</text>
+<text id="14030002">Atrair para a masmorra abandonada</text>
+<text id="14030003">Não</text>
+<text id="14030004">Não mencionar a masmorra abandonada</text>
+<text id="14031002">Sim</text>
+<text id="14031003">Permanecer em silêncio</text>
+<text id="14031004">Dar os olhos de carpa vermelha</text>
+<text id="14031005">Ficar com os olhos de carpa vermelha</text>
+<text id="14031006">Falar do remédio para ele</text>
+<text id="14031007">Não falar nada para ele</text>
+<text id="14032000">Perguntar sobre a "pessoa divina"</text>
+<text id="14032001">Permanecer em silêncio</text>
+<text id="14036000">Escutar os segredos dele</text>
+<text id="14036001">Não estou interessado</text>
+<text id="14047000">Sim</text>
+<text id="14047001">Permanecer em silêncio</text>
+<text id="14070000">Perguntar o que aconteceu</text>
+<text id="14070001">Perguntar o ano</text>
+<text id="14070002">Não perguntar nada</text>
+<text id="14070003">%null%</text>
+<text id="14070004">%null%</text>
+<text id="14070005">Aceitar</text>
+<text id="14070006">Permanecer em silêncio</text>
+<text id="15000000">Falar</text>
+<text id="15000001">%null%</text>
+<text id="15000002">%null%</text>
+<text id="15000003">%null%</text>
+<text id="15000004">%null%</text>
+<text id="15000005">Sair</text>
+<text id="15000006">Sair</text>
+<text id="15000007">%null%</text>
+<text id="15000008">%null%</text>
+<text id="15000009">%null%</text>
+<text id="15000010">Comprar itens</text>
+<text id="15000011">Vender itens</text>
+<text id="15000012">Comprar brasões espirituais</text>
+<text id="15000013">%null%</text>
+<text id="15000014">%null%</text>
+<text id="15000015">%null%</text>
+<text id="15000016">%null%</text>
+<text id="15000017">%null%</text>
+<text id="15000018">%null%</text>
+<text id="15000019">%null%</text>
+<text id="15000020">%null%</text>
+<text id="15000110">Sair</text>
+<text id="15000111">%null%</text>
+<text id="15000112">%null%</text>
+<text id="15000113">%null%</text>
+<text id="15000114">%null%</text>
+<text id="15000115">%null%</text>
+<text id="15000116">%null%</text>
+<text id="15000117">%null%</text>
+<text id="15000118">%null%</text>
+<text id="15000119">%null%</text>
+<text id="15000120">Repousar</text>
+<text id="15000121">%null%</text>
+<text id="15000122">%null%</text>
+<text id="15000123">%null%</text>
+<text id="15000124">%null%</text>
+<text id="15000125">%null%</text>
+<text id="15000126">%null%</text>
+<text id="15000127">%null%</text>
+<text id="15000128">%null%</text>
+<text id="15000129">%null%</text>
+<text id="15000130">%null%</text>
+<text id="15000131">%null%</text>
+<text id="15000132">%null%</text>
+<text id="15000133">%null%</text>
+<text id="15000134">%null%</text>
+<text id="15000135">%null%</text>
+<text id="15000136">%null%</text>
+<text id="15000137">%null%</text>
+<text id="15000138">%null%</text>
+<text id="15000139">%null%</text>
+<text id="15000140">Comprar brasões espirituais</text>
+<text id="15000141">%null%</text>
+<text id="15000142">%null%</text>
+<text id="15000143">%null%</text>
+<text id="15000144">%null%</text>
+<text id="15000145">%null%</text>
+<text id="15000146">%null%</text>
+<text id="15000147">%null%</text>
+<text id="15000148">%null%</text>
+<text id="15000149">%null%</text>
+<text id="15000150">Viajar</text>
+<text id="15000170">Aprimorar atributos físicos</text>
+<text id="15000171">%null%</text>
+<text id="15000172">%null%</text>
+<text id="15000173">%null%</text>
+<text id="15000174">%null%</text>
+<text id="15000175">%null%</text>
+<text id="15000176">%null%</text>
+<text id="15000177">%null%</text>
+<text id="15000178">%null%</text>
+<text id="15000179">%null%</text>
+<text id="15000180">Suprimir estagnação</text>
+<text id="15000181">%null%</text>
+<text id="15000182">%null%</text>
+<text id="15000183">%null%</text>
+<text id="15000184">%null%</text>
+<text id="15000185">%null%</text>
+<text id="15000186">%null%</text>
+<text id="15000187">%null%</text>
+<text id="15000188">%null%</text>
+<text id="15000189">%null%</text>
+<text id="15000190">Iniciar jogo núm. &lt;?nextLoopCount?&gt;</text>
+<text id="15000191">%null%</text>
+<text id="15000192">%null%</text>
+<text id="15000193">%null%</text>
+<text id="15000194">%null%</text>
+<text id="15000195">%null%</text>
+<text id="15000196">%null%</text>
+<text id="15000197">%null%</text>
+<text id="15000198">%null%</text>
+<text id="15000199">%null%</text>
+<text id="15000200">Próximo</text>
+<text id="15000201">Anterior</text>
+<text id="15000250">Curar a praga do dragão</text>
+<text id="15000300">Adquirir habilidades</text>
+<text id="15000400">%null%</text>
+<text id="15000401">%null%</text>
+<text id="15000402">%null%</text>
+<text id="15000403">%null%</text>
+<text id="15000500">Oferecer o saquê de Ashina</text>
+<text id="15000501">Oferecer o saquê rústico</text>
+<text id="15000502">Oferecer a aguardente de macaco</text>
+<text id="15000503">Oferecer o saquê Fonte do Dragão</text>
+<text id="15000504">%null%</text>
+<text id="15000505">%null%</text>
+<text id="15000506">%null%</text>
+<text id="15000507">%null%</text>
+<text id="15000508">%null%</text>
+<text id="15000509">%null%</text>
+<text id="15000510">Dar bebida</text>
+<text id="15000511">%null%</text>
+<text id="15000512">%null%</text>
+<text id="15000513">%null%</text>
+<text id="15000514">%null%</text>
+<text id="15000515">%null%</text>
+<text id="15000516">%null%</text>
+<text id="15000517">%null%</text>
+<text id="15000518">%null%</text>
+<text id="15000519">%null%</text>
+<text id="15000520">Dar a pastilha de praga do dragão</text>
+<text id="15000521">Coletar uma amostra de sangue</text>
+<text id="15000600">Aprimorar ataque</text>
+<text id="15000601">Aprimorar ataque (pontos de habilidade)</text>
+<text id="15000700">Confrontar memória: Gyoubu</text>
+<text id="15000701">%null%</text>
+<text id="15000702">%null%</text>
+<text id="15000703">%null%</text>
+<text id="15000704">%null%</text>
+<text id="15000705">%null%</text>
+<text id="15000706">%null%</text>
+<text id="15000707">%null%</text>
+<text id="15000708">%null%</text>
+<text id="15000709">%null%</text>
+<text id="15000710">Confrontar memória: Gyoubu</text>
+<text id="15000711">Confrontar memória: Borboleta</text>
+<text id="15000712">Confrontar memória: Genichiro </text>
+<text id="15000713">Confrontar memória: Macacos</text>
+<text id="15000714">Confrontar memória: Guardião Primata</text>
+<text id="15000715">Confrontar memória: Monja Corrompida</text>
+<text id="15000716">Confrontar memória: G. Shinobi, Coruja</text>
+<text id="15000717">Confrontar memória: Coruja (pai)</text>
+<text id="15000718">Confrontar memória: Monja Verdadeira</text>
+<text id="15000719">Confrontar memória: Dragão Divino</text>
+<text id="15000720">Confrontar memória: Dem. do Rancor</text>
+<text id="15000721">Confrontar memória: Divindade Isshin</text>
+<text id="15000722">Confrontar memória: Isshin Ashina</text>
+<text id="15000723">Confrontar memória: Primata s. cabeça</text>
+<text id="15000724">%null%</text>
+<text id="15000725">%null%</text>
+<text id="15000726">%null%</text>
+<text id="15000727">%null%</text>
+<text id="15000728">%null%</text>
+<text id="15000729">%null%</text>
+<text id="15000730">Confrontar Memória: Genichiro Interior</text>
+<text id="15000731">Confrontar Memória: Pai Interior</text>
+<text id="15000732">Confrontar Memória: Isshin Interior</text>
+<text id="15000800">Dar a pastilha de praga do dragão</text>
+<text id="15000811">Coletar amostra de sangue</text>
+<text id="15000900">Reflexão de força</text>
+<text id="15000901">Desafio de força</text>
+<text id="15000902">Mudança de forma</text>
+<text id="15000903">%null%</text>
+<text id="15000904">%null%</text>
+<text id="15000905">%null%</text>
+<text id="15000906">%null%</text>
+<text id="15000907">%null%</text>
+<text id="15000908">%null%</text>
+<text id="15000909">%null%</text>
+<text id="15000910">Repousar</text>
+<text id="15000911">Comprar brasões espirituais</text>
+<text id="15000912">Enfrentar oponente extraordinário</text>
+<text id="15000913">Sair da batalha</text>
+<text id="15000914">%null%</text>
+<text id="15000915">%null%</text>
+<text id="15000916">%null%</text>
+<text id="15000917">%null%</text>
+<text id="15000918">%null%</text>
+<text id="15000919">%null%</text>
+<text id="15000920">Repousar</text>
+<text id="15000921">Comprar brasões espirituais</text>
+<text id="15000922">Enfrentar próximo oponente</text>
+<text id="15000923">Sair da batalha</text>
+<text id="15001000">Desafio de força</text>
+<text id="15001001">Herdeiro Divino</text>
+<text id="15001002">Shura</text>
+<text id="15001003">Rompimento</text>
+<text id="15001004">Jornada Mortal</text>
+<text id="15010000">Encaixar nova ferramenta prostética</text>
+<text id="15010001">Melhorar ferramenta prostética</text>
+<text id="15010002">Dar o cano mecânico</text>
+<text id="15010003">Oferecer prótese shinobi</text>
+<text id="15010300">Perguntar como você chegou aqui</text>
+<text id="15010301">Perguntar sobre seu novo braço</text>
+<text id="15010302">Perguntar sobre o sangue de Kuro</text>
+<text id="15010900">Recusar a dificuldade adicional</text>
+<text id="15011010">Oferecer a gota de cerejeira</text>
+<text id="15011011">Dar gota de cerejeira</text>
+<text id="15011012">Sobre a flor</text>
+<text id="15011013">Sobre a pedra</text>
+<text id="15011014">Sobre a cerejeira</text>
+<text id="15011015">Perguntar sobre o sangue de Kuro</text>
+<text id="15011016">Perguntar sobre o amuleto de guizo</text>
+<text id="15013000">Treinamento</text>
+<text id="15013001">Combate Livre</text>
+<text id="15013002">Contar sobre a Lâmina Mortal</text>
+<text id="15013003">Conversar sobre a Lâmina Mortal</text>
+<text id="15013004">Sobre o santuário</text>
+<text id="15013005">%null%</text>
+<text id="15013006">%null%</text>
+<text id="15013007">%null%</text>
+<text id="15013008">%null%</text>
+<text id="15013009">%null%</text>
+<text id="15013010">Combate Livre (fundamentos)</text>
+<text id="15013011">Combate Livre (aplicado)</text>
+<text id="15013012">%null%</text>
+<text id="15013013">%null%</text>
+<text id="15013014">%null%</text>
+<text id="15013015">%null%</text>
+<text id="15013016">%null%</text>
+<text id="15013017">%null%</text>
+<text id="15013018">%null%</text>
+<text id="15013019">%null%</text>
+<text id="15013020">Ataques</text>
+<text id="15013021">Repelir</text>
+<text id="15013022">Esquiva</text>
+<text id="15013023">Repelir consecutivamente</text>
+<text id="15013024">Vitalidade e postura</text>
+<text id="15013025">Contra-atacando investidas</text>
+<text id="15013026">Contra-atacando ataques amplos</text>
+<text id="15013027">Contra-ataque Mikiri</text>
+<text id="15013028">Salto</text>
+<text id="15013039">Sair</text>
+<text id="15014000">Comprar itens</text>
+<text id="15017000">%null%</text>
+<text id="15017001">%null%</text>
+<text id="15017002">%null%</text>
+<text id="15017003">Comprar itens</text>
+<text id="15017004">Vender itens</text>
+<text id="15017005">%null%</text>
+<text id="15017006">Comprar informação</text>
+<text id="15017007">Comprar informação</text>
+<text id="15017008">%null%</text>
+<text id="15017009">Confirmar informação comprada</text>
+<text id="15022004">Pedir arroz</text>
+<text id="15022005">Entregar Capítulo Sagrado: Infestado</text>
+<text id="15022006">Oferecer o caqui</text>
+<text id="15022007">Oferecer a gota de cerejeira</text>
+<text id="15022008">Oferecer o caqui</text>
+<text id="15022009">Oferecer o caqui de Taro</text>
+<text id="15023000">Criar a pastilha de praga do dragão</text>
+<text id="15023001">Mostrar a cabaça curativa</text>
+<text id="15023002">Entregar semente de cabaça</text>
+<text id="15023003">Dar a amostra de sangue estagnado</text>
+<text id="15023004">Perguntar sobre o que você ouviu</text>
+<text id="15023005">Sobre a praga do dragão</text>
+<text id="15023006">Palavras de despedida de Isshin?</text>
+<text id="15024000">Sobre o Rompimento da Imortalidade</text>
+<text id="15024001">Localização da Lâmina Mortal</text>
+<text id="15026002">Falar para ele sobre Anayama, o Mascate</text>
+<text id="15027000">Perguntar sobre o vilarejo</text>
+<text id="15027001">Perguntar sobre os aldeões</text>
+<text id="15027002">Perguntar sobre o sacerdote do vilarejo</text>
+<text id="15036000">Comprar itens com escamas</text>
+<text id="15048000">Macaco de quimono roxo?</text>
+<text id="15048001">Macaco de quimono laranja?</text>
+<text id="15048002">Macaco de quimono verde?</text>
+<text id="15100000">&lt;?null?&gt;</text>
+<text id="15100001">%null%</text>
+<text id="15100002">%null%</text>
+<text id="15100003">%null%</text>
+<text id="15100004">%null%</text>
+<text id="15100005">&lt;?null?&gt;</text>
+<text id="15100006">&lt;?null?&gt;</text>
+<text id="15100007">%null%</text>
+<text id="15100008">%null%</text>
+<text id="15100009">%null%</text>
+<text id="15100010">&lt;?null?&gt;</text>
+<text id="15100011">&lt;?null?&gt;</text>
+<text id="15100120">Repousar diante do Ídolo do Escultor</text>
+<text id="15100140">Comprar brasões espirituais</text>
+<text id="15100141">%null%</text>
+<text id="15100142">%null%</text>
+<text id="15100143">%null%</text>
+<text id="15100144">%null%</text>
+<text id="15100145">%null%</text>
+<text id="15100146">%null%</text>
+<text id="15100147">%null%</text>
+<text id="15100148">%null%</text>
+<text id="15100149">%null%</text>
+<text id="15100150">Viajar para os ídolos com os quais já houve comunhão</text>
+<text id="15100170">Ofertar contas de oração para aumentar a vitalidade e a postura máxima</text>
+<text id="15100190">Iniciar jogo núm. &lt;?nextLoopCount?&gt;</text>
+<text id="15100250">Curar quem foi afligido pela praga do dragão</text>
+<text id="15100300">Gastar pontos de habilidade para adquirir habilidades</text>
+<text id="15100500">&lt;?null?&gt;</text>
+<text id="15100501">&lt;?null?&gt;</text>
+<text id="15100502">&lt;?null?&gt;</text>
+<text id="15100503">&lt;?null?&gt;</text>
+<text id="15100504">%null%</text>
+<text id="15100505">%null%</text>
+<text id="15100506">%null%</text>
+<text id="15100507">%null%</text>
+<text id="15100508">%null%</text>
+<text id="15100509">%null%</text>
+<text id="15100510">&lt;?null?&gt;</text>
+<text id="15100511">%null%</text>
+<text id="15100512">%null%</text>
+<text id="15100513">%null%</text>
+<text id="15100514">%null%</text>
+<text id="15100515">%null%</text>
+<text id="15100516">%null%</text>
+<text id="15100517">%null%</text>
+<text id="15100518">%null%</text>
+<text id="15100519">%null%</text>
+<text id="15100520">&lt;?null?&gt;</text>
+<text id="15100521">&lt;?null?&gt;</text>
+<text id="15100600">Confrontar memórias para aprimorar o poder de ataque</text>
+<text id="15100601">Aprimorar ataque com pontos de habilidade</text>
+<text id="15100700">Confrontar memórias para aprimorar o ataque</text>
+<text id="15100701">%null%</text>
+<text id="15100702">%null%</text>
+<text id="15100703">%null%</text>
+<text id="15100704">%null%</text>
+<text id="15100705">%null%</text>
+<text id="15100706">%null%</text>
+<text id="15100707">%null%</text>
+<text id="15100708">%null%</text>
+<text id="15100709">%null%</text>
+<text id="15100710">Aprimorar ataque confrontando a memória: Gyoubu Oniwa</text>
+<text id="15100711">Aprimorar ataque confrontando a memória: Senhora Borboleta</text>
+<text id="15100712">Aprimorar ataque confrontando a memória: Genichiro </text>
+<text id="15100713">Aprimorar ataque confrontando a memória: Macacos do biombo</text>
+<text id="15100714">Aprimorar ataque confrontando a memória: Guardião Primata</text>
+<text id="15100715">Aprimorar ataque confrontando a memória: Monja Corrompida</text>
+<text id="15100716">Aprimorar ataque confrontando a memória: Grande Shinobi</text>
+<text id="15100717">Aprimorar ataque confrontando a memória: Pai Adotivo</text>
+<text id="15100718">Aprimorar ataque confrontando a memória: Monja Verdadeira</text>
+<text id="15100719">Aprimorar ataque confrontando a memória: Dragão Divino</text>
+<text id="15100720">Aprimorar ataque confrontando a memória: Demônio do Rancor</text>
+<text id="15100721">Aprimorar ataque confrontando a memória: Divindade Isshin</text>
+<text id="15100722">Aprimorar ataque confrontando a memória: Isshin Ashina</text>
+<text id="15100723">Aprimorar ataque confrontando a memória: Primata sem cabeça</text>
+<text id="15100724">%null%</text>
+<text id="15100725">%null%</text>
+<text id="15100726">%null%</text>
+<text id="15100727">%null%</text>
+<text id="15100728">%null%</text>
+<text id="15100729">%null%</text>
+<text id="15100730">Aprimorar ataque confrontando a memória: Genichiro, visão</text>
+<text id="15100731">Aprimorar ataque confrontando a memória: Pai adotivo, visão</text>
+<text id="15100732">Aprimorar ataque confrontando a memória: Isshin, visão</text>
+<text id="15100810">&lt;?null?&gt;</text>
+<text id="15100811">&lt;?null?&gt;</text>
+<text id="15100900">Reviver batalha com um oponente extraordinário</text>
+<text id="15100901">Reviver desafio com todos os oponentes extraordinários</text>
+<text id="15100902">Alterar aparência do Lobo</text>
+<text id="15100903">%null%</text>
+<text id="15100904">%null%</text>
+<text id="15100905">%null%</text>
+<text id="15100906">%null%</text>
+<text id="15100907">%null%</text>
+<text id="15100908">%null%</text>
+<text id="15100909">%null%</text>
+<text id="15100910">Repousar diante do Ídolo do Escultor</text>
+<text id="15100911">Comprar brasões espirituais</text>
+<text id="15100912">Reviver memórias de batalha com oponentes extraordinários </text>
+<text id="15100913">Sair da batalha e retornar ao Ídolo do Escultor original</text>
+<text id="15100914">%null%</text>
+<text id="15100915">%null%</text>
+<text id="15100916">%null%</text>
+<text id="15100917">%null%</text>
+<text id="15100918">%null%</text>
+<text id="15100919">%null%</text>
+<text id="15100920">Repousar diante do Ídolo do Escultor</text>
+<text id="15100921">Comprar brasões espirituais</text>
+<text id="15100922">Selecionar o próximo oponente extraordinário para enfrentar</text>
+<text id="15100923">Sair da batalha e retornar ao Ídolo do Escultor original</text>
+<text id="15101001">Reviva as memórias de batalha do caminho "Herdeiro Divino" e enfrente um desafio de inimigos extraordinários.</text>
+<text id="15101002">Reviva as memórias de batalha do caminho "Shura" e enfrente um desafio de inimigos extraordinários.</text>
+<text id="15101003">Reviva as memórias de batalha do caminho "Rompimento da Imortalidade" e enfrente um desafio de inimigos extraordinários.</text>
+<text id="15101004">Reviva as memórias de batalha e enfrente um desafio com todos os inimigos extraordinários.</text>
+<text id="15110000">&lt;?null?&gt;</text>
+<text id="15110001">&lt;?null?&gt;</text>
+<text id="15110002">&lt;?null?&gt;</text>
+<text id="15110003">&lt;?null?&gt;</text>
+<text id="15110300">&lt;?null?&gt;</text>
+<text id="15110301">&lt;?null?&gt;</text>
+<text id="15110302">&lt;?null?&gt;</text>
+<text id="15110900">&lt;?null?&gt;</text>
+<text id="15111010">&lt;?null?&gt;</text>
+<text id="15111011">&lt;?null?&gt;</text>
+<text id="15111012">&lt;?null?&gt;</text>
+<text id="15111013">&lt;?null?&gt;</text>
+<text id="15111014">&lt;?null?&gt;</text>
+<text id="15111015">&lt;?null?&gt;</text>
+<text id="15111016">&lt;?null?&gt;</text>
+<text id="15113000">Treine os fundamentos do combate</text>
+<text id="15113001">Iniciar Combate Livre</text>
+<text id="15113002">&lt;?null?&gt;</text>
+<text id="15113003">&lt;?null?&gt;</text>
+<text id="15113004">%null%</text>
+<text id="15113005">%null%</text>
+<text id="15113006">%null%</text>
+<text id="15113007">%null%</text>
+<text id="15113008">%null%</text>
+<text id="15113009">%null%</text>
+<text id="15113010">Iniciar Combate Livre (fundamentos)</text>
+<text id="15113011">Iniciar Combate Livre (aplicado)</text>
+<text id="15113012">%null%</text>
+<text id="15113013">%null%</text>
+<text id="15113014">%null%</text>
+<text id="15113015">%null%</text>
+<text id="15113016">%null%</text>
+<text id="15113017">%null%</text>
+<text id="15113018">%null%</text>
+<text id="15113019">%null%</text>
+<text id="15113020">Praticar técnicas básicas de ataque</text>
+<text id="15113021">Praticar técnicas básicas de repelir</text>
+<text id="15113022">Praticar técnicas básicas de esquiva</text>
+<text id="15113023">Praticar "Repelir consecutivamente"</text>
+<text id="15113024">Treinamento de "Vitalidade e postura"</text>
+<text id="15113025">Praticar "Contra-atacando investidas"</text>
+<text id="15113026">Praticar "Contra-atacando ataques amplos"</text>
+<text id="15113027">Praticar "Contra-ataque Mikiri"</text>
+<text id="15113028">Praticar "Salto"</text>
+<text id="15113039">%null%</text>
+<text id="15114000">&lt;?null?&gt;</text>
+<text id="15114001">&lt;?null?&gt;</text>
+<text id="15117000">%null%</text>
+<text id="15117001">%null%</text>
+<text id="15117002">%null%</text>
+<text id="15117003">&lt;?null?&gt;</text>
+<text id="15117004">&lt;?null?&gt;</text>
+<text id="15117005">%null%</text>
+<text id="15117006">&lt;?null?&gt;</text>
+<text id="15117007">&lt;?null?&gt;</text>
+<text id="15117008">&lt;?null?&gt;</text>
+<text id="15122000">&lt;?null?&gt;</text>
+<text id="15122001">&lt;?null?&gt;</text>
+<text id="15122002">&lt;?null?&gt;</text>
+<text id="15122003">&lt;?null?&gt;</text>
+<text id="15122004">&lt;?null?&gt;</text>
+<text id="15122005">&lt;?null?&gt;</text>
+<text id="15122006">&lt;?null?&gt;</text>
+<text id="15122007">&lt;?null?&gt;</text>
+<text id="15122008">&lt;?null?&gt;</text>
+<text id="15122009">&lt;?null?&gt;</text>
+<text id="15123000">&lt;?null?&gt;</text>
+<text id="15123001">&lt;?null?&gt;</text>
+<text id="15123002">&lt;?null?&gt;</text>
+<text id="15123003">&lt;?null?&gt;</text>
+<text id="15123004">&lt;?null?&gt;</text>
+<text id="15123005">&lt;?null?&gt;</text>
+<text id="15123006">&lt;?null?&gt;</text>
+<text id="15124000">&lt;?null?&gt;</text>
+<text id="15124001">&lt;?null?&gt;</text>
+<text id="15126000">&lt;?null?&gt;</text>
+<text id="15126001">&lt;?null?&gt;</text>
+<text id="15127000">&lt;?null?&gt;</text>
+<text id="15127001">&lt;?null?&gt;</text>
+<text id="15127002">&lt;?null?&gt;</text>
+<text id="15136000">&lt;?null?&gt;</text>
+<text id="15148000">&lt;?null?&gt;</text>
+<text id="15148001">&lt;?null?&gt;</text>
+<text id="15148002">&lt;?null?&gt;</text>
+<text id="50000210">Tocar o Vestígio</text>
+<text id="50000500">Tocar o Vestígio que você criou</text>
+<text id="80010400">%null%</text>
+<text id="80010500">%null%</text>
+<text id="80010501">%null%</text>
+<text id="88999999">Limpar Poder de Ataque Temporário</text>
+<text id="89000000">Definir Poder de Ataque Temporariamente</text>
+<text id="89000001">Definir Poder de Ataque para 1</text>
+<text id="89000002">Definir Poder de Ataque para 2</text>
+<text id="89000003">Definir Poder de Ataque para 3</text>
+<text id="89000004">Definir Poder de Ataque para 4</text>
+<text id="89000005">Definir Poder de Ataque para 5</text>
+<text id="89000006">Definir Poder de Ataque para 6</text>
+<text id="89000007">Definir Poder de Ataque para 7</text>
+<text id="89000008">Definir Poder de Ataque para 8</text>
+<text id="89000009">Definir Poder de Ataque para 9</text>
+<text id="89000010">Definir Poder de Ataque para 10</text>
+<text id="89000011">Definir Poder de Ataque para 11</text>
+<text id="89000012">Definir Poder de Ataque para 12</text>
+<text id="89000013">Definir Poder de Ataque para 13</text>
+<text id="89000014">Definir Poder de Ataque para 14</text>
+<text id="89000015">Definir Poder de Ataque para 15</text>
+<text id="89000016">Definir Poder de Ataque para 16</text>
+<text id="89000017">Definir Poder de Ataque para 17</text>
+<text id="89000018">Definir Poder de Ataque para 18</text>
+<text id="89000019">Definir Poder de Ataque para 19</text>
+<text id="89000020">Definir Poder de Ataque para 20</text>
+<text id="89000021">Definir Poder de Ataque para 21</text>
+<text id="89000022">Definir Poder de Ataque para 22</text>
+<text id="89000023">Definir Poder de Ataque para 23</text>
+<text id="89000024">Definir Poder de Ataque para 24</text>
+<text id="89000025">Definir Poder de Ataque para 25</text>
+<text id="89000026">Definir Poder de Ataque para 26</text>
+<text id="89000027">Definir Poder de Ataque para 27</text>
+<text id="89000028">Definir Poder de Ataque para 28</text>
+<text id="89000029">Definir Poder de Ataque para 29</text>
+<text id="89000030">Definir Poder de Ataque para 30</text>
+<text id="89000031">Definir Poder de Ataque para 31</text>
+<text id="89000032">Definir Poder de Ataque para 32</text>
+<text id="89000033">Definir Poder de Ataque para 33</text>
+<text id="89000034">Definir Poder de Ataque para 34</text>
+<text id="89000035">Definir Poder de Ataque para 35</text>
+<text id="89000036">Definir Poder de Ataque para 36</text>
+<text id="89000037">Definir Poder de Ataque para 37</text>
+<text id="89000038">Definir Poder de Ataque para 38</text>
+<text id="89000039">Definir Poder de Ataque para 39</text>
+<text id="89000040">Definir Poder de Ataque para 40</text>
+<text id="89000041">Definir Poder de Ataque para 41</text>
+<text id="89000042">Definir Poder de Ataque para 42</text>
+<text id="89000043">Definir Poder de Ataque para 43</text>
+<text id="89000044">Definir Poder de Ataque para 44</text>
+<text id="89000045">Definir Poder de Ataque para 45</text>
+<text id="89000046">Definir Poder de Ataque para 46</text>
+<text id="89000047">Definir Poder de Ataque para 47</text>
+<text id="89000048">Definir Poder de Ataque para 48</text>
+<text id="89000049">Definir Poder de Ataque para 49</text>
+<text id="89000050">Definir Poder de Ataque para 50</text>
+<text id="89000051">Definir Poder de Ataque para 51</text>
+<text id="89000052">Definir Poder de Ataque para 52</text>
+<text id="89000053">Definir Poder de Ataque para 53</text>
+<text id="89000054">Definir Poder de Ataque para 54</text>
+<text id="89000055">Definir Poder de Ataque para 55</text>
+<text id="89000056">Definir Poder de Ataque para 56</text>
+<text id="89000057">Definir Poder de Ataque para 57</text>
+<text id="89000058">Definir Poder de Ataque para 58</text>
+<text id="89000059">Definir Poder de Ataque para 59</text>
+<text id="89000060">Definir Poder de Ataque para 60</text>
+<text id="89000061">Definir Poder de Ataque para 61</text>
+<text id="89000062">Definir Poder de Ataque para 62</text>
+<text id="89000063">Definir Poder de Ataque para 63</text>
+<text id="89000064">Definir Poder de Ataque para 64</text>
+<text id="89000065">Definir Poder de Ataque para 65</text>
+<text id="89000066">Definir Poder de Ataque para 66</text>
+<text id="89000067">Definir Poder de Ataque para 67</text>
+<text id="89000068">Definir Poder de Ataque para 68</text>
+<text id="89000069">Definir Poder de Ataque para 69</text>
+<text id="89000070">Definir Poder de Ataque para 70</text>
+<text id="89000071">Definir Poder de Ataque para 71</text>
+<text id="89000072">Definir Poder de Ataque para 72</text>
+<text id="89000073">Definir Poder de Ataque para 73</text>
+<text id="89000074">Definir Poder de Ataque para 74</text>
+<text id="89000075">Definir Poder de Ataque para 75</text>
+<text id="89000076">Definir Poder de Ataque para 76</text>
+<text id="89000077">Definir Poder de Ataque para 77</text>
+<text id="89000078">Definir Poder de Ataque para 78</text>
+<text id="89000079">Definir Poder de Ataque para 79</text>
+<text id="89000080">Definir Poder de Ataque para 80</text>
+<text id="89000081">Definir Poder de Ataque para 81</text>
+<text id="89000082">Definir Poder de Ataque para 82</text>
+<text id="89000083">Definir Poder de Ataque para 83</text>
+<text id="89000084">Definir Poder de Ataque para 84</text>
+<text id="89000085">Definir Poder de Ataque para 85</text>
+<text id="89000086">Definir Poder de Ataque para 86</text>
+<text id="89000087">Definir Poder de Ataque para 87</text>
+<text id="89000088">Definir Poder de Ataque para 88</text>
+<text id="89000089">Definir Poder de Ataque para 89</text>
+<text id="89000090">Definir Poder de Ataque para 90</text>
+<text id="89000091">Definir Poder de Ataque para 91</text>
+<text id="89000092">Definir Poder de Ataque para 92</text>
+<text id="89000093">Definir Poder de Ataque para 93</text>
+<text id="89000094">Definir Poder de Ataque para 94</text>
+<text id="89000095">Definir Poder de Ataque para 95</text>
+<text id="89000096">Definir Poder de Ataque para 96</text>
+<text id="89000097">Definir Poder de Ataque para 97</text>
+<text id="89000098">Definir Poder de Ataque para 98</text>
+<text id="89000099">Definir Poder de Ataque para 99</text>
+</entries>
+</fmg>
