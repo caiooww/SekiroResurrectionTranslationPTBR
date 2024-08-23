@@ -3326,10 +3326,16 @@ Talvez eu possa fazer algum tipo de oferenda.</text>
 <text id="15000201">Anterior</text>
 <text id="15000250">Curar a praga do dragão</text>
 <text id="15000300">Adquirir habilidades</text>
-<text id="15000400">%null%</text>
-<text id="15000401">%null%</text>
-<text id="15000402">%null%</text>
-<text id="15000403">%null%</text>
+<text id="15000400">Alterar técnica de golpe mortal</text>
+<text id="15000401"> Equipar &lt;?gdsparam@2100?&gt;</text>
+<text id="15000402"> Equipar &lt;?gdsparam@2110?&gt;</text>
+<text id="15000403"> Equipar &lt;?gdsparam@2120?&gt;</text>
+<text id="15000450">Opções Adicionais</text>
+<text id="15000451">Adquirir &lt;?gdsparam@3730?&gt;</text>
+<text id="15000452">Você ainda não foi para o NG+ neste save.
+     Deseja marcar NG+ como alcançado para desbloquear desafios adicionais?"</text>
+<text id="15000453">Event scripts are not installed,
+so you cannot enable additional hardships.</text>
 <text id="15000500">Oferecer o saquê de Ashina</text>
 <text id="15000501">Oferecer o saquê rústico</text>
 <text id="15000502">Oferecer a aguardente de macaco</text>
@@ -3525,6 +3531,8 @@ Talvez eu possa fazer algum tipo de oferenda.</text>
 <text id="15100190">Iniciar jogo núm. &lt;?nextLoopCount?&gt;</text>
 <text id="15100250">Curar quem foi afligido pela praga do dragão</text>
 <text id="15100300">Gastar pontos de habilidade para adquirir habilidades</text>
+<text id="15100450">Opções adicionaris para ídolos</text>
+<text id="15100451"></text>
 <text id="15100500">&lt;?null?&gt;</text>
 <text id="15100501">&lt;?null?&gt;</text>
 <text id="15100502">&lt;?null?&gt;</text>
@@ -3646,7 +3654,7 @@ Talvez eu possa fazer algum tipo de oferenda.</text>
 <text id="15113016">%null%</text>
 <text id="15113017">%null%</text>
 <text id="15113018">%null%</text>
-<text id="15113019">%null%</text>
+<text id="15113019">Sair</text>
 <text id="15113020">Praticar técnicas básicas de ataque</text>
 <text id="15113021">Praticar técnicas básicas de repelir</text>
 <text id="15113022">Praticar técnicas básicas de esquiva</text>
@@ -3656,7 +3664,7 @@ Talvez eu possa fazer algum tipo de oferenda.</text>
 <text id="15113026">Praticar "Contra-atacando ataques amplos"</text>
 <text id="15113027">Praticar "Contra-ataque Mikiri"</text>
 <text id="15113028">Praticar "Salto"</text>
-<text id="15113039">%null%</text>
+<text id="15113039">Sair</text>
 <text id="15114000">&lt;?null?&gt;</text>
 <text id="15114001">&lt;?null?&gt;</text>
 <text id="15117000">%null%</text>
@@ -3693,11 +3701,14 @@ Talvez eu possa fazer algum tipo de oferenda.</text>
 <text id="15127001">&lt;?null?&gt;</text>
 <text id="15127002">&lt;?null?&gt;</text>
 <text id="15136000">&lt;?null?&gt;</text>
-<text id="15148000">&lt;?null?&gt;</text>
-<text id="15148001">&lt;?null?&gt;</text>
+<text id="15148000">Ajudá-los</text>
+<text id="15148001">Não estou interessado</text>
 <text id="15148002">&lt;?null?&gt;</text>
 <text id="50000210">Tocar o Vestígio</text>
 <text id="50000500">Tocar o Vestígio que você criou</text>
+<text id="80010400">Abrir</text>
+<text id="80010500">Escalar para dentro</text>
+<text id="80010501">Escalar para fora</text>
 <text id="80010400">%null%</text>
 <text id="80010500">%null%</text>
 <text id="80010501">%null%</text>

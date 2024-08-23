@@ -11,8 +11,8 @@ Sentimentos de remorso não se limitam a corações humanos. Eles podem se manif
 
 Realizar certas ações, como utilizar ferramentas prostéticas, consome brasões espirituais.</text>
 <text id="1001">%null%</text>
-<text id="1100">Regenerative Power description</text>
-<text id="1101">Regenerative Power Fragment description</text>
+<text id="1100">Descrição do Poder Regenerativo</text>
+<text id="1101">Descrição do Fragmento de Poder Regenerativo</text>
 <text id="1102">%null%</text>
 <text id="1103">%null%</text>
 <text id="1104">%null%</text>
@@ -21,8 +21,10 @@ Realizar certas ações, como utilizar ferramentas prostéticas, consome brasõe
 <text id="1107">%null%</text>
 <text id="1108">%null%</text>
 <text id="1109">%null%</text>
-<text id="1110">Temporary Regenerative Power description</text>
-<text id="1200">%null%</text>
+<text id="1110">Descrição do Poder Regenerativo Temporário</text>
+<text id="1200">Requerido para aprender Habilidades no Menu de Habilidades.
+
+    Suba de nível para ganhar Pontos de Habilidade.</text>
 <text id="2000">O poder de voltar dos mortos, concedido pelo Herdeiro Divino.
 
 Usado à custa do poder de ressurreição.
@@ -62,8 +64,25 @@ O Lobo a descobriu ao decapitar um inimigo com a Lâmina Mortal, criando uma esp
 <text id="2300">Uma espada dada por Kuro, o Herdeiro Divino. É uma relíquia dos Hirata, um ramo da família Ashina.
 
 Tida por perdida, ela acabou novamente nas mãos do Lobo. O nome Kusabimaru roga: "mesmo que o papel do shinobi seja matar, ele não deve esquecer a compaixão". Um mantra que a própria lâmina pode manifestar.</text>
-<text id="2301">%null%</text>
-<text id="2302">%null%</text>
+<text id="2301">Uma Tanto Cerimonial de origem desconhecida. Custa Emblemas de Espírito para usar.
+
+    Corte sua própria carne para adquirir o efeito de Outorga na Espada.
+    
+    Estranhamente semelhante à Lâmina Mortal Vermelha.
+    
+    A lâmina está inscrita com seu verdadeiro nome: "Carne Devotada".
+    
+    É preciso ter cuidado ao usar este item, pois abandonar-se em busca de força é uma coisa trágica, de fato.
+    </text>
+    <text id="2302">Uma Tanto Cerimonial de origem desconhecida. Custa Emblemas de Espírito para usar.
+
+        Corte sua própria carne para adquirir o efeito de Outorga na Espada.
+        
+        Estranhamente semelhante à Lâmina Mortal Vermelha.
+        
+        A lâmina está inscrita com seu verdadeiro nome: "Carne Devotada".
+        
+        É preciso ter cuidado ao usar este item, pois abandonar-se em busca de força é uma coisa trágica, de fato.</text>
 <text id="2303">%null%</text>
 <text id="2304">%null%</text>
 <text id="2305">%null%</text>
@@ -247,17 +266,16 @@ Uma pequena parte de Ashina é excessivamente velha. Dizem que o solo, as rochas
 <text id="3042">%null%</text>
 <text id="3043">%null%</text>
 <text id="3044">%null%</text>
-<!-- Parei aqui -->
-<text id="3045">Allows one to detonate a powerful explosive at the risk of death. 
+<text id="3045">Permite detonar um explosivo poderoso com risco de morte. 
 
-Nightjars are no strangers to the threat of death. In the face of adversity, it may even count as bravery, or perhaps it is reckless desperation. 
+    Os Noitibó não são estranhos à ameaça da morte. Diante da adversidade, pode até ser considerado coragem, ou talvez seja desespero imprudente.. 
 
-Yet few can deny the results of this harbinger of death. Death however, may not deter an immortal...</text>
-<text id="3046">Allows one to detonate a powerful explosive at the risk of death. 
+    No entanto, poucos podem negar os resultados deste arauto da morte. A morte, no entanto, pode não deter um imortal...</text>
+<text id="3046">Permite detonar um explosivo poderoso com risco de morte. 
 
-Nightjars are no strangers to the threat of death. In the face of adversity, it may even count as bravery, or perhaps it is reckless desperation. 
+    Os Noitibó não são estranhos à ameaça da morte. Diante da adversidade, pode até ser considerado coragem, ou talvez seja desespero imprudente.. 
 
-Yet few can deny the results of this harbinger of death. Death however, may not deter an immortal...</text>
+    No entanto, poucos podem negar os resultados deste arauto da morte. A morte, no entanto, pode não deter um imortal...</text>
 <text id="3047">%null%</text>
 <text id="3048">%null%</text>
 <text id="3049">%null%</text>
@@ -601,6 +619,12 @@ Inimigos encharcados ficam suscetíveis a pegar fogo, causando-lhes dano adicion
 <text id="3530">Sementes que fazem um som alto ao serem quebradas. Úteis para cancelar o efeito de ilusões.
 
 Quando há uma ilusão, alguém foi responsável por criá-la. Para destruir os fantasmas é necessário derrotar o criador da ilusão. Sementes de lucidez podem ser de grande ajuda.</text>
+<text id="3551">Um pequeno bolso de cinto contendo mudas de fumária.
+
+    Sementes jovens de Lucidez dentro do bolso de cinto se recarregam após descansar, mas são menos eficazes do que sementes de Lucidez crescidas..
+    
+    Se uma ilusão ocorrer, é porque alguém a criou. 
+    Aqueles proficientes em técnicas de ilusão podem ser identificados por acessórios que emitem luz. </text>
 <text id="3580">Cabaça com um arroz de cinco cores usado pelos shinobi como sinalização. Criado para espalhar no chão e criar padrões fáceis de reconhecer.
 
 A cabaça branca é abençoada com fertilidade, e repousar em um Ídolo do Escultor será o bastante para reabastecê-la.
@@ -630,7 +654,9 @@ Quando alguém estoura a esfera rosa-cerejeira e faz uma oração, aqueles banha
 <text id="3612">%null%</text>
 <text id="3613">%null%</text>
 <text id="3614">%null%</text>
-<text id="3615">%null%</text>
+<text id="3615">Um balão de Milu cheio de água da nascente, imbuído com as experiências de um guerreiro.
+    Se alguém estourar esse balão azul e rezar, aqueles que forem atingidos pela água adquirirão um ponto de habilidade.
+    Os guerreiros que participam da Peregrinação da Fonte do Dragão frequentemente usam esse balão como um substituto para os fardos mentais acumulados de longos anos de guerra.</text>
 <text id="3616">%null%</text>
 <text id="3617">%null%</text>
 <text id="3618">%null%</text>
@@ -654,7 +680,14 @@ Ao estourar a esfera e fazer uma oração, aqueles banhados pela água terão ch
 <text id="3632">%null%</text>
 <text id="3633">%null%</text>
 <text id="3634">%null%</text>
-<text id="3635">%null%</text>
+<text id="3635">Utilizar este item irá ativar a benção.
+
+    Com a benção ativa, every mist raven occurance will summon Owl briefly as a memory.
+    
+    Custa 2 emblemas de espíritos a cada uso.
+    
+    Para desativar a benção, descanse em um ìdolo do Escultor.
+    </text>
 <text id="3636">%null%</text>
 <text id="3637">%null%</text>
 <text id="3638">%null%</text>
@@ -691,9 +724,21 @@ Envolver uma estatueta de Jizo é expressar amor paternal. O embrulho de tecido 
 Envolver uma estatueta de Jizo é expressar amor paternal.
 
 "Lorde Sakuza... Receba este pano e envolva este pequeno, para que ele siga vivendo em paz."</text>
-<text id="3722">%null%</text>
-<text id="3723">%null%</text>
-<text id="3724">%null%</text>
+<text id="3722">Use este item próximo ao Hanbei no Templo Dilapidado.
+
+    Isso irá invocar o Tenzen Yamauchi para lutar novamente quantas vezes o Lobo desejar.
+    
+    Used for feedback and practice.</text>
+    <text id="3723">Use este item próximo ao Hanbei no Templo Dilapidado.
+    
+        Isso irá invocar o Ogro acorrentado para lutar novamente quantas vezes o Lobo desejar.
+    
+    Used for feedback and practice.</text>
+    <text id="3724">Use este item próximo ao Hanbei no Templo Dilapidado.
+    
+    Isso irá invocar o Shirafuji Olhos de Serpente para lutar novamente quantas vezes o Lobo desejar.
+    
+    Usado para feedback e prática.</text>
 <text id="3725">%null%</text>
 <text id="3726">%null%</text>
 <text id="3727">%null%</text>
@@ -796,6 +841,11 @@ O pai de Robert veio de longe, cruzando mares ao sul, em busca dos imortais. Rep
 Um rosário de orações adequado aos fortes.
 
 Os Sete Lanceiros de Ashina foram essenciais ao golpe de Isshin. Ele concedeu a lança a seus samurais mais leais. Porém, agora restam poucos deles.</text>
+<text id="4300">Um selo goshuin, um certificado de transcrição de um sutra, é prova do aprendizado, alfabetizado e fiel.
+
+    Aumenta a resistência a danos e a postura máxima por selo.
+    
+    Atualmente o Lobo tem &lt;?goodsItemNum@4300?&gt; selo(s) em sua posse.</text>
 <text id="4400">Semente da qual fluem continuamente águas curativas. Dê a Emma para aumentar o número máximo de usos da cabaça curativa.
 
 A cabaça de águas medicinais já era conhecida há muito tempo em Ashina, mas foi o extraordinário curandeiro Dogen e sua pupila Emma que descobriram a natureza de autorreabastecimento desta semente.</text>
@@ -1098,14 +1148,20 @@ O último produto de Matabei Anayama.
 Desconta o preço de itens adquiridos de comerciantes.
 
 Um sen economizado é um sen ganho. E enquanto o mundo for mundo, os negócios nunca pararão.</text>
-<text id="9062">%null%</text>
-<text id="9063">%null%</text>
-<text id="9064">%null%</text>
-<text id="9065">%null%</text>
-<text id="9066">%null%</text>
-<text id="9067">%null%</text>
-<text id="9068">%null%</text>
-<text id="9069">%null%</text>
+<text id="9062">Masamune, um elite entre os Ranques do Ministério do Interior. Conhecido como "Presas Carmesim" por suas listras vermelhas no campo de batalha.. 
+
+    "Os jatos de sangue cresceram em tamanho à medida que os estimulantes escarlates se infiltravam."
+
+    
+    Vencer essa sombra concedeu ao Lobo poder de ataque adicional após golpes mortais.</text>
+    <text id="9063">%null%</text>
+    <text id="9064">Ganhe um espírito vermelho no golpe mortal
+    </text>
+    <text id="9065">Ganhe postura no Mikiri</text>
+    <text id="9066">Se Bestowal estiver ativo, matar outro inimigo com um golpe mortal renovará a duração.</text>
+    <text id="9067">Causa dano extra baseado em fogo.</text>
+    <text id="9068">%null%</text>
+    <text id="9069">%null%</text>
 <text id="9070">Um copo com água sagrada, apreciada pelos nobres do palácio.
 
 Quando um cortejo matrimonial chega no Palácio da Nascente, esta é a primeira bebida que lhe é servida.
@@ -1148,7 +1204,7 @@ Kuro ficaria feliz em recebê-lo.</text>
 Se Kuro beber as lágrimas do dragão e as lágrimas congeladas, o ritual do leito poderá ser realizado.
 
 Serão simplesmente lágrimas do dragão frias.</text>
-<text id="9092">%null%</text>
+<text id="9092"></text>
 <text id="9093">%null%</text>
 <text id="9094">%null%</text>
 <text id="9095">%null%</text>
@@ -1214,12 +1270,32 @@ A Grande serpente é considerada uma deusa da terra e seu coração é tido como
 <text id="9196">%null%</text>
 <text id="9197">%null%</text>
 <text id="9198">%null%</text>
-<text id="9199">%null%</text>
+<text id="9199">Habilidade Passiva que permite carregar Artes de Combate Ashina que utilizam uma postura de arma embainhada para desencadear uma variante mais poderosa..
+
+    Como a água tranquila flui em uma torrente poderosa, assim o guerreiro que canaliza seus sentimentos mais íntimos no meio da batalha e os libera através de sua lâmina.
+    
+    Embainhe e fique parado para se concentrar. Libere quando a luz brilhar.</text>
 <text id="9200">Uma página arrancada do catálogo de ervas de Ashina, um compêndio de flores e ervas. "A 'Semente de lucidez’ cresce naturalmente em ravinas e vales profundos. De acordo com os habitantes do Vale Submerso, tais lugares são apropriados para se oferecer em união com a Grande Serpente. Se alguém quiser ofertar-se em tributo, deve entrar nas vísceras dela."</text>
-<text id="9201">%null%</text>
-<text id="9202">%null%</text>
-<text id="9203">%null%</text>
-<text id="9204">%null%</text>
+<text id="9201">Cabeça de um Elite do Ministério Interior. 
+
+    Esses soldados de elite e shinobis lideram uma invasão ao Castelo Ashina, mas por trás de suas armaduras e habilidades, não são mais do que ratos insignificantes.
+    
+    Pode ser trocado no Tengu por uma recompensa (Ainda não implementado)</text>
+<text id="9202">Cabeça de um Elite do Ministério Interior. 
+
+        Esses soldados de elite e shinobis lideram uma invasão ao Castelo Ashina, mas por trás de suas armaduras e habilidades, não são mais do que ratos insignificantes.
+        
+        Pode ser trocado no Tengu por uma recompensa (Ainda não implementado)</text>
+<text id="9203">Cabeça de um Elite do Ministério Interior. 
+
+        Esses soldados de elite e shinobis lideram uma invasão ao Castelo Ashina, mas por trás de suas armaduras e habilidades, não são mais do que ratos insignificantes.
+        
+        Pode ser trocado no Tengu por uma recompensa (Ainda não implementado)</text>
+<text id="9204">Nota detalhando informações sobre armaduras blindadas do Ministério do Interior.
+    
+        "Os inimigos que empunham Kodachi têm um novo tipo especial de armadura, resistente a golpes padrão. A armadura pode ser arrancada, deixando-os vulneráveis a substâncias estranhas e cortes profundos."
+    
+        O Tengu aguarda pelas cabeças dos generais com uma recompensa.</text>
 <text id="9205">Uma velha anotação deixada por Dosaku: "Meus discípulos me trocaram por Dogen. Relutantes a sujar as próprias mãos, eles todos me abandonaram por aquele hipócrita. Dojun, meu último discípulo! Mesmo se eu morrer, a pesquisa deve continuar. Termine o procedimento, pelo bem de Ashina. - Dosaku"</text>
 <text id="9206">Uma descrição de "ratos" que se enfurnaram em Ashina. Fale com Tengu novamente assim que tiver cuidado dos ratos.
 
@@ -1747,8 +1823,13 @@ Propriedade Hirata</text>
 <text id="11169">%null%</text>
 <text id="11170">Local:
 Reservatório de Ashina</text>
-<text id="11171">%null%</text>
-<text id="11172">%null%</text>
+<text id="11171">Use este item próximo a Hanbei no Templo Dilapidado.
+
+    Isso irá invocar uma memória lutável do General Samurail, Tenzen Yamauchi
+    
+    Não questione o motivo.</text>
+<text id="11172">Location: ???
+</text>
 <text id="11173">%null%</text>
 <text id="11174">%null%</text>
 <text id="11175">%null%</text>
@@ -1758,6 +1839,7 @@ Reservatório de Ashina</text>
 <text id="11179">%null%</text>
 <text id="11180">Local:
 Reservatório de Ashina</text>
+<text id="11490">Localização: Algum lugar em Ashina, no passado</text>
 <text id="11500">???</text>
 <text id="110000">Uma carta escrita por um membro desconhecido de Hirata
 

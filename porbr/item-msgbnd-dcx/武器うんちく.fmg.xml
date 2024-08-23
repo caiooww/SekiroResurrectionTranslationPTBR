@@ -555,6 +555,43 @@ Custa Brasões espirituais para usar.</text>
 <text id="680000">&lt;?null?&gt;</text>
 <text id="681000">&lt;?kgiconKc@16?&gt; próximo a um inimigo no ar: Golpe Mortal Antiaéreo
 Realiza um golpe mortal em um inimigo no ar.</text>
+<text id="681999"></text>
+<text id="682000">&lt;?kgiconKc@16?&gt; após defletir um ataque forte:
+  Contra-Choque
+  Corte de Contra-Choque de Resposta.
+
+Hold &lt;?kgiconKc@16?&gt; rapidamente após defletir um ataque forte:
+Estocada de Contra-Choque
+Estocada de Contra-Choque de Resposta.</text>
+<text id="682100">&lt;?kgiconKc@18?&gt;+&lt;?kgiconKc@16?&gt; após defletir um ataque pesado:
+Arte de Combate: Saque Rápido
+Use certas Ferramentas Prostéticas para contra-atacar com habilidade.
+
+Ferramentas Prostéticas Aplicáveis: 
+&lt;?acquiredWeaponNameId@73000?&gt;, &lt;?acquiredWeaponNameId@73100?&gt;, &lt;?acquiredWeaponNameId@73200?&gt;, &lt;?acquiredWeaponNameId@73300?&gt;,
+&lt;?acquiredWeaponNameId@75000?&gt;, &lt;?acquiredWeaponNameId@75100?&gt;, &lt;?acquiredWeaponNameId@75200?&gt;, &lt;?acquiredWeaponNameId@75300?&gt;
+
+&lt;?kgiconKc@17?&gt; após defletir um ataque pesado:
+Prostéticas de Saque Rápido
+Utilize certas Artes de Combate para um contra-ataque avançado
+
+Artes de Combate Aplicáveis:
+&lt;?acquiredWeaponNameId@410000?&gt;, &lt;?acquiredWeaponNameId@410100?&gt;, &lt;?acquiredWeaponNameId@411000?&gt;,
+&lt;?acquiredWeaponNameId@211000?&gt;, &lt;?acquiredWeaponNameId@610100?&gt;, &lt;?acquiredWeaponNameId@673000?&gt;, &lt;?acquiredWeaponNameId@671000?&gt;</text>
+<text id="682200">Hold &lt;?kgiconKc@18?&gt; para defender contra projéteis.
+When stance is charged, release and tap &lt;?kgiconKc@18?&gt; no momento em que um projeto for atingir: 
+Reflexão De Projéteis
+
+&lt;?kgiconKc@16?&gt; Imediatamente após uma Reflexão de Projéteis bem sucedida:
+Gancho
+Utilize o gancho para diminuir a distância </text>
+<text id="682300">&lt;?kgiconKc@18?&gt; No momento em que um projétil irá acertar enquanto está no ar:
+  Reflexão De Projéteis Aéreos
+
+&lt;?kgiconKc@16?&gt; Imediatamente após uma Reflexão de Projéteis bem sucedida:
+Gancho
+Utilize o gancho para diminuir a distância </text>
+<text id="683000">&lt;?null?&gt;</text>
 <text id="690000">&lt;?null?&gt;</text>
 <text id="690100">&lt;?null?&gt;</text>
 <text id="690200">&lt;?null?&gt;</text>

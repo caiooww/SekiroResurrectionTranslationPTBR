@@ -281,10 +281,10 @@
 <text id="7000000">%null%</text>
 <text id="7000001">%null%</text>
 <text id="7000002">%null%</text>
-<text id="7000003">%null%</text>
-<text id="7000004">%null%</text>
-<text id="7000005">%null%</text>
-<text id="7000006">%null%</text>
+<text id="7000003">Seu mestre ainda vive.</text>
+<text id="7000004">Embora logo eles usarão seu sangue, imagino.</text>
+<text id="7000005">O membro que você perdeu dará lugar a algo mais... útil.</text>
+<text id="7000006">Você aprenderá a apreciar seu valor.</text>
 <text id="7000007">%null%</text>
 <text id="8000000">Nos derradeiros anos da Era Sengoku,</text>
 <text id="8000001">O Japão fora consumido pelo incessante conflito.</text>
@@ -557,30 +557,33 @@ Se foi sonho ou realidade... não faço a mínima ideia.</text>
 <text id="10003601">Este templo anda recebendo muitos visitantes.</text>
 <text id="10003700">Vejo que você está aqui também...</text>
 <text id="10003701">Estou ocupado esculpindo meu Buda...</text>
-<text id="10010000">%null%</text>
-<text id="10010001">%null%</text>
-<text id="10010400">%null%</text>
-<text id="10010401">%null%</text>
-<text id="10010500">%null%</text>
-<text id="10010600">%null%</text>
-<text id="10010601">%null%</text>
-<text id="10010602">%null%</text>
-<text id="10010700">%null%</text>
-<text id="10010701">%null%</text>
-<text id="10010702">%null%</text>
-<text id="10010703">%null%</text>
-<text id="10010704">%null%</text>
-<text id="10010800">%null%</text>
-<text id="10010801">%null%</text>
-<text id="10010802">%null%</text>
-<text id="10010803">%null%</text>
-<text id="10010900">%null%</text>
-<text id="10010901">%null%</text>
-<text id="10010902">%null%</text>
-<text id="10011000">%null%</text>
-<text id="10011001">%null%</text>
-<text id="10011002">%null%</text>
-<text id="10011003">%null%</text>
+<text id="10010000">Se você quer treinar com aquela sua lâmina, vá para a direita quando sair desse templo decadente.</text>
+<text id="10010001">Você vai encontrar um parceiro de treino perfeito, com certeza.</text>
+<text id="10010400">Um shinobi é apenas tão forte quanto o número de truques que ele tem na manga.</text>
+<text id="10010401">Se você encontrar mais "Dispositivos", certifique-se de trazê-los aqui.</text>
+<text id="10010500">Se você encontrar outros Materiais de Melhoria de Prótese,
+    traga-os para mim.</text>
+<text id="10010600">Você tem algo muito especial ali.</text>
+<text id="10010601">Com isso, você será capaz de alterar a Prótese,
+    e obter ainda mais dessas Ferramentas.</text>
+<text id="10010602">Se houver uma Ferramenta de Prótese que você queira atualizar, apenas traga-a aqui.</text>
+<text id="10010700">Algum tempo passou desde que eu o levantei daquele campo, mas--</text>
+<text id="10010701">Nosso Senhor Príncipe ainda está vivo.</text>
+<text id="10010702">Eles logo farão uso do seu sangue.</text>
+<text id="10010703">"Voltando dos mortos."</text>
+<text id="10010704">Pelo que vejo em você, diria que é algo digno de ser buscado.</text>
+<text id="10010800">Isso é uma "Prótese de Shinobi."</text>
+<text id="10010801">Anos atrás, quando eu perdi meu braço esquerdo--</text>
+<text id="10010802">foi passado para mim por alguém em particular.</text>
+<text id="10010803">Mas não é de uso para um escultor budista. Você pode ficar com ele.</text>
+<text id="10010900">A prótese não apenas compensa pelo seu braço perdido.</text>
+<text id="10010901">Traga-me qualquer "Dispositivo" que você encontrar.</text>
+<text id="10010902">Então você aprenderá a apreciar seu valor.</text>
+<text id="10011000">Não sei os detalhes, mas--</text>
+<text id="10011001">dizem que um raramente aparece em Ashina
+    que porta o poder da Imortalidade.</text>
+<text id="10011002">Tenho medo de que seu Mestre seja o de quem eles falam.</text>
+<text id="10011003">Que azar ruim, hein? Parece que sua morte não virá facilmente.</text>
 <text id="10011200">Por que estou aqui?</text>
 <text id="10011201">Tudo o que fiz foi te arrastar até aqui.</text>
 <text id="10011202">Nem sabia se estava arrastando um cadáver.</text>
@@ -788,55 +791,55 @@ por mais que tenha tentado.</text>
 <text id="10020704">Certamente.</text>
 <text id="10020800">Ei.</text>
 <text id="10020801">Faça o que for preciso.</text>
-<text id="10050000">%null%</text>
-<text id="10050001">%null%</text>
-<text id="10050002">%null%</text>
-<text id="10050100">%null%</text>
-<text id="10050101">%null%</text>
-<text id="10050102">%null%</text>
-<text id="10050200">%null%</text>
-<text id="10050201">%null%</text>
-<text id="10050202">%null%</text>
-<text id="10050300">%null%</text>
-<text id="10050301">%null%</text>
-<text id="10050302">%null%</text>
-<text id="10050400">%null%</text>
-<text id="10050401">%null%</text>
-<text id="10050402">%null%</text>
-<text id="10050500">%null%</text>
-<text id="10050501">%null%</text>
-<text id="10050502">%null%</text>
-<text id="10050600">%null%</text>
-<text id="10050601">%null%</text>
-<text id="10050602">%null%</text>
-<text id="10050700">%null%</text>
-<text id="10050701">%null%</text>
-<text id="10050702">%null%</text>
-<text id="10050800">%null%</text>
-<text id="10050801">%null%</text>
-<text id="10050802">%null%</text>
-<text id="10050900">%null%</text>
-<text id="10050901">%null%</text>
-<text id="10050902">%null%</text>
+<text id="10050000">Vejo que você encontrou um "Dispositivo."</text>
+<text id="10050001">Uma "Roda de Shuriken", é?</text>
+<text id="10050002">Bem, dê-me aqui. Vamos fixá-lo nesse braço seu.</text>
+<text id="10050100">Vejo que você encontrou um "Dispositivo."</text>
+<text id="10050101">Um "Exaustor de Calor", é?</text>
+<text id="10050102">Bem, dê-me aqui. Vamos fixá-lo nesse braço seu.</text>
+<text id="10050200">Vejo que você encontrou um "Dispositivo."</text>
+<text id="10050201">Um "Machado de Ferro Negro", é?</text>
+<text id="10050202">Bem, dê-me aqui. Vamos fixá-lo nesse braço seu.</text>
+<text id="10050300">Vejo que você encontrou um "Dispositivo."</text>
+<text id="10050301">"Pólvora de Shinobi", é?</text>
+<text id="10050302">Bem, dê-me aqui. Vamos fixá-lo nesse braço seu.</text>
+<text id="10050400">Vejo que você encontrou um "Dispositivo."</text>
+<text id="10050401">"Penas de Corvo", é?</text>
+<text id="10050402">Bem, dê-me aqui. Vamos fixá-lo nesse braço seu.</text>
+<text id="10050500">Vejo que você encontrou um "Dispositivo."</text>
+<text id="10050501">Um "Kodachi Venenoso", é?</text>
+<text id="10050502">Bem, dê-me aqui. Vamos fixá-lo nesse braço seu.</text>
+<text id="10050600">Vejo que você encontrou um "Dispositivo."</text>
+<text id="10050601">Uma "Placa de Aço de Shinobi", é?</text>
+<text id="10050602">Bem, dê-me aqui. Vamos fixá-lo nesse braço seu.</text>
+<text id="10050700">Vejo que você encontrou um "Dispositivo."</text>
+<text id="10050701">Uma "Conta de Selo", é?</text>
+<text id="10050702">Bem, dê-me aqui. Vamos fixá-lo nesse braço seu.</text>
+<text id="10050800">Vejo que você encontrou um "Dispositivo."</text>
+<text id="10050801">Uma "Lança de Shinobi", é?</text>
+<text id="10050802">Bem, dê-me aqui. Vamos fixá-lo nesse braço seu.</text>
+<text id="10050900">Vejo que você encontrou um "Dispositivo."</text>
+<text id="10050901">... ... ...</text>
+<text id="10050902">Você... Onde você conseguiu isso?</text>
 <text id="10050903">%null%</text>
-<text id="10050904">%null%</text>
-<text id="10050905">%null%</text>
-<text id="10060000">%null%</text>
-<text id="10060100">%null%</text>
-<text id="10060200">%null%</text>
-<text id="10060300">%null%</text>
-<text id="10060400">%null%</text>
-<text id="10060500">%null%</text>
-<text id="10060600">%null%</text>
-<text id="10060700">%null%</text>
-<text id="10060800">%null%</text>
-<text id="10060900">%null%</text>
-<text id="10061000">%null%</text>
-<text id="10061100">%null%</text>
-<text id="10061200">%null%</text>
-<text id="10061300">%null%</text>
-<text id="10061400">%null%</text>
-<text id="10061500">%null%</text>
+<text id="10050904">... Ah. Do estômago do Yasha Ape.</text>
+<text id="10050905">Bem, dê-me aqui. Vamos fixá-lo nesse braço seu.</text>
+<text id="10060000">Isso é um Upgrade de "Shuriken Carregado". Dê-me aqui.</text>
+<text id="10060100">Isso é outro Upgrade de "Shuriken Carregado". Dê-me aqui.</text>
+<text id="10060200">Isso é um Upgrade de "Flash de Pólvora". Dê-me aqui.</text>
+<text id="10060300">Isso é outro Upgrade de "Flash de Pólvora". Dê-me aqui.</text>
+<text id="10060400">Isso é um Upgrade de "Vento de Chamas". Dê-me aqui.</text>
+<text id="10060500">Isso é outro Upgrade de "Vento de Chamas". Dê-me aqui.</text>
+<text id="10060600">Isso é um Upgrade de "Quebra-Capacete". Dê-me aqui.</text>
+<text id="10060700">Isso é outro Upgrade de "Quebra-Capacete". Dê-me aqui.</text>
+<text id="10060800">Isso é um Upgrade de "Névoa do Corvo". Dê-me aqui.</text>
+<text id="10060900">Isso é um Upgrade de "Adaga Carregada". Dê-me aqui.</text>
+<text id="10061000">Isso é outro Upgrade de "Adaga Carregada". Dê-me aqui.</text>
+<text id="10061100">Isso é um Upgrade de "Leque de Costelas de Aço". Dê-me aqui.</text>
+<text id="10061200">Isso é um Upgrade de "Abdução Divina". Dê-me aqui.</text>
+<text id="10061300">Isso é um Upgrade de "Lança Carregada". Dê-me aqui.</text>
+<text id="10061400">Isso é outro Upgrade de "Lança Carregada". Dê-me aqui.</text>
+<text id="10061500">Isso é um Upgrade de "Assobio de Dedo". Dê-me aqui.</text>
 <text id="10070000">Lobo... eu... sinto muito...</text>
 <text id="10070100">Adeus... lobo...</text>
 <text id="10070200">Agora... posso... morrer...</text>
@@ -1034,42 +1037,57 @@ repleto de dificuldades.</text>
 <text id="11050002">Mas ainda não descobri o que tenho que fazer.</text>
 <text id="11050003">Eu não entendo.</text>
 <text id="11050004">Por que recebi esse poder?</text>
-<text id="11100000">%null%</text>
-<text id="11100001">%null%</text>
-<text id="11100002">%null%</text>
-<text id="11100003">%null%</text>
-<text id="11100004">%null%</text>
-<text id="11100005">%null%</text>
-<text id="11100006">%null%</text>
-<text id="11100007">%null%</text>
-<text id="11100008">%null%</text>
-<text id="11100009">%null%</text>
-<text id="11100010">%null%</text>
-<text id="11100011">%null%</text>
-<text id="11100012">%null%</text>
-<text id="11100013">%null%</text>
-<text id="11100014">%null%</text>
-<text id="11100015">%null%</text>
-<text id="11100016">%null%</text>
-<text id="11100100">%null%</text>
-<text id="11100101">%null%</text>
-<text id="11100102">%null%</text>
-<text id="11100200">%null%</text>
-<text id="11100201">%null%</text>
-<text id="11100202">%null%</text>
-<text id="11100203">%null%</text>
-<text id="11100300">%null%</text>
-<text id="11100301">%null%</text>
-<text id="11100302">%null%</text>
-<text id="11100303">%null%</text>
-<text id="11100400">%null%</text>
-<text id="11100401">%null%</text>
-<text id="11100402">%null%</text>
-<text id="11100500">%null%</text>
-<text id="11100501">%null%</text>
-<text id="11100502">%null%</text>
-<text id="11100600">%null%</text>
-<text id="11100601">%null%</text>
+<text id="11100000">Muito bem... </text>
+<text id="11100001">Estou grato por você ter vindo aqui.</text>
+<text id="11100002">É meu dever.</text>
+<text id="11100003">Hehe... Ainda o mesmo de sempre.
+Você poderia tentar sorrir uma vez ou outra, sabe?</text>
+<text id="11100004">Sua Alteza, devemos ir.
+Devemos deixar Ashina imediatamente.</text>
+<text id="11100005">Não... não podemos.</text>
+<text id="11100006">Não posso deixar Ashina.</text>
+<text id="11100007">Meu sangue - a maldição da imortalidade.</text>
+<text id="11100008">Enquanto a maldição persistir,
+fugir não mudará nada.</text>
+<text id="11100009">Eu... eu quero romper os laços da maldição da imortalidade.</text>
+<text id="11100010">Eu quero quebrar essas correntes que prendem as pessoas na loucura.</text>
+<text id="11100011">Você me ajudará?</text>
+<text id="11100012">Devo protegê-lo, Sua Alteza.
+    É a regra imposta a mim pelo meu pai adotivo.</text>
+<text id="11100013">A única maneira de verdadeiramente me proteger
+    é pondo fim à maldição da imortalidade.</text>
+<text id="11100014">Só então meu sangue não será mais procurado pelos homens.
+    Só então você estará livre de seu dever.</text>
+<text id="11100015">Mas, Sua Alteza... </text>
+<text id="11100016">Este imortal... </text>
+<text id="11100100">De acordo com a antiga lenda de Ashina... </text>
+<text id="11100101">Tesouros Sagrados foram descobertos ao longo do
+    rio de Águas Rejuvenescedoras que flui por Ashina.</text>
+<text id="11100102">Diz-se que coletar esses Tesouros Sagrados
+    revelará a chave para quebrar a maldição.</text>
+<text id="11100200">Parece que você encontrou o Tesouro Sagrado da Aldeia da Fonte.</text>
+<text id="11100201">Estou feliz que você tenha voltado.</text>
+<text id="11100202">É meu dever.</text>
+<text id="11100203">Hehe... É tudo o que você pode dizer?
+    Um pouco mais de sentimento iria longe.</text>
+<text id="11100300">Então você encontrou o Tesouro Sagrado do Vale do Bodhisattva.</text>
+<text id="11100301">Estou feliz que você esteja seguro.
+    Peço desculpas por ter lhe causado todo esse problema.</text>
+<text id="11100302">É meu dever.</text>
+<text id="11100303">... ... Você sabe,
+    eu realmente não me importo com um pouco menos de formalidade.</text>
+<text id="11100400">A Aldeia da Fonte e o Vale do Bodhisattva.
+        Você fez bem em encontrar ambos os Tesouros Sagrados.</text>
+<text id="11100401">Mas apenas esses não serão suficientes para quebrar a maldição.</text>
+<text id="11100402">Por favor, vá ao Templo Hachiyouji
+        e descubra seus segredos de imortalidade.</text>
+<text id="11100500">Agora temos os dois Tesouros Sagrados e a Lâmina Imortal.</text>
+<text id="11100501">O último Tesouro Sagrado... Onde ele pode estar?</text>
+<text id="11100502">A Página do Templo Hachiyouji estava supostamente procurando por ele.
+        Por que não vai visitá-la?</text>
+<text id="11100600">A Página do Templo Hachiyouji pode saber algo
+        sobre o paradeiro do último Tesouro Sagrado.</text>
+<text id="11100601">Por que não vai visitá-la?</text>
 <text id="11101900">%null%</text>
 <text id="11101901">%null%</text>
 <text id="11101902">%null%</text>
@@ -1507,23 +1525,30 @@ preocupados com seu bem-estar quanto eu.</text>
 <text id="11105402">O Lorde Isshin disse uma vez que se tratava de um "atalho shinobi".</text>
 <text id="11105403">É assim que funciona...</text>
 <text id="11105404">Mas, levando em conta como ele mencionou "shinobi", pensei que você soubesse.</text>
-<text id="11110000">%null%</text>
-<text id="11110001">%null%</text>
-<text id="11110002">%null%</text>
-<text id="11110003">%null%</text>
-<text id="11110004">%null%</text>
-<text id="11110100">%null%</text>
-<text id="11110101">%null%</text>
-<text id="11110102">%null%</text>
-<text id="11110103">%null%</text>
-<text id="11110200">%null%</text>
-<text id="11110201">%null%</text>
-<text id="11110202">%null%</text>
-<text id="11110300">%null%</text>
-<text id="11110301">%null%</text>
-<text id="11110302">%null%</text>
-<text id="11110400">%null%</text>
-<text id="11110401">%null%</text>
+<text id="11110000">Os Tesouros Sagrados seguem as Águas Rejuvenescedoras.</text>
+<text id="11110001">Um está enaltecido na Aldeia da Fonte.</text>
+<text id="11110002">Outro está enaltecido no Vale do Bodhisattva.</text>
+<text id="11110003">E outro foi levado para algum lugar, longe daqui.</text>
+<text id="11110004">Encontre os Tesouros Sagrados, e o caminho que se abre
+revelará a chave para quebrar a maldição.</text>
+<text id="11110100">O Vale do Bodhisattva corre ao longo da parte de trás
+do Castelo Ashina, além do santuário do Grande Branco.</text>
+<text id="11110101">Os cidadãos do vale adoram uma Deidade Serpente... </text>
+<text id="11110102">Mas eles não respondem à casa Ashina,
+e não gostam de intrusos.</text>
+<text id="11110103">Mesmo você deve ter cuidado lá.</text>
+<text id="11110200">A Aldeia da Fonte pode ser encontrada no ponto mais baixo de Ashina.</text>
+<text id="11110201">Há um grande desfiladeiro onde os imortais
+são jogados no submundo.</text>
+<text id="11110202">Dizem que essa é a única maneira de chegar à aldeia.</text>
+<text id="11110300">Ah, sim, meu avô, Isshin Ashina
+pode possuir algum conhecimento da maldição.</text>
+<text id="11110301">Você pode encontrá-lo descansando em seus aposentos.</text>
+<text id="11110302">O quarto é fortemente guardado pela frente,
+mas você deve ser capaz de alcançá-lo pelos telhados.</text>
+<text id="11110400">Você pode encontrá-lo descansando em seus aposentos.</text>
+<text id="11110401">O quarto é fortemente guardado pela frente,
+mas você deve ser capaz de alcançá-lo pelos telhados.</text>
 <text id="11110500">(Pai...)</text>
 <text id="11110501">(Não posso quebrar o Código de Ferro.)</text>
 <text id="11110600">Eu não posso.</text>
@@ -1844,17 +1869,19 @@ da Floreterna e o levou consigo.</text>
 <text id="11112107">(Bocejo...)</text>
 <text id="11112108">Você podia ter me acordado, sabia?</text>
 <text id="11112109">Creio que não.</text>
-<text id="11120000">%null%</text>
-<text id="11120001">%null%</text>
-<text id="11120100">%null%</text>
-<text id="11120101">%null%</text>
-<text id="11120200">%null%</text>
-<text id="11120201">%null%</text>
-<text id="11120300">%null%</text>
-<text id="11120301">%null%</text>
-<text id="11120400">%null%</text>
-<text id="11120401">%null%</text>
-<text id="11120402">%null%</text>
+<text id="11120000">Acho que você deve ir.</text>
+<text id="11120001">Minha fé está em você, shinobi.</text>
+<text id="11120100">Acho que você deve ir.</text>
+<text id="11120101">Minha fé está em você, shinobi.</text>
+<text id="11120200">Acho que você deve ir.</text>
+<text id="11120201">Minha fé está em você, shinobi.</text>
+<text id="11120300">Acho que você deve ir.</text>
+<text id="11120301">Minha fé está em você, shinobi.</text>
+<text id="11120400">Ah, sim, meu avô, Isshin Ashina
+pode possuir algum conhecimento da maldição.</text>
+<text id="11120401">Você pode encontrá-lo descansando em seus aposentos.</text>
+<text id="11120402">O quarto é fortemente guardado pela frente,
+mas você deve ser capaz de alcançá-lo pelos telhados.</text>
 <text id="11120600">Ah, queria te perguntar.</text>
 <text id="11120601">Você sentiu um perfume no incensário?</text>
 <text id="11120700">Está partindo?</text>
@@ -2267,17 +2294,33 @@ Sei que já disse isso, mas estou acostumado com a dor.</text>
 <text id="13050000">Vamos...</text>
 <text id="13050001">Tentar acabar comigo...</text>
 <text id="13050002">é um grande desperdício de tempo.</text>
-<text id="14000000">%null%</text>
-<text id="14000001">%null%</text>
-<text id="14000002">%null%</text>
-<text id="14000003">%null%</text>
-<text id="14000004">%null%</text>
-<text id="14100000">%null%</text>
-<text id="14100001">%null%</text>
-<text id="14100002">%null%</text>
-<text id="14100003">%null%</text>
-<text id="14100100">%null%</text>
-<text id="14100101">%null%</text>
+<text id="13040000">Treinamento livre: Tutorial de Deflexão - Início
+    Ex.: "Derrote um inimigo com o que você aprendeu até agora."</text>
+<text id="13040100">Treinamento livre: Tutorial de Deflexão - Lembrança
+    Ex.: "Lembre-se das bases da esgrima. Repita ataques e deflexões."</text>
+<text id="13040200">Treinamento livre: Tutorial de Evasão - Lembrança
+    Ex.: "Lembre-se das bases da evasão. Afaste-se de um inimigo e ataque."</text>
+<text id="13040300">Treinamento livre: Tutorial de Ataque Perigoso - Lembrança
+    Ex.: "Lembre-se das bases dos ataques perigosos. Deflexa ataques de estocada ou salte sobre ataques de varredura."</text>
+<text id="13040400">Treinamento livre - Completo
+    Ex.: "Tudo bem. Você não tem problemas com as bases."</text>
+<text id="13050000">Vamos...</text>
+<text id="13050001">Tentando me derrubar...</text>
+<text id="13050002">é um desperdício de energia.</text>
+<text id="14000000">Ei, senhor! Você aí!</text>
+<text id="14000001">Senhor shinobi, senhor!</text>
+<text id="14000002">Tenho essa loja aqui!</text>
+<text id="14000003">Pare por aqui um momento, hã?</text>
+<text id="14000004">Barato como palha, só para você!</text>
+<text id="14100000">Senhor!
+    Ah, senhor, acho que um leque de aço seria perfeito para você.</text>
+<text id="14100001">Com isso, você não teria medo de arco ou besta.</text>
+<text id="14100002">Por que, até mesmo fogo de canhão
+    BANG! direto na sua cabeça!</text>
+<text id="14100003">Eu lhe digo.</text>
+<text id="14100100">Senhor! Bem-vindo, bem-vindo!</text>
+<text id="14100101">Agora agora, por favor, compre tudo.
+    Compre toda a prateleira inteira.</text>
 <text id="14100200">Eu mandei esses idiotas pararem com isso.</text>
 <text id="14100201">Mas não param, continuam mandando mais. É uma dor de cabeça...</text>
 <text id="14100202">Hã? Você é comparsa dos noitibós?</text>
@@ -2319,13 +2362,16 @@ Eles estavam cercando um garotinho... </text>
 <text id="14100614">Devo agradecê-lo...</text>
 <text id="14100615">Leve o que quiser... quando eu partir... </text>
 <text id="14100616">He, he... Eu deixaria para você agora... mas... mas...</text>
-<text id="14110000">%null%</text>
-<text id="14110001">%null%</text>
-<text id="14110002">%null%</text>
-<text id="14110003">%null%</text>
-<text id="14110004">%null%</text>
-<text id="14110005">%null%</text>
-<text id="14110100">Agora, na minha opinião... </text>
+<text id="14110000">Aliás, senhor,
+    você viu algum daqueles patifes com chapéus de cone de madeira?</text>
+<text id="14110001">Eles são uns teimosos, não é?</text>
+<text id="14110002">Eu preferiria encher meus bolsos de ouro
+    do que encher baldes de sangue, você sabe?</text>
+<text id="14110003">Então eu os deixei para lá.</text>
+<text id="14110004">Diga-me, senhor, se você tivesse um machado pesado,
+    você poderia partir aqueles chapéus de madeira em dois...</text>
+<text id="14110005">Se você encontrar algum, dê-lhes uma boa surra, pode ser? Por mim?</text>
+<text id="14110100">Agora, na minha opinião...</text>
 <text id="14110101">Este leque de ferro seria perfeito para você.</text>
 <text id="14110102">Com isso, você não precisará se preocupar com flechas ou balas.</text>
 <text id="14110103">Não sei, talvez aguente até um tiro de canhão.</text>
@@ -2354,11 +2400,15 @@ Eles estavam cercando um garotinho... </text>
 <text id="14110222">Sim. Falamo-nos.</text>
 <text id="14110223">He, he... Você é cheio de surpresas.</text>
 <text id="14110224">Impressionante você ainda ter a cabeça.</text>
-<text id="14120000">%null%</text>
-<text id="14120100">%null%</text>
-<text id="14120101">%null%</text>
-<text id="14120200">%null%</text>
-<text id="14120201">%null%</text>
+<text id="14120000">Vamos embora, senhor?
+    Volte a visitar-me quando quiser!</text>
+    <text id="14120100">Vamos embora, senhor?</text>
+    <text id="14120101">Recomendo muito o leque de aço, senhor.
+    Volte a visitar-me se mudar de ideia.</text>
+    <text id="14120200">Ah, sim! Só o melhor para você, senhor!
+    O aço preto profundo combina com seu olhar firme!</text>
+    <text id="14120201">Ah, eu adoro quando todos saem felizes!
+    Volte a visitar-me! Volte a visitar-me!</text>
 <text id="14120300">Bem, estarei aqui, enchendo o bolso.</text>
 <text id="14120301">Volte quando quiser.</text>
 <text id="14120400">Até mais ver.</text>
@@ -2550,15 +2600,15 @@ Obrigar os outros a fazerem seu trabalho sujo. Controle mental, entende?</text>
 <text id="15030202">Ah, e ele está bem ali...</text>
 <text id="15030300"></text>
 <text id="15030301">Por que você o esconderia de mim?!</text>
-<text id="15060000">%null%</text>
-<text id="15060001">%null%</text>
-<text id="15060002">%null%</text>
-<text id="15060100">%null%</text>
-<text id="15060101">%null%</text>
-<text id="15060102">%null%</text>
-<text id="15060200">%null%</text>
-<text id="15060201">%null%</text>
-<text id="15060202">%null%</text>
+<text id="15060000">Ahhh!</text>
+<text id="15060001">Oh... Você também...</text>
+<text id="15060002">Como ousa esconder o Senhor Sakuza de mim!</text>
+<text id="15060100">Oh, Senhor Sakuza...</text>
+<text id="15060101">Se você não vem até mim</text>
+<text id="15060102">Ao menos, em vez disso...</text>
+<text id="15060200">Ohhh... Estou tão feliz.</text>
+<text id="15060201">O Senhor Sakuza... me trouxe aquele homem em seu lugar...</text>
+<text id="15060202">Oh, e ele está bem ali...</text>
 <text id="15060300">Você finge não me ver?</text>
 <text id="15060301">Ah... Você, também...</text>
 <text id="15060302">Como ousa esconder Lorde Sakuza de mim!</text>
@@ -2738,14 +2788,15 @@ fiquei irritado quando vi seu rosto.</text>
 <text id="17001905">Mil perdões. Permita-me recompor...</text>
 <text id="17001906">Fique à vontade, compre algo, senhor.</text>
 <text id="17002000">.........</text>
-<text id="17010000">%null%</text>
-<text id="17010001">%null%</text>
-<text id="17010002">%null%</text>
-<text id="17010003">%null%</text>
-<text id="17010004">%null%</text>
-<text id="17010100">%null%</text>
-<text id="17010101">%null%</text>
-<text id="17010102">%null%</text>
+<text id="17010000">Hah hah hah. Você está fazendo papel de bobo novamente, eu vejo.</text>
+<text id="17010001">Nós somos iguais, você e eu. Sabemos como virar uma crise a nosso favor.</text>
+<text id="17010002">Não me diga que você não fez uma fortuna quando os bandidos atacaram a Mansão Hirata?</text>
+<text id="17010003">Um amigo meu roubou um "canhão de fogo" daquela mansão.</text>
+<text id="17010004">Se você disparasse fogo daquela coisa, o "Ogro Vermelho" lá em frente choraria como um bebê.</text>
+<text id="17010100">Se você tivesse aquele "canhão de fogo" que estava na Mansão Hirata--</text>
+<text id="17010101">O "Ogro Vermelho" lá em frente sujaria as calças! Hah hah hah.</text>
+<text id="17010102">A Mansão Hirata tinha outras coisas além do canhão de fogo.
+Pólvora de shinobi ou algo assim.</text>
 <text id="17010800">Que noite?</text>
 <text id="17010801">O quê? Você não lembra...?</text>
 <text id="17010802">Não.</text>
@@ -2798,9 +2849,10 @@ talvez eu possa te contar alguns outros detalhes úteis.</text>
 para nenhum lado.</text>
 <text id="17011200">Mudou de ideia, querido senhor?</text>
 <text id="17011201">Se pudesse me dar umas moedinhas...</text>
-<text id="17011202">%null%</text>
-<text id="17011203">%null%</text>
-<text id="17011204">%null%</text>
+<text id="17011202">Vou guardar algo útil especialmente para você. Aposto que sim!</text>
+<text id="17011203">E, como um pequeno bônus...
+Vou lhe contar tudo sobre "aquela noite".</text>
+<text id="17011204">O que você acha? É um ótimo negócio, não é?</text>
 <text id="17011300">Vou comprar as informações.</text>
 <text id="17011301">Muito obrigado pela contribuição!</text>
 <text id="17011302">Já que você é um shinobi...</text>
@@ -2858,7 +2910,7 @@ um amigo meu o roubou.</text>
 <text id="17011608">Esse é o som feito pelo fogo na hora do disparo.</text>
 <text id="17011609">Eu já possuo um.</text>
 <text id="17011610">O quê?!</text>
-<text id="17011611">%null%</text>
+<text id="17011611">Eu disse que eu já tenho um</text>
 <text id="17011612">Ah... bom, que pena.</text>
 <text id="17011613">Esta será uma cortesia minha.</text>
 <text id="17011700">Vou comprar as informações.</text>
@@ -3219,16 +3271,35 @@ O mínimo que preciso fazer é salvar minha mãe...</text>
 <text id="18910200">.........</text>
 <text id="18910201">(Respiração ruidosa...)</text>
 <text id="18910202">Minha... querida mãe...</text>
-<text id="19000000">%null%</text>
-<text id="19000001">%null%</text>
-<text id="19000002">%null%</text>
-<text id="19000003">%null%</text>
-<text id="19000004">%null%</text>
-<text id="19000100">%null%</text>
-<text id="19000101">%null%</text>
-<text id="19000102">%null%</text>
-<text id="19000200">%null%</text>
-<text id="19000201">%null%</text>
+<text id="19000000">Depois da batalha--</text>
+<text id="19000001">Eu coletar "valores" e trazê-los para o Mestre Anayama.</text>
+<text id="19000002">Então eu posso comer uma refeição cozida.</text>
+<text id="19000003">Oh, Mestre Anayama é uma pessoa maravilhosa.</text>
+<text id="19000004">Ele nos libertou da "Propriedade Hirata".</text>
+<text id="19000100">Muh? Você... </text>
+<text id="19000101">Já vi você antes... </text>
+<text id="19000102">Não foi?</text>
+<text id="19000200">Quente... Tão quente... </text>
+<text id="19000201">Queima... Queima... </text>
+<text id="19000202">Estou queimando... </text>
+<text id="20000000">Eek!</text>
+<text id="20000001">....Qu-Quem é você?</text>
+<text id="20000002">Eu não sou um ladrão.</text>
+<text id="20000003">(ofegante) ...Y-Você é do jovem senhor! Oh, graças a Deus.</text>
+<text id="20000004">Honrado Shinobi, aqueles bandidos imundos estão atrás do jovem senhor. </text>
+<text id="20000005">Eles já subiram a colina e incendiaram a propriedade.</text>
+<text id="20000006">Parecia que o jovem senhor não tinha como escapar...</text>
+<text id="20000007">Eu confio isso a você.</text>
+<text id="20000008">Eu imploro, Shinobi. Por favor, salve o jovem senhor.</text>
+<text id="20000009">Eu vou.</text>
+<text id="20000010">%null%</text>
+<text id="20000100">O jovem senhor ainda deve estar em algum lugar dentro da propriedade.</text>
+<text id="20000101">Honrado Shinobi, por favor, salve o jovem senhor!</text>
+<text id="20000102">Que as fortunas da guerra o abençoem.</text>
+<text id="20000103">Eu rezo para que seja de ajuda.</text>
+<text id="20000104">Obrigado.</text>
+<text id="20000200">Há um Pequeno Santuário por perto. Uma ferramenta shinobi é mantida lá dentro.</text>
+<text id="20000201">Essa chave que eu dei a você deve abrir a porta.</text>
 <text id="19000202">%null%</text>
 <text id="20000000">Eek!</text>
 <text id="20000001">Que-quem é você?</text>
@@ -3284,18 +3355,23 @@ Cuide do jovem lorde.</text>
 <text id="21060101">Eu lutei ao lado dos Ashina na reconquista desta terra!</text>
 <text id="21060200">Eu... Eu falhei...</text>
 <text id="21060201">Lorde... Ku... ro...</text>
-<text id="22000000">%null%</text>
-<text id="22000100">%null%</text>
-<text id="22000200">%null%</text>
-<text id="22000300">%null%</text>
-<text id="22000400">%null%</text>
-<text id="22000500">%null%</text>
-<text id="22000600">%null%</text>
-<text id="22000700">%null%</text>
-<text id="22000800">%null%</text>
-<text id="22000900">%null%</text>
-<text id="22001000">%null%</text>
-<text id="22001100">%null%</text>
+<text id="22000000">"Então você deseja romper a maldição da imortalidade.
+    Vou contar o que sei"</text>
+    <text id="22000100">"Então você deseja romper a maldição da imortalidade.
+    Vou contar o que sei"</text>
+    <text id="22000200">"Parece que você encontrou um Tesouro Sagrado"</text>
+    <text id="22000300">"Parece que você encontrou um Tesouro Sagrado"</text>
+    <text id="22000400">"Você tem os Tesouros Sagrados do Vale e da Vila.
+    O último Tesouro Sagrado está com o Príncipe em pessoa"</text>
+    <text id="22000500">"Você tem os Tesouros Sagrados do Vale e da Vila.
+    O último Tesouro Sagrado está com o Príncipe em pessoa"</text>
+    <text id="22000600">"Agora você tem todos os Tesouros Sagrados, vá para o altar no fundo da Vila da Fonte.
+    O caminho para a Capital Submersa agora está aberto"</text>
+    <text id="22000700">"Sinto que algo está errado. Volte para o Príncipe no Castelo Principal"</text>
+    <text id="22000800">"Você derrotou o Dragão Sakura e reivindicou suas Lágrimas"</text>
+    <text id="22000900">Fale: Depois de derrotar o Dragão Sereia pela segunda vez</text>
+    <text id="22001000">Fale: Notou a conexão entre o Príncipe e o Protagonista</text>
+    <text id="22001100">Fale: Transmita os segredos da Lâmina da Mortalidade ao Protagonista</text>
 <text id="22001200">Por que busca este lugar?</text>
 <text id="22001201">Estou em busca da Lâmina Mortal.</text>
 <text id="22001202">Conhece a lâmina que não pode ser empunhada?</text>
@@ -3793,14 +3869,15 @@ e me tornarei o leito que retornará a Linhagem do Dragão ao seu lugar de direi
 <text id="22005102">Entendido.</text>
 <text id="22005103">%null%</text>
 <text id="22005104">%null%</text>
-<text id="22010000">%null%</text>
-<text id="22010001">%null%</text>
-<text id="22010002">%null%</text>
-<text id="22010003">%null%</text>
-<text id="22010004">%null%</text>
-<text id="22010100">%null%</text>
-<text id="22010200">%null%</text>
-<text id="22010300">%null%</text>
+<text id="22010000">Os Tesouros Sagrados seguem as Águas Rejuvenescedoras.</text>
+<text id="22010001">Um está consagrado na Vila da Fonte.</text>
+<text id="22010002">Outro está consagrado no Vale do Bodisatva.</text>
+<text id="22010003">E outro mais foi levado para algum lugar, muito longe.</text>
+<text id="22010004">Encontre os Tesouros Sagrados, e o caminho que se abrirá
+revelará a chave para quebrar a maldição.</text>
+<text id="22010100">"Um Tesouro Sagrado pode ser encontrado no Vale do Bodisatva, atrás do Castelo Ashina"</text>
+<text id="22010200">Um Tesouro Sagrado pode ser encontrado na Vila da Fonte, além do Calabouço Abandonado"</text>
+<text id="22010300"> "Com a Lâmina Imortal, você pode acabar com as bestas imortais malignas infestadas de parasitas"</text>
 <text id="22010400">Sim.</text>
 <text id="22010401">Entendo... Muito bem.</text>
 <text id="22010500">.........</text>
@@ -3839,13 +3916,13 @@ e me tornarei o leito que retornará a Linhagem do Dragão ao seu lugar de direi
 <text id="22011008">O que está escrito aqui...</text>
 <text id="22011009">Precisarei discutir minuciosamente com as outras crianças.</text>
 <text id="22011010">Sim, por favor.</text>
-<text id="22011100">%null%</text>
-<text id="22011101">%null%</text>
-<text id="22011102">%null%</text>
+<text id="22011100">Isso é para você.</text>
+<text id="22011101">Isso é...</text>
+<text id="22011102">Eu sou suposto dar isso a você.</text>
 <text id="22011103">%null%</text>
-<text id="22011104">%null%</text>
+<text id="22011104">.........</text>
 <text id="22011105">%null%</text>
-<text id="22011106">%null%</text>
+<text id="22011106">.........</text>
 <text id="22011107">%null%</text>
 <text id="22011108">%null%</text>
 <text id="22011109">%null%</text>
@@ -3949,21 +4026,21 @@ me tornar um leito para retornar a Linhagem do Dragão ao seu lar.</text>
 <text id="22012093">%null%</text>
 <text id="22012094">%null%</text>
 <text id="22012095">.........</text>
-<text id="22020000">%null%</text>
-<text id="22020100">%null%</text>
-<text id="22020200">%null%</text>
-<text id="22020300">%null%</text>
-<text id="22020400">%null%</text>
+<text id="22020000">"Retorne aqui assim que tiver os Tesouros Sagrados do Vale e da Vila"</text>
+<text id="22020100">"Retorne aqui assim que encontrar o Tesouro Sagrado restante"</text>
+<text id="22020200">"Retorne aqui assim que encontrar o Tesouro Sagrado restante"</text>
+<text id="22020300">"O último Tesouro Sagrado está com o Príncipe em pessoa. Tente visitar Sua Alteza"</text>
+<text id="22020400">"Vá para a Capital Submersa"</text>
 <text id="22020500">Adeus, shinobi do Herdeiro Divino.</text>
 <text id="22020501">Que a colheita seja farta onde quer que seus caminhos levem.</text>
 <text id="22020600">Obrigada pela visita.</text>
 <text id="22020700">Então irá se retirar?</text>
 <text id="22020701">Espero que volte a me visitar.</text>
-<text id="22030000">%null%</text>
-<text id="22030001">%null%</text>
-<text id="22030002">%null%</text>
-<text id="22030003">%null%</text>
-<text id="22030004">%null%</text>
+<text id="22030000">"Por favor, retire-se..."</text>
+<text id="22030001">"Este templo é lar de seres imortais."</text>
+<text id="22030002">"Seres que não temem nem lâmina nem truques de ninja."</text>
+<text id="22030003">"Não jogue sua vida fora desnecessariamente."</text>
+<text id="22030004">"Vá embora agora."</text>
 <text id="22030100">%null%</text>
 <text id="22030101">%null%</text>
 <text id="22030200">%null%</text>
@@ -4018,19 +4095,22 @@ me tornar um leito para retornar a Linhagem do Dragão ao seu lar.</text>
 <text id="22031100">Acho melhor não.</text>
 <text id="22031101">Compreendo.</text>
 <text id="22031102">Se precisar de minha ajuda, não hesite em pedir.</text>
-<text id="22040000">%null%</text>
-<text id="22040100">%null%</text>
-<text id="22040200">%null%</text>
-<text id="22040300">%null%</text>
-<text id="22040400">%null%</text>
-<text id="22040500">%null%</text>
-<text id="22050000">%null%</text>
-<text id="22050100">%null%</text>
-<text id="22050200">%null%</text>
-<text id="23000000">%null%</text>
-<text id="23000100">%null%</text>
-<text id="23000101">%null%</text>
-<text id="23000200">%null%</text>
+<text id="22040000">"Converter Lágrimas Amargas de um Dragão Sakura em Lágrimas Sinceras de um Dragão Sakura?"</text>
+<text id="22040100">"Converter Lágrimas Sinceras de um Dragão Sakura em Lágrimas Amargas de um Dragão Sakura?"</text>
+<text id="22040200">Diálogo após converter Lágrimas de Dragão Sakura</text>
+<text id="22040300">Diálogo após recusar converter Lágrimas de Dragão Sakura</text>
+<text id="22040400">Diálogo após converter para Lágrimas Divinas de um Dragão Sakura</text>
+<text id="22040500">Diálogo após recusar converter para Lágrimas Divinas de um Dragão Sakura</text>
+<text id="22050000">Fale: Missão do Templo da Página não iniciada.
+Diálogo se você tiver as Lágrimas de Dragão Sereia</text>
+<text id="22050100">Fale: Missão do Templo da Página não concluída
+e você tem as Lágrimas de Dragão Sereia</text>
+<text id="22050200">Fale: Missão do Templo da Página concluída
+e você tem as Lágrimas de Dragão Sereia</text>
+<text id="23000000">"O Rival apareceu e matou o Mestre de Espadas"</text>
+<text id="23000100">"O Príncipe foi levado pelo Rival. Ele está esperando no Campo de Grama Prateada"</text>
+<text id="23000101">"Membros do exército privado do Rival beberam as Águas Rejuvenescedoras"</text>
+<text id="23000200">"O Príncipe foi levado pelo Rival. Ele está esperando no Campo de Grama Prateada"</text>
 <text id="23000300">Por fim, consegui cumprir as ordens do meu mestre.</text>
 <text id="23000301">Sou grata a você.</text>
 <text id="23000302">Quem extamente... é o seu mestre?</text>
@@ -4573,9 +4653,9 @@ Eu o entendo, de fato.</text>
 <text id="23020000">Por favor, encontre o Lorde Kuro.</text>
 <text id="23020100">Eu oro...</text>
 <text id="23020101">para que o Lorde Kuro conquiste a humanidade.</text>
-<text id="23060000">%null%</text>
-<text id="23060100">%null%</text>
-<text id="23060200">%null%</text>
+<text id="23060000">Shu-... ra...</text>
+<text id="23060100">Senhor... Isshin...</text>
+<text id="23060200">Então... é este... o caminho... que você escolheu...</text>
 <text id="23060300">Vamos começar...</text>
 <text id="23060400">Não... Ainda não...</text>
 <text id="23060401">Não posso permitir... que um Shura caminhe livremente...</text>
@@ -5510,13 +5590,16 @@ E, acima de tudo, nas suas próprias batalhas que ainda irá lutar.</text>
 <text id="25030600">Unnggghhhh...</text>
 <text id="25030601">Ahhhhh...</text>
 <text id="25030602">Meu dever... me perdoe...</text>
-<text id="26000000">%null%</text>
-<text id="26000001">%null%</text>
-<text id="26000002">%null%</text>
-<text id="26000003">%null%</text>
-<text id="26000004">%null%</text>
-<text id="26000005">%null%</text>
-<text id="26000100">%null%</text>
+<text id="26000000">Eu... Eu fui "levado", você sabe.</text>
+<text id="26000001">Regras... Ashina tem regras... 
+"Levados" têm que ir ao Templo.</text>
+<text id="26000002">Tudo o que eu realmente quero
+é voltar para casa, de volta à aldeia...</text>
+<text id="26000003">Mas se eu chorar--</text>
+<text id="26000004">A Voz da Mãe me conforta.</text>
+<text id="26000005">Oh, Mãe...  
+(soluço)... Estou tão grato...</text>
+<text id="26000100">Ah, é você... Precisa de alguma coisa?</text>
 <text id="26000200">(Chorando) Me deixaram aqui...</text>
 <text id="26000201">Aonde foi todo mundo? Por que deixaram o Kotaro para trás?</text>
 <text id="26000202">O que vou fazer agora...?   </text>
@@ -5573,18 +5656,24 @@ E, acima de tudo, nas suas próprias batalhas que ainda irá lutar.</text>
 <text id="26001500">(Chorando) Me deixaram sozinho...</text>
 <text id="26001501">E preciso encontrar a "florzinha toda branca".</text>
 <text id="26001502">Onde será que ela está?</text>
-<text id="26010000">%null%</text>
-<text id="26010001">%null%</text>
-<text id="26010002">%null%</text>
-<text id="26010003">%null%</text>
-<text id="26010004">%null%</text>
-<text id="26010005">%null%</text>
-<text id="26010100">%null%</text>
-<text id="26010101">%null%</text>
-<text id="26010102">%null%</text>
-<text id="26010103">%null%</text>
-<text id="26010200">%null%</text>
-<text id="26010300">%null%</text>
+<text id="26010000">Os monges no Templo,
+    são como eu, você sabe.</text>
+    <text id="26010001">Eles também foram "levados".</text>
+    <text id="26010002">Ninguém quebra as regras.
+    Todos vão ao Templo.</text>
+    <text id="26010003">Mas, na verdade, todos estão com medo.</text>
+    <text id="26010004">Se formos "levados" novamente,
+    desapareceremos para sempre.</text>
+    <text id="26010005">Eu... 
+    (soluço)... Não quero desaparecer.</text>
+    <text id="26010100">Ahhh, você também!</text>
+    <text id="26010101">Você ouviu a Voz da Mãe!?</text>
+    <text id="26010102">Aquela voz lenta e sombria
+    só pode pertencer a Ela.</text>
+    <text id="26010103">Depois que ouvi a Voz da Mãe,
+    parei de trabalhar para aqueles monges.</text>
+    <text id="26010200">Diga que você se separou do Vendedor Bandido</text>
+    <text id="26010300">Revele a localização do Vendedor Bandido</text>
 <text id="26010400">Por que você chora?</text>
 <text id="26010401">Todo mundo sumiu, estou sozinho.</text>
 <text id="26010402">E quem seria todo mundo?</text>
@@ -5876,12 +5965,12 @@ perto da fonte.</text>
 <text id="27910005">Ah, certo...</text>
 <text id="27910100">.........</text>
 <text id="27910101">(Respiração ruidosa)</text>
-<text id="28000000">%null%</text>
-<text id="28000100">%null%</text>
-<text id="28000200">%null%</text>
-<text id="28000300">%null%</text>
-<text id="28000400">%null%</text>
-<text id="28000500">%null%</text>
+<text id="28000000">Speak to_Incoherent muttering through the door</text>
+<text id="28000100">Speak to_Incoherent muttering_Liver... Give me liver... </text>
+<text id="28000200">Speak to_Incoherent muttering_If I have the liver I can ascend to the capital</text>
+<text id="28000300">Speak to_Incoherent muttering_Then I could join their noble ranks</text>
+<text id="28000400">Speak to_After opting to give the fresh Innsmouth liver</text>
+<text id="28000500">Speak to_After giving the fresh Innsmouth liver</text>
 <text id="28000600">(Bebendo)</text>
 <text id="28000601">Ahhh... Veremos agora... </text>
 <text id="28000602">Sim... posso sentir... Dissolvendo... Liquefazendo... </text>
@@ -6472,28 +6561,30 @@ Aceite isto com nossos agradecimentos.</text>
 <text id="31031701">Eu, Dojun, finalmente obtive sucesso!</text>
 <text id="31031800">Como ousa...!</text>
 <text id="31031801">Como ousa interromper o procedimento!</text>
-<text id="31050000">%null%</text>
-<text id="31050100">%null%</text>
-<text id="31050200">%null%</text>
-<text id="31050300">%null%</text>
-<text id="31050400">%null%</text>
-<text id="31050500">%null%</text>
-<text id="31050600">%null%</text>
-<text id="31050700">%null%</text>
-<text id="31050800">%null%</text>
-<text id="31050900">%null%</text>
-<text id="31051000">%null%</text>
-<text id="31060000">%null%</text>
-<text id="31060100">%null%</text>
-<text id="31060200">%null%</text>
-<text id="31060300">%null%</text>
-<text id="31060400">%null%</text>
-<text id="31060500">%null%</text>
-<text id="31060700">%null%</text>
-<text id="31060800">%null%</text>
-<text id="31060900">%null%</text>
-<text id="31061000">%null%</text>
-<text id="31061100">%null%</text>
+<text id="31050000">Expressa gratidão por ter liderado o "forte shinobi" até ele</text>
+<text id="31050100">Desbloqueia habilidades para o jogador</text>
+<text id="31050200">Ansioso para experimentar</text>
+<text id="31050300">Ansioso para experimentar_lembrança</text>
+<text id="31050400">Dá dica sobre o Sujeito de Teste Shinobi
+localizado na pequena ilha ao se dirigir para o Templo</text>
+<text id="31050500">Quer que o jogador lute contra o Sujeito de Teste Shinobi</text>
+<text id="31050600">Mate o Sujeito de Teste Shinobi e traga seu fígado para mim</text>
+<text id="31050700">Quer que o jogador lute contra o Sujeito de Teste Shinobi_lembrança</text>
+<text id="31050800">Você trouxe o fígado do Sujeito de Teste Shinobi?</text>
+<text id="31050900">Com isso, posso continuar a fase final da minha pesquisa</text>
+<text id="31051000">Com isso, posso continuar a fase final da minha pesquisa_lembrança</text>
+<text id="31060000">Expressa gratidão por ter liderado o "forte samurai" até ele</text>
+<text id="31060100">Desbloqueia habilidades para o jogador</text>
+<text id="31060200">Ansioso para experimentar</text>
+<text id="31060300">Ansioso para experimentar_lembrança</text>
+<text id="31060400">Dá dica sobre o Sujeito de Teste Samurai
+localizado na pequena ilha ao se dirigir para o Templo</text>
+<text id="31060500">Quer que o jogador lute contra o Sujeito de Teste Samurai</text>
+<text id="31060700">Mate o Sujeito de Teste Samurai e traga seu fígado para mim</text>
+<text id="31060800">Quer que o jogador lute contra o Sujeito de Teste Samurai_lembrança</text>
+<text id="31060900">Você trouxe o fígado do Sujeito de Teste Samurai?</text>
+<text id="31061000">Com isso, posso continuar a fase final da minha pesquisa</text>
+<text id="31061100">Com isso, posso continuar a fase final da minha pesquisa_lembrança</text>
 <text id="31900000">(Respiração ruidosa)</text>
 <text id="31900001">Você está mal...</text>
 <text id="31900002">Esses... sintomas...</text>
@@ -6564,8 +6655,9 @@ Aceite isto com nossos agradecimentos.</text>
 <text id="31910402">Maldita praga do dragão... Interferindo... com nosso tratamento...</text>
 <text id="31910500">.........</text>
 <text id="31910501">Dosaku...</text>
-<text id="32000000">%null%</text>
-<text id="32000100">%null%</text>
+<text id="32000000">greeting_1st time: explaining why the Temple boss is not available
+    "You can't fight the boss. Let me teach you the Puppeteer Technique."</text>
+    <text id="32000100">Greeting_1st time: explaining why the Temple boss is not available_reminder</text>
 <text id="32000200">Crias das águas rejuvenescedoras... perdoem-me!</text>
 <text id="32000201">Aquela criança... é a única que restou...</text>
 <text id="32000202">Ela deve se sentir tão só... Trancada naquele aposento... deve se sentir tão só...</text>
@@ -7517,8 +7609,8 @@ Esperava vê-lo com meus próprios olhos, mas parece que não tive sorte.</text>
 <text id="60000007">%null%</text>
 <text id="60000008">%null%</text>
 <text id="60000009">%null%</text>
-<text id="60000010">No Text</text>
-<text id="60000011">No Text</text>
+<text id="60000010">Aquele brutamontes de rosto vermelho é mesmo temível.</text>
+<text id="60000011">As coisas podem ficar muito fora de controle sem uma chama adequada...</text>
 <text id="60000012">%null%</text>
 <text id="60000013">%null%</text>
 <text id="60000014">%null%</text>
@@ -7527,9 +7619,9 @@ Esperava vê-lo com meus próprios olhos, mas parece que não tive sorte.</text>
 <text id="60000017">%null%</text>
 <text id="60000018">%null%</text>
 <text id="60000019">%null%</text>
-<text id="60000020">No Text</text>
-<text id="60000021">No Text</text>
-<text id="60000022">No Text</text>
+<text id="60000020">Você ouviu?</text>
+<text id="60000021">Dizem que as folhas ainda estão vermelhas profundas além do desfiladeiro atrás do castelo.</text>
+<text id="60000022">Que pensamento curioso...</text>
 <text id="60000023">%null%</text>
 <text id="60000024">%null%</text>
 <text id="60000025">%null%</text>
@@ -7537,8 +7629,8 @@ Esperava vê-lo com meus próprios olhos, mas parece que não tive sorte.</text>
 <text id="60000027">%null%</text>
 <text id="60000028">%null%</text>
 <text id="60000029">%null%</text>
-<text id="60000030">No Text</text>
-<text id="60000031">No Text</text>
+<text id="60000030">As vozes... elas chamam de baixo...</text>
+<text id="60000031">Heh heh... Será que finalmente é a minha vez?</text>
 <text id="60000032">%null%</text>
 <text id="60000033">%null%</text>
 <text id="60000034">%null%</text>
@@ -7547,9 +7639,10 @@ Esperava vê-lo com meus próprios olhos, mas parece que não tive sorte.</text>
 <text id="60000037">%null%</text>
 <text id="60000038">%null%</text>
 <text id="60000039">%null%</text>
-<text id="60000040">No Text</text>
-<text id="60000041">No Text</text>
-<text id="60000042">No Text</text>
+<text id="60000040">Malditos vermes...invadindo o
+    templo escondido como se fossem os donos do lugar...</text>
+    <text id="60000041">Ainda assim, as técnicas de fogo que eles usam são bem impressionantes.</text>
+    <text id="60000042">Certamente, até o ogro de rosto vermelho encolheria diante da visão.</text>
 <text id="60000043">%null%</text>
 <text id="60000044">%null%</text>
 <text id="60000045">%null%</text>
@@ -7557,18 +7650,20 @@ Esperava vê-lo com meus próprios olhos, mas parece que não tive sorte.</text>
 <text id="60000047">%null%</text>
 <text id="60000048">%null%</text>
 <text id="60000049">%null%</text>
-<text id="60000050">%null%</text>
-<text id="60000100">%null%</text>
-<text id="60000101">%null%</text>
-<text id="60000102">%null%</text>
-<text id="60000103">%null%</text>
-<text id="60000200">%null%</text>
-<text id="60000201">%null%</text>
-<text id="60000202">%null%</text>
-<text id="60000203">%null%</text>
-<text id="60000300">%null%</text>
-<text id="60000301">%null%</text>
-<text id="60000302">%null%</text>
+<text id="60000050">Texto de eavesdrop dummy (o Príncipe Imperial está na Torre da Vista da Lua)</text>
+<text id="60000100">Aquele brutamontes de cara vermelha. Mesmo acorrentado, ele está fora de controle.</text>
+<text id="60000101">Mas você sabe o que dizem: "O ogro vermelho tem medo da chama."</text>
+<text id="60000102">Ahh. O vendedor ambulante perto dos estábulos estava murmurando algo sobre isso.</text>
+<text id="60000103">Ela é a única daqueles vagabundos de Hirata que ainda tem algum juízo.</text>
+<text id="60000200">Qual é o status do "Príncipe Imperial"?</text>
+<text id="60000201">Ele está na "Torre da Vista da Lua" o dia todo, com seus livros.</text>
+<text id="60000202">Precisamos mesmo de todos esses guardas para um garotinho?</text>
+<text id="60000203">Acho que é porque o pegaram em Hirata.
+Um órfão da linhagem maldita.</text>
+<text id="60000300">Aquela velha bruxa no "prédio abandonado na encosta da montanha".</text>
+<text id="60000301">Ela nunca vai parar com aquela maldita "campainha"?</text>
+<text id="60000302">Eu ouço você. Me dá arrepios.
+Nenhum dos que vieram de Hirata sobreviveu com a sanidade intacta.</text>
 <text id="60000303">%null%</text>
 <text id="60000304">%null%</text>
 <text id="60000400">%null%</text>
@@ -7748,7 +7843,7 @@ morderam a isca direitinho. Nem perceberam que é uma armadilha.</text>
 <text id="60003602">Ótimo... Vamos começar quando Lorde Genichiro voltar.</text>
 <text id="60003603">Nós vamos reviver Ashina juntos com o Sangue do Dragão.</text>
 <text id="60003604">Sim...</text>
-<text id="65000000">%null%</text>
+<text id="65000000">Conversation text: TBC</text>
 <text id="65000001">%null%</text>
 <text id="65000002">%null%</text>
 <text id="65000003">%null%</text>
@@ -7758,7 +7853,7 @@ morderam a isca direitinho. Nem perceberam que é uma armadilha.</text>
 <text id="65000007">%null%</text>
 <text id="65000008">%null%</text>
 <text id="65000009">%null%</text>
-<text id="65000010">%null%</text>
+<text id="65000010">Onibotoke dialogue dummy text (the Sculptor saved the protagonist and gave him the Prosthetic Arm)</text>
 <text id="65000011">%null%</text>
 <text id="65000012">%null%</text>
 <text id="65000013">%null%</text>
@@ -7768,7 +7863,7 @@ morderam a isca direitinho. Nem perceberam que é uma armadilha.</text>
 <text id="65000017">%null%</text>
 <text id="65000018">%null%</text>
 <text id="65000019">%null%</text>
-<text id="65000020">%null%</text>
+<text id="65000020">All purpose_Sculptor dialogue dummy (All-purpose dialogue)</text>
 <text id="65000021">%null%</text>
 <text id="65000022">%null%</text>
 <text id="65000023">%null%</text>
@@ -7778,7 +7873,7 @@ morderam a isca direitinho. Nem perceberam que é uma armadilha.</text>
 <text id="65000027">%null%</text>
 <text id="65000028">%null%</text>
 <text id="65000029">%null%</text>
-<text id="65000030">%null%</text>
+<text id="65000030">Sculptor dialogue dummy (bring blueprints to the Sculptor, who will then make Arm Tools)</text>
 <text id="65000031">%null%</text>
 <text id="65000032">%null%</text>
 <text id="65000033">%null%</text>
@@ -7788,7 +7883,7 @@ morderam a isca direitinho. Nem perceberam que é uma armadilha.</text>
 <text id="65000037">%null%</text>
 <text id="65000038">%null%</text>
 <text id="65000039">%null%</text>
-<text id="65000040">%null%</text>
+<text id="65000040">Imperial Prince dialogue dummy (protagonist will find a hidden path and signal with a reed pipe)</text>
 <text id="65000041">%null%</text>
 <text id="65000042">%null%</text>
 <text id="65000043">%null%</text>
@@ -7798,7 +7893,7 @@ morderam a isca direitinho. Nem perceberam que é uma armadilha.</text>
 <text id="65000047">%null%</text>
 <text id="65000048">%null%</text>
 <text id="65000049">%null%</text>
-<text id="65000050">%null%</text>
+<text id="65000050">Dialogue dummy text (talk to receive the Imperial Prince's bell)</text>
 <text id="65000051">%null%</text>
 <text id="65000052">%null%</text>
 <text id="65000053">%null%</text>
@@ -7808,21 +7903,25 @@ morderam a isca direitinho. Nem perceberam que é uma armadilha.</text>
 <text id="65000057">%null%</text>
 <text id="65000058">%null%</text>
 <text id="65000059">%null%</text>
-<text id="65000060">%null%</text>
-<text id="65000100">%null%</text>
-<text id="65000101">%null%</text>
-<text id="65000102">%null%</text>
-<text id="65000200">%null%</text>
-<text id="65000201">%null%</text>
-<text id="65000202">%null%</text>
-<text id="65000203">%null%</text>
-<text id="65000300">%null%</text>
-<text id="65000301">%null%</text>
-<text id="65000400">%null%</text>
-<text id="65000401">%null%</text>
-<text id="65000500">%null%</text>
-<text id="65000501">%null%</text>
-<text id="65000502">%null%</text>
+<text id="65000060">Sculptor dialogue dummy (encourage combat training with the Fleeing Soldier outside the Dilapidated Temple)</text>
+<text id="65000100">Hah! Olha isso queimar!</text>
+<text id="65000101">Essa coisa é incrível.
+Fancy encontrar um cano que cospe fogo.</text>
+<text id="65000102">Aqueles bandidos shinobi carregam as coisas mais estranhas.</text>
+<text id="65000200">Bandido Sujo: Veja aquele guarda-costas?
+Ele derrubou um daqueles shinobi como se fosse nada.</text>
+<text id="65000201">Bandido Cansado: É melhor que seja. Ele é um caçador de shinobi de Hachiyouji.</text>
+<text id="65000202">Bandido Sujo: Aparentemente, ele pega as coisas dos que mata.
+Um colecionador, de certa forma.</text>
+<text id="65000203">Bandido Cansado: Parece que aquele de antes estava carregando algum "pólvora de shinobi."</text>
+<text id="65000300">Você é um dos de Owl, certo?</text>
+<text id="65000301">Agradeço a ajuda.</text>
+<text id="65000400">O jovem mestre está no santuário interno.</text>
+<text id="65000401">Você tem que salvá-lo, não importa o que.</text>
+<text id="65000500">Onde foi que aquele shinobi do Templo foi?</text>
+<text id="65000501">Ele está por aqui em algum lugar.
+Um pequeno canalha vestido de branco.</text>
+<text id="65000502">Fazendo um grande alvoroço sobre alguma coisa.</text>
 <text id="65000600">Aquele shinobi no fundo do poço...</text>
 <text id="65000601">Não o prendemos, nem o amarramos. Isso não preocupa ninguém?</text>
 <text id="65000602">Não. Além de desarmado, ele perdeu completamente a vontade de viver.</text>
