@@ -158,8 +158,8 @@
 <text id="3042">%null%</text>
 <text id="3043">%null%</text>
 <text id="3044">%null%</text>
-<text id="3045">%null%</text>
-<text id="3046">%null%</text>
+<text id="3045">Bomba de fogo de noitebó</text>
+<text id="3046">Bomba de fogo de noitebó</text>
 <text id="3047">%null%</text>
 <text id="3048">%null%</text>
 <text id="3049">%null%</text>
@@ -391,6 +391,8 @@
 <text id="3528">%null%</text>
 <text id="3529">%null%</text>
 <text id="3530">Semente de lucidez</text>
+<text id="3550">Bolsa de Sementes da Lucidez</text>
+<text id="3551">Bolsa de Sementes da Lucidez</text>
 <text id="3580">Arroz de cinco cores</text>
 <text id="3581">Arroz de cinco cores</text>
 <text id="3600">Esfera das riquezas de Mibu</text>
@@ -625,12 +627,12 @@
 <text id="9059">%null%</text>
 <text id="9060">Quadro de contas do dragão</text>
 <text id="9061">Nota promissória</text>
-<text id="9062">Masamune's Edge</text>
-<text id="9063">Murasama's Pestilence</text>
+<text id="9062">Lâmina de Masamune's </text>
+<text id="9063">Peste de Murasama's </text>
 <text id="9064">Taxa de Sangue</text>
-<text id="9065">Siphon Confidence</text>
-<text id="9066">Wolf in Red</text>
-<text id="9067">Seething Flame: Minor</text>
+<text id="9065">Sifão da Confiança</text>
+<text id="9066">Lobo em vermelho</text>
+<text id="9067">Chama Fervente: Menor</text>
 <text id="9068">%null%</text>
 <text id="9069">%null%</text>
 <text id="9070">Água do palácio</text>
@@ -688,7 +690,7 @@
 <text id="9196">%null%</text>
 <text id="9197">%null%</text>
 <text id="9198">%null%</text>
-<text id="9199">Roaring Stream</text>
+<text id="9199">Foco de Guerreiro</text>
 <text id="9200">Recorte do catálogo de ervas</text>
 <text id="9201">Cabeça de Rato do Ministério</text>
 <text id="9202">Cabeça de Rato do Ministério</text>

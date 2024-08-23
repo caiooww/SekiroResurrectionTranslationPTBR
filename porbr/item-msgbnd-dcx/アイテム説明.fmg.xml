@@ -11,8 +11,8 @@ Sentimentos de remorso não se limitam a corações humanos. Eles podem se manif
 
 Realizar certas ações, como utilizar ferramentas prostéticas, consome brasões espirituais.</text>
 <text id="1001">%null%</text>
-<text id="1100">%null%</text>
-<text id="1101">%null%</text>
+<text id="1100">Regenerative Power description</text>
+<text id="1101">Regenerative Power Fragment description</text>
 <text id="1102">%null%</text>
 <text id="1103">%null%</text>
 <text id="1104">%null%</text>
@@ -21,7 +21,7 @@ Realizar certas ações, como utilizar ferramentas prostéticas, consome brasõe
 <text id="1107">%null%</text>
 <text id="1108">%null%</text>
 <text id="1109">%null%</text>
-<text id="1110">%null%</text>
+<text id="1110">Temporary Regenerative Power description</text>
 <text id="1200">%null%</text>
 <text id="2000">O poder de voltar dos mortos, concedido pelo Herdeiro Divino.
 
@@ -76,7 +76,7 @@ Tida por perdida, ela acabou novamente nas mãos do Lobo. O nome Kusabimaru roga
 Uma réplica de um braço humano equipada com uma variedade de mecanismos. Aparentemente foi criada para permitir modificações.
 
 Mesmo marcada por inúmeros cortes e manchas de sangue e óleo, ela está impecavelmente conservada.</text>
-<text id="2390">%null%</text>
+<text id="2390">Allows you to maintain visibility in dark areas.</text>
 <text id="2391">%null%</text>
 <text id="2392">%null%</text>
 <text id="2393">%null%</text>
@@ -247,8 +247,17 @@ Uma pequena parte de Ashina é excessivamente velha. Dizem que o solo, as rochas
 <text id="3042">%null%</text>
 <text id="3043">%null%</text>
 <text id="3044">%null%</text>
-<text id="3045">%null%</text>
-<text id="3046">%null%</text>
+<!-- Parei aqui -->
+<text id="3045">Allows one to detonate a powerful explosive at the risk of death. 
+
+Nightjars are no strangers to the threat of death. In the face of adversity, it may even count as bravery, or perhaps it is reckless desperation. 
+
+Yet few can deny the results of this harbinger of death. Death however, may not deter an immortal...</text>
+<text id="3046">Allows one to detonate a powerful explosive at the risk of death. 
+
+Nightjars are no strangers to the threat of death. In the face of adversity, it may even count as bravery, or perhaps it is reckless desperation. 
+
+Yet few can deny the results of this harbinger of death. Death however, may not deter an immortal...</text>
 <text id="3047">%null%</text>
 <text id="3048">%null%</text>
 <text id="3049">%null%</text>
